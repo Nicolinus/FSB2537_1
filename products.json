@@ -56,7 +56,7 @@
     {
       "id": "merino-sport",
       "name": "Merino Sport",
-      "price": 250,
+      "price": 150,
       "unit": {
         "quantity": 100,
         "uom": "g",
