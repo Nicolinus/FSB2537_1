@@ -26,6 +26,11 @@
           "name": "hrllgrau",
           "image": "fsb_produkte_sk/wendemutzen-hrllgrau.jpg",
           "available": 120
+        },
+        {
+          "name": "dunkelgrau",
+          "image": "fsb_produkte_sk/wendemutzen-dunkelgrau.jpg",
+          "available": 19
         }
       ]
     }
