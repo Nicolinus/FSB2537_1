@@ -91,6 +91,28 @@
           "available": 20
         }
       ]
+    },
+    {
+      "id": "wollschals",
+      "name": "Wollschals",
+      "price": 22,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "",
+      "active": true,
+      "order": 20,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "hellbraun",
+          "image": "fsb_produkte_ek/wollschals-hellbraun.jpg",
+          "available": 20
+        }
+      ]
     }
   ]
 }
