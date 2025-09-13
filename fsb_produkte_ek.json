@@ -37,6 +37,11 @@
           "name": "hellbraun",
           "image": "fsb_produkte_ek/wendemutzen-hellbraun.jpg",
           "available": 120
+        },
+        {
+          "name": "dunkelgrau",
+          "image": "fsb_produkte_ek/wendemutzen-dunkelgrau.jpg",
+          "available": 19
         }
       ]
     }
