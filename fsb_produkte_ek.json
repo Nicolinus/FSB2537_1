@@ -20,6 +20,11 @@
       "id": "handarbeiten",
       "name": "Handarbeiten",
       "order": 30
+    },
+    {
+      "id": "mischgarne",
+      "name": "Mischgarne",
+      "order": 40
     }
   ],
   "products": [
