@@ -5,7 +5,13 @@
     "currency": "EUR",
     "vat_included": true
   },
-  "categories": [],
+  "categories": [
+    {
+      "id": "accessoires",
+      "name": "Accessoires",
+      "order": 10
+    }
+  ],
   "products": [
     {
       "id": "wendemutzen",
@@ -31,6 +37,11 @@
           "name": "dunkelgrau",
           "image": "fsb_produkte_sk/wendemutzen-dunkelgrau.jpg",
           "available": 19
+        },
+        {
+          "name": "hellbraun",
+          "image": "fsb_produkte_sk/wendemutzen-hellbraun.jpg",
+          "available": 120
         }
       ]
     }
