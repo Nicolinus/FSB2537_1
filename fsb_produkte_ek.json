@@ -133,6 +133,28 @@
           "available": 20
         }
       ]
+    },
+    {
+      "id": "stabilia-wollsocken-naturbraun",
+      "name": "Stabilia Wollsocken naturbraun",
+      "price": 4.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "",
+      "active": true,
+      "order": 20,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "36-38",
+          "image": "fsb_produkte_ek/stabilia-wollsocken-naturbraun-36-38.jpg",
+          "available": 30
+        }
+      ]
     }
   ]
 }
