@@ -116,6 +116,16 @@
           "name": "dunkelbraun",
           "image": "fsb_produkte_sk/wollschal-dunkelbraun.jpg",
           "available": 50
+        },
+        {
+          "name": "wollweiß",
+          "image": "fsb_produkte_sk/wollschal-wollweiss.jpg",
+          "available": 50
+        },
+        {
+          "name": "dunkelgrau",
+          "image": "fsb_produkte_sk/wollschal-dunkelgrau.jpg",
+          "available": 50
         }
       ]
     }
