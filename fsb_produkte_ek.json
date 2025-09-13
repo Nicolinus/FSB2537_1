@@ -200,6 +200,11 @@
           "name": "42-44",
           "image": "fsb_produkte_ek/stabilia-wollsocken-jeansblau-42-44.jpg",
           "available": 30
+        },
+        {
+          "name": "45-47",
+          "image": "fsb_produkte_ek/stabilia-wollsocken-jeansblau-45-47.jpg",
+          "available": 30
         }
       ]
     }
