@@ -153,6 +153,11 @@
           "name": "36-38",
           "image": "fsb_produkte_ek/stabilia-wollsocken-naturbraun-36-38.jpg",
           "available": 30
+        },
+        {
+          "name": "39-41",
+          "image": "",
+          "available": 30
         }
       ]
     }
