@@ -135,6 +135,28 @@
       ]
     },
     {
+      "id": "stabilia-wollsocken-jeansblau",
+      "name": "Stabilia Wollsocken jeansblau",
+      "price": 4.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "",
+      "active": true,
+      "order": 14,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "36-38",
+          "image": "",
+          "available": 30
+        }
+      ]
+    },
+    {
       "id": "stabilia-wollsocken-naturbraun",
       "name": "Stabilia Wollsocken naturbraun",
       "price": 4.5,
