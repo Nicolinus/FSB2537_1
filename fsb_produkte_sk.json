@@ -56,7 +56,7 @@
       "price": 13.5,
       "unit": {
         "quantity": 1,
-        "uom": "Stück",
+        "uom": "Paar",
         "packaging": null,
         "display": "pro Stück"
       },
@@ -79,6 +79,11 @@
           "name": "wollweiß",
           "image": "fsb_produkte_sk/stulpen-wollweiss.jpg",
           "available": 0
+        },
+        {
+          "name": "hellbraun",
+          "image": "",
+          "available": 20
         }
       ]
     }
