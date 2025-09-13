@@ -10,6 +10,11 @@
       "id": "accessoires",
       "name": "Accessoires",
       "order": 10
+    },
+    {
+      "id": "strickwolle",
+      "name": "Strickwolle",
+      "order": 20
     }
   ],
   "products": [
@@ -125,11 +130,6 @@
         {
           "name": "dunkelgrau",
           "image": "fsb_produkte_sk/wollschal-dunkelgrau.jpg",
-          "available": 50
-        },
-        {
-          "name": "hellgrau",
-          "image": "fsb_produkte_sk/wollschal-hellgrau.jpg",
           "available": 50
         }
       ]
