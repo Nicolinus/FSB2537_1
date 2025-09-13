@@ -140,7 +140,7 @@
       "price": 4.5,
       "unit": {
         "quantity": 1,
-        "uom": "Stück",
+        "uom": "Paar",
         "packaging": null,
         "display": "pro Stück"
       },
@@ -156,8 +156,8 @@
         },
         {
           "name": "39-41",
-          "image": "",
-          "available": 30
+          "image": "fsb_produkte_ek/stabilia-wollsocken-naturbraun-39-41.jpg",
+          "available": 20
         },
         {
           "name": "42-44",
