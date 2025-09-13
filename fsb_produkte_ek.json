@@ -10,6 +10,16 @@
       "id": "accessoires",
       "name": "Accessoires",
       "order": 10
+    },
+    {
+      "id": "strickwolle",
+      "name": "Strickwolle",
+      "order": 20
+    },
+    {
+      "id": "handarbeiten",
+      "name": "Handarbeiten",
+      "order": 30
     }
   ],
   "products": [
