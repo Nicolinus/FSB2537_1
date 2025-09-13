@@ -6,5 +6,28 @@
     "vat_included": true
   },
   "categories": [],
-  "products": []
+  "products": [
+    {
+      "id": "wendemutzen",
+      "name": "Wendemützen",
+      "price": 18.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "",
+      "active": true,
+      "order": 10,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "hellgrau",
+          "image": "fsb_produkte_ek/wendemutzen-hellgrau.jpg",
+          "available": 120
+        }
+      ]
+    }
+  ]
 }
