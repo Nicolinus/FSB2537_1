@@ -116,6 +116,11 @@
           "name": "hellgrau",
           "image": "fsb_produkte_ek/wollschals-hellgrau.jpg",
           "available": 20
+        },
+        {
+          "name": "wollweiß",
+          "image": "fsb_produkte_ek/wollschals-wollweiss.jpg",
+          "available": 20
         }
       ]
     }
