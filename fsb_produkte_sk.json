@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "version": "1",
+    "ausgabedatum": "2025-09-13",
+    "currency": "EUR",
+    "vat_included": true
+  },
+  "categories": [],
+  "products": [
+    {
+      "id": "wendemutzen",
+      "name": "Wendemützen",
+      "price": 18.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "",
+      "active": true,
+      "order": 10,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "hrllgrau",
+          "image": "fsb_produkte_sk/wendemutzen-hrllgrau.jpg",
+          "available": 120
+        }
+      ]
+    }
+  ]
+}
