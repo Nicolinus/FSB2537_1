@@ -135,28 +135,6 @@
       ]
     },
     {
-      "id": "stabilia-wollsocken-jeansblau",
-      "name": "Stabilia Wollsocken jeansblau",
-      "price": 4.5,
-      "unit": {
-        "quantity": 1,
-        "uom": "Stück",
-        "packaging": null,
-        "display": "pro Stück"
-      },
-      "category": "",
-      "active": true,
-      "order": 14,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "36-38",
-          "image": "",
-          "available": 30
-        }
-      ]
-    },
-    {
       "id": "stabilia-wollsocken-naturbraun",
       "name": "Stabilia Wollsocken naturbraun",
       "price": 4.5,
@@ -168,7 +146,7 @@
       },
       "category": "",
       "active": true,
-      "order": 20,
+      "order": 13,
       "aliases": [],
       "variants": [
         {
@@ -189,6 +167,33 @@
         {
           "name": "45-47",
           "image": "fsb_produkte_ek/stabilia-wollsocken-naturbraun-45-47.jpg",
+          "available": 30
+        }
+      ]
+    },
+    {
+      "id": "stabilia-wollsocken-jeansblau",
+      "name": "Stabilia Wollsocken jeansblau",
+      "price": 4.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "",
+      "active": true,
+      "order": 14,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "36-38",
+          "image": "",
+          "available": 30
+        },
+        {
+          "name": "39-41",
+          "image": "fsb_produkte_ek/stabilia-wollsocken-jeansblau-39-41.jpg",
           "available": 30
         }
       ]
