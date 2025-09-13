@@ -104,12 +104,17 @@
       },
       "category": "",
       "active": true,
-      "order": 20,
+      "order": 12,
       "aliases": [],
       "variants": [
         {
           "name": "hellbraun",
           "image": "fsb_produkte_ek/wollschals-hellbraun.jpg",
+          "available": 20
+        },
+        {
+          "name": "hellgrau",
+          "image": "fsb_produkte_ek/wollschals-hellgrau.jpg",
           "available": 20
         }
       ]
