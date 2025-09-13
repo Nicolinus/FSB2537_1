@@ -74,6 +74,11 @@
           "name": "hellgrau",
           "image": "fsb_produkte_sk/stulpen-hellgrau.jpg",
           "available": 20
+        },
+        {
+          "name": "wollweiß",
+          "image": "fsb_produkte_sk/stulpen-wollweiss.jpg",
+          "available": 0
         }
       ]
     }
