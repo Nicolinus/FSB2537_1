@@ -69,6 +69,11 @@
           "name": "dunkelgrau",
           "image": "fsb_produkte_ek/stulpen-dunkelgrau.jpg",
           "available": 20
+        },
+        {
+          "name": "hellgrau",
+          "image": "fsb_produkte_ek/stulpen-hellgrau.jpg",
+          "available": 20
         }
       ]
     }
