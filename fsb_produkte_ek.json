@@ -12,19 +12,24 @@
       "order": 10
     },
     {
+      "id": "socken",
+      "name": "Socken",
+      "order": 20
+    },
+    {
       "id": "strickwolle",
       "name": "Strickwolle",
-      "order": 20
+      "order": 30
     },
     {
       "id": "handarbeiten",
       "name": "Handarbeiten",
-      "order": 30
+      "order": 40
     },
     {
       "id": "mischgarne",
       "name": "Mischgarne",
-      "order": 40
+      "order": 50
     }
   ],
   "products": [
@@ -139,7 +144,7 @@
         "packaging": null,
         "display": "pro Stück"
       },
-      "category": "",
+      "category": "accessoires",
       "active": true,
       "order": 13,
       "aliases": [],
@@ -181,7 +186,7 @@
         "packaging": null,
         "display": "pro Stück"
       },
-      "category": "",
+      "category": "socken",
       "active": true,
       "order": 14,
       "aliases": [],
@@ -218,7 +223,7 @@
         "packaging": null,
         "display": "pro Stück"
       },
-      "category": "",
+      "category": "socken",
       "active": true,
       "order": 15,
       "aliases": [],
