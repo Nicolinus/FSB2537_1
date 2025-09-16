@@ -216,7 +216,7 @@
         "quantity": 1,
         "uom": "Paar",
         "packaging": null,
-        "display": "pro Stück"
+        "display": "pro Paar"
       },
       "category": "socken",
       "active": true,
@@ -226,6 +226,11 @@
         {
           "name": "Gr. 36-38",
           "image": "fsb_produkte_sk/stabilia-wollsocken-jeansblau-gr-36-38.jpg",
+          "available": 20
+        },
+        {
+          "name": "Gr. 39-41",
+          "image": "fsb_produkte_sk/stabilia-wollsocken-jeansblau-gr-39-41.jpg",
           "available": 20
         }
       ]
