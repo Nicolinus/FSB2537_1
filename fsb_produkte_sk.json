@@ -54,9 +54,9 @@
           "available": 120
         },
         {
-          "name": "Neue Farbe 3",
-          "image": "",
-          "available": 0
+          "name": "dunkelgrau",
+          "image": "fsb_produkte_sk/wendemutzen-dunkelgrau.jpg",
+          "available": 19
         }
       ]
     }
