@@ -66,6 +66,28 @@
       ]
     },
     {
+      "id": "wendemutze-alpaka",
+      "name": "Wendemütze Alpaka",
+      "price": 118,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "accessoires",
+      "active": true,
+      "order": 11,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "marineblau",
+          "image": "fsb_produkte_sk/wendemutze-alpaka-marineblau.jpg",
+          "available": 152
+        }
+      ]
+    },
+    {
       "id": "stulpen",
       "name": "Stulpen",
       "price": 13.5,
@@ -77,7 +99,7 @@
       },
       "category": "accessoires",
       "active": true,
-      "order": 11,
+      "order": 12,
       "aliases": [],
       "variants": [
         {
@@ -119,7 +141,7 @@
       },
       "category": "accessoires",
       "active": true,
-      "order": 12,
+      "order": 13,
       "aliases": [],
       "variants": [
         {
@@ -141,28 +163,6 @@
           "name": "dunkelgrau",
           "image": "fsb_produkte_sk/wollschal-dunkelgrau.jpg",
           "available": 50
-        }
-      ]
-    },
-    {
-      "id": "wendemutze-alpaka",
-      "name": "Wendemütze Alpaka",
-      "price": 118,
-      "unit": {
-        "quantity": 1,
-        "uom": "Stück",
-        "packaging": null,
-        "display": "pro Stück"
-      },
-      "category": "accessoires",
-      "active": true,
-      "order": 20,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "marineblau",
-          "image": "fsb_produkte_sk/wendemutze-alpaka-marineblau.jpg",
-          "available": 152
         }
       ]
     }
