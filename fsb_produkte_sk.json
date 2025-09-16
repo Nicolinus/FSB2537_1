@@ -165,6 +165,28 @@
           "available": 50
         }
       ]
+    },
+    {
+      "id": "stabilia-socken-naturbraun-hell",
+      "name": "Stabilia Socken naturbraun hell",
+      "price": 4.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Paar",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "",
+      "active": true,
+      "order": 20,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Gr. 36-38",
+          "image": "fsb_produkte_sk/stabilia-socken-naturbraun-hell-gr-36-38.jpg",
+          "available": 30
+        }
+      ]
     }
   ]
 }
