@@ -86,6 +86,28 @@
           "available": 152
         }
       ]
+    },
+    {
+      "id": "stulpen",
+      "name": "Stulpen",
+      "price": 13.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Paar",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "accessoires",
+      "active": true,
+      "order": 12,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "wollweiß",
+          "image": "fsb_produkte_sk/stulpen-wollweiss.jpg",
+          "available": 20
+        }
+      ]
     }
   ]
 }
