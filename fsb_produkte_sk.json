@@ -23,7 +23,7 @@
         "packaging": null,
         "display": "pro Stück"
       },
-      "category": "",
+      "category": "accessoires",
       "active": true,
       "order": 10,
       "aliases": [],
@@ -35,7 +35,7 @@
         },
         {
           "name": "hellbraun",
-          "image": "",
+          "image": "fsb_produkte_sk/wendemutzen-hellbraun.jpg",
           "available": 120
         }
       ]
