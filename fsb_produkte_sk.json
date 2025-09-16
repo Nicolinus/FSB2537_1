@@ -5,28 +5,7 @@
     "currency": "EUR",
     "vat_included": true
   },
-  "categories": [
-    {
-      "id": "accessoires",
-      "name": "Accessoires",
-      "order": 10
-    },
-    {
-      "id": "socken",
-      "name": "Socken",
-      "order": 20
-    },
-    {
-      "id": "strickwolle",
-      "name": "Strickwolle",
-      "order": 30
-    },
-    {
-      "id": "sonstiges",
-      "name": "Sonstiges",
-      "order": 40
-    }
-  ],
+  "categories": [],
   "products": [
     {
       "id": "wendemutzen",
@@ -45,7 +24,7 @@
       "variants": [
         {
           "name": "hellgrau",
-          "image": "",
+          "image": "fsb_produkte_sk/wendemutzen-hellgrau.jpg",
           "available": 120
         }
       ]
