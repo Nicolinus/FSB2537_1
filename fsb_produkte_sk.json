@@ -64,6 +64,28 @@
           "available": 20
         }
       ]
+    },
+    {
+      "id": "wendemutze-alpaka",
+      "name": "Wendemütze Alpaka",
+      "price": 18.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "accessoires",
+      "active": true,
+      "order": 11,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "marineblau",
+          "image": "fsb_produkte_sk/wendemutze-alpaka-marineblau.jpg",
+          "available": 152
+        }
+      ]
     }
   ]
 }
