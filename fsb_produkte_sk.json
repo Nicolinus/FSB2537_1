@@ -95,7 +95,7 @@
         "quantity": 1,
         "uom": "Paar",
         "packaging": null,
-        "display": "pro Stück"
+        "display": "pro Paar"
       },
       "category": "accessoires",
       "active": true,
@@ -179,7 +179,7 @@
         "quantity": 1,
         "uom": "Paar",
         "packaging": null,
-        "display": "pro Stück"
+        "display": "pro Paar"
       },
       "category": "socken",
       "active": true,
