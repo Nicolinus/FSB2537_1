@@ -207,6 +207,28 @@
           "available": 20
         }
       ]
+    },
+    {
+      "id": "stabilia-wollsocken-jeansblau",
+      "name": "Stabilia Wollsocken jeansblau",
+      "price": 4.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Paar",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "socken",
+      "active": true,
+      "order": 21,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Gr. 36-38",
+          "image": "fsb_produkte_sk/stabilia-wollsocken-jeansblau-gr-36-38.jpg",
+          "available": 20
+        }
+      ]
     }
   ]
 }
