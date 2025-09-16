@@ -130,8 +130,8 @@
       ]
     },
     {
-      "id": "wollschals",
-      "name": "Wollschals",
+      "id": "wollschal",
+      "name": "Wollschal",
       "price": 22,
       "unit": {
         "quantity": 1,
@@ -146,27 +146,27 @@
       "variants": [
         {
           "name": "hellbraun",
-          "image": "fsb_produkte_sk/wollschals-hellbraun.jpg",
+          "image": "fsb_produkte_sk/wollschal-hellbraun.jpg",
           "available": 20
         },
         {
           "name": "hellgrau",
-          "image": "fsb_produkte_sk/wollschals-hellgrau.jpg",
+          "image": "fsb_produkte_sk/wollschal-hellgrau.jpg",
           "available": 20
         },
         {
           "name": "wollweiß",
-          "image": "fsb_produkte_sk/wollschals-wollweiss.jpg",
+          "image": "fsb_produkte_sk/wollschal-wollweiss.jpg",
           "available": 20
         },
         {
           "name": "dunkelgrau",
-          "image": "fsb_produkte_sk/wollschals-dunkelgrau.jpg",
+          "image": "fsb_produkte_sk/wollschal-dunkelgrau.jpg",
           "available": 20
         },
         {
           "name": "dunkelbraun",
-          "image": "fsb_produkte_sk/wollschals-dunkelbraun.jpg",
+          "image": "fsb_produkte_sk/wollschal-dunkelbraun.jpg",
           "available": 20
         }
       ]
