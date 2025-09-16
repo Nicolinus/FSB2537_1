@@ -121,6 +121,11 @@
           "name": "hellbraun",
           "image": "fsb_produkte_sk/stulpen-hellbraun.jpg",
           "available": 20
+        },
+        {
+          "name": "dunkelbraun",
+          "image": "fsb_produkte_sk/stulpen-dunkelbraun.jpg",
+          "available": 20
         }
       ]
     }
