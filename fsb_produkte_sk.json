@@ -12,9 +12,19 @@
       "order": 10
     },
     {
+      "id": "socken",
+      "name": "Socken",
+      "order": 20
+    },
+    {
       "id": "strickwolle",
       "name": "Strickwolle",
-      "order": 20
+      "order": 30
+    },
+    {
+      "id": "sonstiges",
+      "name": "Sonstiges",
+      "order": 40
     }
   ],
   "products": [
@@ -28,7 +38,7 @@
         "packaging": null,
         "display": "pro Stück"
       },
-      "category": "",
+      "category": "accessoires",
       "active": true,
       "order": 10,
       "aliases": [],
@@ -107,7 +117,7 @@
         "packaging": null,
         "display": "pro Stück"
       },
-      "category": "",
+      "category": "accessoires",
       "active": true,
       "order": 12,
       "aliases": [],
