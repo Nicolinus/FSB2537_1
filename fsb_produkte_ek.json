@@ -34,8 +34,8 @@
   ],
   "products": [
     {
-      "id": "wendemutzen",
-      "name": "Wendemützen",
+      "id": "wendemutze",
+      "name": "Wendemütze",
       "price": 18.5,
       "unit": {
         "quantity": 1,
@@ -50,22 +50,22 @@
       "variants": [
         {
           "name": "hellgrau",
-          "image": "fsb_produkte_ek/wendemutzen-hellgrau.jpg",
+          "image": "fsb_produkte_ek/wendemutze-hellgrau.jpg",
           "available": 120
         },
         {
           "name": "hellbraun",
-          "image": "fsb_produkte_ek/wendemutzen-hellbraun.jpg",
+          "image": "fsb_produkte_ek/wendemutze-hellbraun.jpg",
           "available": 120
         },
         {
           "name": "dunkelgrau",
-          "image": "fsb_produkte_ek/wendemutzen-dunkelgrau.jpg",
+          "image": "fsb_produkte_ek/wendemutze-dunkelgrau.jpg",
           "available": 19
         },
         {
           "name": "dunkelbraun",
-          "image": "fsb_produkte_ek/wendemutzen-dunkelbraun.jpg",
+          "image": "fsb_produkte_ek/wendemutze-dunkelbraun.jpg",
           "available": 20
         }
       ]
@@ -135,8 +135,8 @@
       ]
     },
     {
-      "id": "wollschal",
-      "name": "Wollschal",
+      "id": "wollschals",
+      "name": "Wollschals",
       "price": 22,
       "unit": {
         "quantity": 1,
@@ -151,27 +151,27 @@
       "variants": [
         {
           "name": "hellbraun",
-          "image": "fsb_produkte_ek/wollschal-hellbraun.jpg",
+          "image": "fsb_produkte_ek/wollschals-hellbraun.jpg",
           "available": 20
         },
         {
           "name": "hellgrau",
-          "image": "fsb_produkte_ek/wollschal-hellgrau.jpg",
+          "image": "fsb_produkte_ek/wollschals-hellgrau.jpg",
           "available": 20
         },
         {
           "name": "wollweiß",
-          "image": "fsb_produkte_ek/wollschal-wollweiss.jpg",
+          "image": "fsb_produkte_ek/wollschals-wollweiss.jpg",
           "available": 20
         },
         {
           "name": "dunkelgrau",
-          "image": "fsb_produkte_ek/wollschal-dunkelgrau.jpg",
+          "image": "fsb_produkte_ek/wollschals-dunkelgrau.jpg",
           "available": 0
         },
         {
           "name": "dunkelbraun",
-          "image": "fsb_produkte_ek/wollschal-dunkelbraun.jpg",
+          "image": "fsb_produkte_ek/wollschals-dunkelbraun.jpg",
           "available": 20
         }
       ]
