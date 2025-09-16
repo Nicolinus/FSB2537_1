@@ -34,8 +34,8 @@
   ],
   "products": [
     {
-      "id": "wendemutze",
-      "name": "Wendemütze",
+      "id": "wendemutz",
+      "name": "Wendemütz",
       "price": 18.5,
       "unit": {
         "quantity": 1,
@@ -50,22 +50,22 @@
       "variants": [
         {
           "name": "hellgrau",
-          "image": "fsb_produkte_ek/wendemutze-hellgrau.jpg",
+          "image": "fsb_produkte_ek/wendemutz-hellgrau.jpg",
           "available": 120
         },
         {
           "name": "hellbraun",
-          "image": "fsb_produkte_ek/wendemutze-hellbraun.jpg",
+          "image": "fsb_produkte_ek/wendemutz-hellbraun.jpg",
           "available": 120
         },
         {
           "name": "dunkelgrau",
-          "image": "fsb_produkte_ek/wendemutze-dunkelgrau.jpg",
+          "image": "fsb_produkte_ek/wendemutz-dunkelgrau.jpg",
           "available": 19
         },
         {
           "name": "dunkelbraun",
-          "image": "fsb_produkte_ek/wendemutze-dunkelbraun.jpg",
+          "image": "fsb_produkte_ek/wendemutz-dunkelbraun.jpg",
           "available": 20
         }
       ]
