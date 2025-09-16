@@ -158,6 +158,11 @@
           "name": "wollweiß",
           "image": "fsb_produkte_sk/wollschals-wollweiss.jpg",
           "available": 20
+        },
+        {
+          "name": "dunkelgrau",
+          "image": "fsb_produkte_sk/wollschals-dunkelgrau.jpg",
+          "available": 20
         }
       ]
     }
