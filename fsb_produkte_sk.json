@@ -5,7 +5,28 @@
     "currency": "EUR",
     "vat_included": true
   },
-  "categories": [],
+  "categories": [
+    {
+      "id": "accessoires",
+      "name": "Accessoires",
+      "order": 10
+    },
+    {
+      "id": "socken",
+      "name": "Socken",
+      "order": 20
+    },
+    {
+      "id": "strickwolle",
+      "name": "Strickwolle",
+      "order": 30
+    },
+    {
+      "id": "sonstiges",
+      "name": "Sonstiges",
+      "order": 40
+    }
+  ],
   "products": [
     {
       "id": "wendemutzen",
