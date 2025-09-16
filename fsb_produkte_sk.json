@@ -10,6 +10,21 @@
       "id": "accessoires",
       "name": "Accessoires",
       "order": 10
+    },
+    {
+      "id": "socken",
+      "name": "Socken",
+      "order": 20
+    },
+    {
+      "id": "strickwolle",
+      "name": "Strickwolle",
+      "order": 30
+    },
+    {
+      "id": "sonstiges",
+      "name": "sonstiges",
+      "order": 40
     }
   ],
   "products": [
@@ -37,6 +52,11 @@
           "name": "hellbraun",
           "image": "fsb_produkte_sk/wendemutzen-hellbraun.jpg",
           "available": 120
+        },
+        {
+          "name": "Neue Farbe 3",
+          "image": "",
+          "available": 0
         }
       ]
     }
