@@ -266,6 +266,28 @@
           "available": 20
         }
       ]
+    },
+    {
+      "id": "stabilia-wollsocken-naturweiss",
+      "name": "Stabilia Wollsocken naturweiß",
+      "price": 4.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Paar",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "accessoires",
+      "active": true,
+      "order": 22,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Gr. 36-38",
+          "image": "",
+          "available": 20
+        }
+      ]
     }
   ]
 }
