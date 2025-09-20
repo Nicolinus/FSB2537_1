@@ -301,6 +301,55 @@
           "name": "Gr. 45-47",
           "image": "",
           "available": 20
+        },
+        {
+          "name": "Neue Variante 5",
+          "image": "",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "stabilia-sockenwolle",
+      "name": "Stabilia Sockenwolle",
+      "price": 1.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": "50g Knäuel",
+        "display": "pro Stück"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 30,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "naturbraun hell",
+          "image": "fsb_produkte_sk/stabilia-sockenwolle-naturbraun-hell.jpg",
+          "available": 200
+        }
+      ]
+    },
+    {
+      "id": "naturwollkugelchen",
+      "name": "Naturwollkügelchen",
+      "price": 0,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": "500g Pack",
+        "display": "pro Stück"
+      },
+      "category": "sonstiges",
+      "active": true,
+      "order": 40,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "naturweiß",
+          "image": "fsb_produkte_sk/naturwollkugelchen-naturweiss.jpg",
+          "available": 0
         }
       ]
     }
