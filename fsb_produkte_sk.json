@@ -328,13 +328,18 @@
           "name": "naturbraun hell",
           "image": "fsb_produkte_sk/stabilia-sockenwolle-naturbraun-hell.jpg",
           "available": 200
+        },
+        {
+          "name": "jeansblau",
+          "image": "",
+          "available": 100
         }
       ]
     },
     {
       "id": "naturwollkugelchen",
       "name": "Naturwollkügelchen",
-      "price": 0,
+      "price": 7.5,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -348,8 +353,8 @@
       "variants": [
         {
           "name": "naturweiß",
-          "image": "fsb_produkte_sk/naturwollkugelchen-naturweiss.jpg",
-          "available": 0
+          "image": "",
+          "available": 100
         }
       ]
     }
