@@ -286,6 +286,21 @@
           "name": "Gr. 36-38",
           "image": "",
           "available": 20
+        },
+        {
+          "name": "Gr. 39-41",
+          "image": "",
+          "available": 20
+        },
+        {
+          "name": "Gr. 42-44",
+          "image": "",
+          "available": 20
+        },
+        {
+          "name": "Gr. 45-47",
+          "image": "",
+          "available": 20
         }
       ]
     }
