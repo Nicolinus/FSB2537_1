@@ -301,6 +301,33 @@
           "name": "Gr. 45-47",
           "image": "",
           "available": 20
+        },
+        {
+          "name": "Neue Variante 5",
+          "image": "",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "lama-sockenwolle",
+      "name": "Lama Sockenwolle",
+      "price": 4,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": "50g-Knäuel",
+        "display": "pro Stück"
+      },
+      "category": "accessoires",
+      "active": true,
+      "order": 23,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "naturbraun",
+          "image": "fsb_produkte_sk/lama-sockenwolle-naturbraun.jpg",
+          "available": 100
         }
       ]
     },
