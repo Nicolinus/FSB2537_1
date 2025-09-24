@@ -61,7 +61,7 @@
         {
           "name": "dunkelbraun",
           "image": "fsb_produkte_sk/wendemutze-dunkelbraun.jpg",
-          "available": 20
+          "available": 36
         }
       ]
     },
@@ -147,27 +147,27 @@
         {
           "name": "hellbraun",
           "image": "fsb_produkte_sk/wollschal-hellbraun.jpg",
-          "available": 20
+          "available": 9
         },
         {
           "name": "hellgrau",
           "image": "fsb_produkte_sk/wollschal-hellgrau.jpg",
-          "available": 20
+          "available": 24
         },
         {
           "name": "wollweiß",
           "image": "fsb_produkte_sk/wollschal-wollweiss.jpg",
-          "available": 20
+          "available": 31
         },
         {
           "name": "dunkelgrau",
           "image": "fsb_produkte_sk/wollschal-dunkelgrau.jpg",
-          "available": 20
+          "available": 33
         },
         {
           "name": "dunkelbraun",
           "image": "fsb_produkte_sk/wollschal-dunkelbraun.jpg",
-          "available": 20
+          "available": 5
         }
       ]
     },
@@ -189,7 +189,7 @@
         {
           "name": "naturweiß",
           "image": "fsb_produkte_sk/mohairschal-naturweiss.jpg",
-          "available": 35
+          "available": 32
         }
       ]
     },
@@ -209,24 +209,24 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Gr. 36-38",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-naturbraun-hell-gr-36-38.jpg",
-          "available": 20
+          "name": "Gr. 38-40",
+          "image": "fsb_produkte_sk/stabilia-wollsocken-naturbraun-hell-gr-38-40.jpg",
+          "available": 0
         },
         {
-          "name": "Gr. 39-41",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-naturbraun-hell-gr-39-41.jpg",
-          "available": 20
+          "name": "Gr. 41-43",
+          "image": "fsb_produkte_sk/stabilia-wollsocken-naturbraun-hell-gr-41-43.jpg",
+          "available": 106
         },
         {
-          "name": "Gr 42-44",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-naturbraun-hell-gr-42-44.jpg",
-          "available": 20
+          "name": "Gr 44-46",
+          "image": "fsb_produkte_sk/stabilia-wollsocken-naturbraun-hell-gr-44-46.jpg",
+          "available": 62
         },
         {
-          "name": "Gr. 45-47",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-naturbraun-hell-gr-45-47.jpg",
-          "available": 20
+          "name": "Gr. 47-49",
+          "image": "fsb_produkte_sk/stabilia-wollsocken-naturbraun-hell-gr-47-49.jpg",
+          "available": 1
         }
       ]
     },
@@ -246,24 +246,24 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Gr. 36-38",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-jeansblau-gr-36-38.jpg",
-          "available": 20
+          "name": "Gr. 38-40",
+          "image": "fsb_produkte_sk/stabilia-wollsocken-jeansblau-gr-38-40.jpg",
+          "available": 130
         },
         {
-          "name": "Gr. 39-41",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-jeansblau-gr-39-41.jpg",
-          "available": 20
+          "name": "Gr. 41-43",
+          "image": "fsb_produkte_sk/stabilia-wollsocken-jeansblau-gr-41-43.jpg",
+          "available": 112
         },
         {
-          "name": "Gr. 42-44",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-jeansblau-gr-42-44.jpg",
-          "available": 20
+          "name": "Gr. 44-46",
+          "image": "fsb_produkte_sk/stabilia-wollsocken-jeansblau-gr-44-46.jpg",
+          "available": 16
         },
         {
-          "name": "Gr. 45-47",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-jeansblau-gr-45-47.jpg",
-          "available": 20
+          "name": "Gr. 47-49",
+          "image": "fsb_produkte_sk/stabilia-wollsocken-jeansblau-gr-47-49.jpg",
+          "available": 45
         }
       ]
     },
@@ -283,24 +283,24 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Gr. 36-38",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-naturweiss-gr-36-38.jpg",
-          "available": 20
+          "name": "Gr. 38-40",
+          "image": "fsb_produkte_sk/stabilia-wollsocken-naturweiss-gr-38-40.jpg",
+          "available": 4
         },
         {
-          "name": "Gr. 39-41",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-naturweiss-gr-39-41.jpg",
-          "available": 20
+          "name": "Gr. 41-43",
+          "image": "fsb_produkte_sk/stabilia-wollsocken-naturweiss-gr-41-43.jpg",
+          "available": 0
         },
         {
-          "name": "Gr. 42-44",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-naturweiss-gr-42-44.jpg",
-          "available": 20
+          "name": "Gr. 44-46",
+          "image": "fsb_produkte_sk/stabilia-wollsocken-naturweiss-gr-44-46.jpg",
+          "available": 33
         },
         {
-          "name": "Gr. 45-47",
-          "image": "",
-          "available": 20
+          "name": "Gr. 47-49",
+          "image": "fsb_produkte_sk/stabilia-wollsocken-naturweiss-gr-47-49.jpg",
+          "available": 10
         },
         {
           "name": "Neue Variante 5",
