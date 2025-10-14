@@ -233,7 +233,7 @@
     {
       "id": "stabilia-wollsocken-jeansblau",
       "name": "Stabilia Wollsocken jeansblau",
-      "price": 4.5,
+      "price": 5,
       "unit": {
         "quantity": 1,
         "uom": "Paar",
@@ -270,7 +270,7 @@
     {
       "id": "stabilia-wollsocken-naturweiss",
       "name": "Stabilia Wollsocken naturweiß",
-      "price": 4.5,
+      "price": 5,
       "unit": {
         "quantity": 1,
         "uom": "Paar",
