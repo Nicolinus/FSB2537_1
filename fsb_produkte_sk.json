@@ -90,7 +90,7 @@
     {
       "id": "stulpen",
       "name": "Stulpen",
-      "price": 14.5,
+      "price": 16.5,
       "unit": {
         "quantity": 1,
         "uom": "Paar",
