@@ -1,0 +1,401 @@
+{
+  "meta": {
+    "version": "1",
+    "ausgabedatum": "2025-09-16",
+    "currency": "EUR",
+    "vat_included": true,
+    "discounts": [
+      {
+        "threshold": 750,
+        "rate": 0.35
+      },
+      {
+        "threshold": 0,
+        "rate": 0.2
+      },
+      {
+        "threshold": 500,
+        "rate": 0.3
+      },
+      {
+        "threshold": 300,
+        "rate": 0.25
+      },
+      {
+        "threshold": 1000,
+        "rate": 0.4
+      }
+    ]
+  },
+  "categories": [
+    {
+      "id": "accessoires",
+      "name": "Accessoires",
+      "order": 10
+    },
+    {
+      "id": "socken",
+      "name": "Socken",
+      "order": 20
+    },
+    {
+      "id": "strickwolle",
+      "name": "Strickwolle",
+      "order": 30
+    },
+    {
+      "id": "sonstiges",
+      "name": "sonstiges",
+      "order": 40
+    }
+  ],
+  "products": [
+    {
+      "id": "wendemutze",
+      "name": "Wendemütze",
+      "price": 18.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": "PE-Beutel",
+        "display": "pro Stück"
+      },
+      "category": "accessoires",
+      "active": true,
+      "order": 10,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "hellgrau",
+          "image": "fsb_produkte_sk/wendemutze-hellgrau.jpg",
+          "available": 120
+        },
+        {
+          "name": "hellbraun",
+          "image": "fsb_produkte_sk/wendemutze-hellbraun.jpg",
+          "available": 120
+        },
+        {
+          "name": "dunkelgrau",
+          "image": "fsb_produkte_sk/wendemutze-dunkelgrau.jpg",
+          "available": 19
+        },
+        {
+          "name": "dunkelbraun",
+          "image": "fsb_produkte_sk/wendemutze-dunkelbraun.jpg",
+          "available": 36
+        }
+      ]
+    },
+    {
+      "id": "wendemutze-alpaka",
+      "name": "Wendemütze Alpaka",
+      "price": 18.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "accessoires",
+      "active": true,
+      "order": 11,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "marineblau",
+          "image": "fsb_produkte_sk/wendemutze-alpaka-marineblau.jpg",
+          "available": 152
+        }
+      ]
+    },
+    {
+      "id": "stulpen",
+      "name": "Stulpen",
+      "price": 16.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Paar",
+        "packaging": null,
+        "display": "pro Paar"
+      },
+      "category": "accessoires",
+      "active": true,
+      "order": 12,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "wollweiß",
+          "image": "fsb_produkte_sk/stulpen-wollweiss.jpg",
+          "available": 20
+        },
+        {
+          "name": "hellgrau",
+          "image": "fsb_produkte_sk/stulpen-hellgrau.jpg",
+          "available": 20
+        },
+        {
+          "name": "dunkelgrau",
+          "image": "fsb_produkte_sk/stulpen-dunkelgrau.jpg",
+          "available": 20
+        },
+        {
+          "name": "hellbraun",
+          "image": "fsb_produkte_sk/stulpen-hellbraun.jpg",
+          "available": 20
+        },
+        {
+          "name": "dunkelbraun",
+          "image": "fsb_produkte_sk/stulpen-dunkelbraun.jpg",
+          "available": 20
+        }
+      ]
+    },
+    {
+      "id": "wollschal",
+      "name": "Wollschal",
+      "price": 22,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "accessoires",
+      "active": true,
+      "order": 13,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "hellbraun",
+          "image": "fsb_produkte_sk/wollschal-hellbraun.jpg",
+          "available": 9
+        },
+        {
+          "name": "hellgrau",
+          "image": "fsb_produkte_sk/wollschal-hellgrau.jpg",
+          "available": 24
+        },
+        {
+          "name": "wollweiß",
+          "image": "fsb_produkte_sk/wollschal-wollweiss.jpg",
+          "available": 31
+        },
+        {
+          "name": "dunkelgrau",
+          "image": "fsb_produkte_sk/wollschal-dunkelgrau.jpg",
+          "available": 33
+        },
+        {
+          "name": "dunkelbraun",
+          "image": "fsb_produkte_sk/wollschal-dunkelbraun.jpg",
+          "available": 5
+        }
+      ]
+    },
+    {
+      "id": "mohairschal",
+      "name": "Mohairschal",
+      "price": 18,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "accessoires",
+      "active": true,
+      "order": 14,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "naturweiß",
+          "image": "fsb_produkte_sk/mohairschal-naturweiss.jpg",
+          "available": 32
+        }
+      ]
+    },
+    {
+      "id": "stabilia-wollsocken-naturbraun-hell",
+      "name": "Stabilia Wollsocken naturbraun hell",
+      "price": 5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Paar",
+        "packaging": null,
+        "display": "pro Paar"
+      },
+      "category": "socken",
+      "active": true,
+      "order": 20,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Gr. 38-40",
+          "image": "fsb_produkte_sk/stabilia-wollsocken-naturbraun-hell-gr-38-40.jpg",
+          "available": 0
+        },
+        {
+          "name": "Gr. 41-43",
+          "image": "fsb_produkte_sk/stabilia-wollsocken-naturbraun-hell-gr-41-43.jpg",
+          "available": 106
+        },
+        {
+          "name": "Gr 44-46",
+          "image": "fsb_produkte_sk/stabilia-wollsocken-naturbraun-hell-gr-44-46.jpg",
+          "available": 62
+        },
+        {
+          "name": "Gr. 47-49",
+          "image": "fsb_produkte_sk/stabilia-wollsocken-naturbraun-hell-gr-47-49.jpg",
+          "available": 1
+        }
+      ]
+    },
+    {
+      "id": "stabilia-wollsocken-jeansblau",
+      "name": "Stabilia Wollsocken jeansblau",
+      "price": 5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Paar",
+        "packaging": "Stück",
+        "display": "pro Paar"
+      },
+      "category": "socken",
+      "active": true,
+      "order": 21,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Gr. 38-40",
+          "image": "fsb_produkte_sk/stabilia-wollsocken-jeansblau-gr-38-40.jpg",
+          "available": 130
+        },
+        {
+          "name": "Gr. 41-43",
+          "image": "fsb_produkte_sk/stabilia-wollsocken-jeansblau-gr-41-43.jpg",
+          "available": 112
+        },
+        {
+          "name": "Gr. 44-46",
+          "image": "fsb_produkte_sk/stabilia-wollsocken-jeansblau-gr-44-46.jpg",
+          "available": 16
+        },
+        {
+          "name": "Gr. 47-49",
+          "image": "fsb_produkte_sk/stabilia-wollsocken-jeansblau-gr-47-49.jpg",
+          "available": 45
+        }
+      ]
+    },
+    {
+      "id": "stabilia-wollsocken-naturweiss",
+      "name": "Stabilia Wollsocken naturweiß",
+      "price": 5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Paar",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "accessoires",
+      "active": true,
+      "order": 22,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Gr. 38-40",
+          "image": "fsb_produkte_sk/stabilia-wollsocken-naturweiss-gr-38-40.jpg",
+          "available": 4
+        },
+        {
+          "name": "Gr. 41-43",
+          "image": "fsb_produkte_sk/stabilia-wollsocken-naturweiss-gr-41-43.jpg",
+          "available": 0
+        },
+        {
+          "name": "Gr. 44-46",
+          "image": "fsb_produkte_sk/stabilia-wollsocken-naturweiss-gr-44-46.jpg",
+          "available": 33
+        },
+        {
+          "name": "Gr. 47-49",
+          "image": "fsb_produkte_sk/stabilia-wollsocken-naturweiss-gr-47-49.jpg",
+          "available": 10
+        }
+      ]
+    },
+    {
+      "id": "lama-sockenwolle",
+      "name": "Lama Sockenwolle",
+      "price": 4,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": "50g-Knäuel",
+        "display": "pro Stück"
+      },
+      "category": "accessoires",
+      "active": true,
+      "order": 23,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "naturbraun",
+          "image": "fsb_produkte_sk/lama-sockenwolle-naturbraun.jpg",
+          "available": 100
+        }
+      ]
+    },
+    {
+      "id": "stabilia-sockenwolle",
+      "name": "Stabilia Sockenwolle",
+      "price": 1.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": "50g Knäuel",
+        "display": "pro Stück"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 30,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "naturbraun hell",
+          "image": "fsb_produkte_sk/stabilia-sockenwolle-naturbraun-hell.jpg",
+          "available": 200
+        },
+        {
+          "name": "jeansblau",
+          "image": "fsb_produkte_sk/stabilia-sockenwolle-jeansblau.jpg",
+          "available": 100
+        }
+      ]
+    },
+    {
+      "id": "naturwollkugelchen",
+      "name": "Naturwollkügelchen",
+      "price": 8.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": "500g Pack",
+        "display": "pro Stück"
+      },
+      "category": "sonstiges",
+      "active": true,
+      "order": 40,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "naturweiß",
+          "image": "fsb_produkte_sk/naturwollkugelchen-naturweiss.jpg",
+          "available": 100
+        }
+      ]
+    }
+  ]
+}
