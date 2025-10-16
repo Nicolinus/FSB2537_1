@@ -67,22 +67,22 @@
       "variants": [
         {
           "name": "hellgrau",
-          "image": "fsb_produkte_sk/wendemutze-hellgrau.jpg",
+          "image": "fsb_produkte_sk_Rabatt/wendemutze-hellgrau.jpg",
           "available": 120
         },
         {
           "name": "hellbraun",
-          "image": "fsb_produkte_sk/wendemutze-hellbraun.jpg",
+          "image": "fsb_produkte_sk_Rabatt/wendemutze-hellbraun.jpg",
           "available": 120
         },
         {
           "name": "dunkelgrau",
-          "image": "fsb_produkte_sk/wendemutze-dunkelgrau.jpg",
+          "image": "fsb_produkte_sk_Rabatt/wendemutze-dunkelgrau.jpg",
           "available": 19
         },
         {
           "name": "dunkelbraun",
-          "image": "fsb_produkte_sk/wendemutze-dunkelbraun.jpg",
+          "image": "fsb_produkte_sk_Rabatt/wendemutze-dunkelbraun.jpg",
           "available": 36
         }
       ]
@@ -104,7 +104,7 @@
       "variants": [
         {
           "name": "marineblau",
-          "image": "fsb_produkte_sk/wendemutze-alpaka-marineblau.jpg",
+          "image": "fsb_produkte_sk_Rabatt/wendemutze-alpaka-marineblau.jpg",
           "available": 152
         }
       ]
@@ -126,27 +126,27 @@
       "variants": [
         {
           "name": "wollweiß",
-          "image": "fsb_produkte_sk/stulpen-wollweiss.jpg",
+          "image": "fsb_produkte_sk_Rabatt/stulpen-wollweiss.jpg",
           "available": 20
         },
         {
           "name": "hellgrau",
-          "image": "fsb_produkte_sk/stulpen-hellgrau.jpg",
+          "image": "fsb_produkte_sk_Rabatt/stulpen-hellgrau.jpg",
           "available": 20
         },
         {
           "name": "dunkelgrau",
-          "image": "fsb_produkte_sk/stulpen-dunkelgrau.jpg",
+          "image": "fsb_produkte_sk_Rabatt/stulpen-dunkelgrau.jpg",
           "available": 20
         },
         {
           "name": "hellbraun",
-          "image": "fsb_produkte_sk/stulpen-hellbraun.jpg",
+          "image": "fsb_produkte_sk_Rabatt/stulpen-hellbraun.jpg",
           "available": 20
         },
         {
           "name": "dunkelbraun",
-          "image": "fsb_produkte_sk/stulpen-dunkelbraun.jpg",
+          "image": "fsb_produkte_sk_Rabatt/stulpen-dunkelbraun.jpg",
           "available": 20
         }
       ]
@@ -168,27 +168,27 @@
       "variants": [
         {
           "name": "hellbraun",
-          "image": "fsb_produkte_sk/wollschal-hellbraun.jpg",
+          "image": "fsb_produkte_sk_Rabatt/wollschal-hellbraun.jpg",
           "available": 9
         },
         {
           "name": "hellgrau",
-          "image": "fsb_produkte_sk/wollschal-hellgrau.jpg",
+          "image": "fsb_produkte_sk_Rabatt/wollschal-hellgrau.jpg",
           "available": 24
         },
         {
           "name": "wollweiß",
-          "image": "fsb_produkte_sk/wollschal-wollweiss.jpg",
+          "image": "fsb_produkte_sk_Rabatt/wollschal-wollweiss.jpg",
           "available": 31
         },
         {
           "name": "dunkelgrau",
-          "image": "fsb_produkte_sk/wollschal-dunkelgrau.jpg",
+          "image": "fsb_produkte_sk_Rabatt/wollschal-dunkelgrau.jpg",
           "available": 33
         },
         {
           "name": "dunkelbraun",
-          "image": "fsb_produkte_sk/wollschal-dunkelbraun.jpg",
+          "image": "fsb_produkte_sk_Rabatt/wollschal-dunkelbraun.jpg",
           "available": 5
         }
       ]
@@ -210,7 +210,7 @@
       "variants": [
         {
           "name": "naturweiß",
-          "image": "fsb_produkte_sk/mohairschal-naturweiss.jpg",
+          "image": "fsb_produkte_sk_Rabatt/mohairschal-naturweiss.jpg",
           "available": 32
         }
       ]
@@ -232,22 +232,22 @@
       "variants": [
         {
           "name": "Gr. 38-40",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-naturbraun-hell-gr-38-40.jpg",
+          "image": "fsb_produkte_sk_Rabatt/stabilia-wollsocken-naturbraun-hell-gr-38-40.jpg",
           "available": 0
         },
         {
           "name": "Gr. 41-43",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-naturbraun-hell-gr-41-43.jpg",
+          "image": "fsb_produkte_sk_Rabatt/stabilia-wollsocken-naturbraun-hell-gr-41-43.jpg",
           "available": 106
         },
         {
           "name": "Gr 44-46",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-naturbraun-hell-gr-44-46.jpg",
+          "image": "fsb_produkte_sk_Rabatt/stabilia-wollsocken-naturbraun-hell-gr-44-46.jpg",
           "available": 62
         },
         {
           "name": "Gr. 47-49",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-naturbraun-hell-gr-47-49.jpg",
+          "image": "fsb_produkte_sk_Rabatt/stabilia-wollsocken-naturbraun-hell-gr-47-49.jpg",
           "available": 1
         }
       ]
@@ -269,22 +269,22 @@
       "variants": [
         {
           "name": "Gr. 38-40",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-jeansblau-gr-38-40.jpg",
+          "image": "fsb_produkte_sk_Rabatt/stabilia-wollsocken-jeansblau-gr-38-40.jpg",
           "available": 130
         },
         {
           "name": "Gr. 41-43",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-jeansblau-gr-41-43.jpg",
+          "image": "fsb_produkte_sk_Rabatt/stabilia-wollsocken-jeansblau-gr-41-43.jpg",
           "available": 112
         },
         {
           "name": "Gr. 44-46",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-jeansblau-gr-44-46.jpg",
+          "image": "fsb_produkte_sk_Rabatt/stabilia-wollsocken-jeansblau-gr-44-46.jpg",
           "available": 16
         },
         {
           "name": "Gr. 47-49",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-jeansblau-gr-47-49.jpg",
+          "image": "fsb_produkte_sk_Rabatt/stabilia-wollsocken-jeansblau-gr-47-49.jpg",
           "available": 45
         }
       ]
@@ -306,22 +306,22 @@
       "variants": [
         {
           "name": "Gr. 38-40",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-naturweiss-gr-38-40.jpg",
+          "image": "fsb_produkte_sk_Rabatt/stabilia-wollsocken-naturweiss-gr-38-40.jpg",
           "available": 4
         },
         {
           "name": "Gr. 41-43",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-naturweiss-gr-41-43.jpg",
+          "image": "fsb_produkte_sk_Rabatt/stabilia-wollsocken-naturweiss-gr-41-43.jpg",
           "available": 0
         },
         {
           "name": "Gr. 44-46",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-naturweiss-gr-44-46.jpg",
+          "image": "fsb_produkte_sk_Rabatt/stabilia-wollsocken-naturweiss-gr-44-46.jpg",
           "available": 33
         },
         {
           "name": "Gr. 47-49",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-naturweiss-gr-47-49.jpg",
+          "image": "fsb_produkte_sk_Rabatt/stabilia-wollsocken-naturweiss-gr-47-49.jpg",
           "available": 10
         }
       ]
@@ -343,7 +343,7 @@
       "variants": [
         {
           "name": "naturbraun",
-          "image": "fsb_produkte_sk/lama-sockenwolle-naturbraun.jpg",
+          "image": "fsb_produkte_sk_Rabatt/lama-sockenwolle-naturbraun.jpg",
           "available": 100
         }
       ]
@@ -365,12 +365,12 @@
       "variants": [
         {
           "name": "naturbraun hell",
-          "image": "fsb_produkte_sk/stabilia-sockenwolle-naturbraun-hell.jpg",
+          "image": "fsb_produkte_sk_Rabatt/stabilia-sockenwolle-naturbraun-hell.jpg",
           "available": 200
         },
         {
           "name": "jeansblau",
-          "image": "fsb_produkte_sk/stabilia-sockenwolle-jeansblau.jpg",
+          "image": "fsb_produkte_sk_Rabatt/stabilia-sockenwolle-jeansblau.jpg",
           "available": 100
         }
       ]
@@ -392,7 +392,7 @@
       "variants": [
         {
           "name": "naturweiß",
-          "image": "fsb_produkte_sk/naturwollkugelchen-naturweiss.jpg",
+          "image": "fsb_produkte_sk_Rabatt/naturwollkugelchen-naturweiss.jpg",
           "available": 100
         }
       ]
