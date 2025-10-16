@@ -336,7 +336,7 @@
         "packaging": "50g-Knäuel",
         "display": "pro Stück"
       },
-      "category": "accessoires",
+      "category": "strickwolle",
       "active": true,
       "order": 23,
       "aliases": [],
@@ -351,7 +351,7 @@
     {
       "id": "stabilia-sockenwolle",
       "name": "Stabilia Sockenwolle",
-      "price": 1.5,
+      "price": 1.8,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
