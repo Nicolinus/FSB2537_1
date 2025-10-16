@@ -259,7 +259,7 @@
       "unit": {
         "quantity": 1,
         "uom": "Paar",
-        "packaging": null,
+        "packaging": "Stück",
         "display": "pro Paar"
       },
       "category": "socken",
