@@ -57,7 +57,7 @@
       "unit": {
         "quantity": 1,
         "uom": "Stück",
-        "packaging": null,
+        "packaging": "PE-Beutel",
         "display": "pro Stück"
       },
       "category": "accessoires",
