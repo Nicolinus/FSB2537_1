@@ -5,7 +5,10 @@
     "currency": "EUR",
     "vat_included": true,
     "discounts": [
-      {}
+      {
+        "threshold": null,
+        "rate": 0.15
+      }
     ]
   },
   "categories": [
