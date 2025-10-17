@@ -7,7 +7,7 @@
     "discounts": [
       {
         "threshold": 0,
-        "rate": 0
+        "rate": 0.25
       }
     ]
   },
@@ -51,7 +51,7 @@
       "variants": [
         {
           "name": "hellgrau",
-          "image": "wendemutze-hellgrau.jpg",
+          "image": "fsb_produkte_test/wendemutze-hellgrau.jpg",
           "available": 120
         },
         {
