@@ -6,7 +6,7 @@
     "vat_included": true,
     "discounts": [
       {
-        "threshold": null,
+        "threshold": 0,
         "rate": 0.15
       }
     ]
