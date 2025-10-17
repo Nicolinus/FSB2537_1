@@ -8,6 +8,14 @@
       {
         "threshold": 0,
         "rate": 0
+      },
+      {
+        "threshold": 0,
+        "rate": 0
+      },
+      {
+        "threshold": 0,
+        "rate": 0.15
       }
     ]
   },
