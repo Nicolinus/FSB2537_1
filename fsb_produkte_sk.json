@@ -19,11 +19,15 @@
       },
       {
         "threshold": 300,
-        "rate": 0.25
+        "rate": 0.45
       },
       {
         "threshold": 1000,
         "rate": 0.4
+      },
+      {
+        "threshold": 10000,
+        "rate": 0.15
       }
     ]
   },
