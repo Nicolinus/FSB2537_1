@@ -210,7 +210,7 @@
       "unit": {
         "quantity": 1,
         "uom": "Paar",
-        "packaging": "Stück",
+        "packaging": null,
         "display": "pro Paar"
       },
       "category": "socken",
@@ -283,8 +283,8 @@
       "price": 4,
       "unit": {
         "quantity": 1,
-        "uom": "Stück",
-        "packaging": "50g-Knäuel",
+        "uom": "50g-Knäuel",
+        "packaging": null,
         "display": "pro Stück"
       },
       "category": "socken",
@@ -305,8 +305,8 @@
       "price": 1.5,
       "unit": {
         "quantity": 1,
-        "uom": "Stück",
-        "packaging": "50g Knäuel",
+        "uom": "50g-Knäuel",
+        "packaging": null,
         "display": "pro Stück"
       },
       "category": "strickwolle",
@@ -332,8 +332,8 @@
       "price": 8.5,
       "unit": {
         "quantity": 1,
-        "uom": "Stück",
-        "packaging": "500g-Pack",
+        "uom": "500g-Pack",
+        "packaging": null,
         "display": "pro Stück"
       },
       "category": "sonstiges",
