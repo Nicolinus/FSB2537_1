@@ -24,10 +24,6 @@
       {
         "threshold": 1000,
         "rate": 0.4
-      },
-      {
-        "threshold": 10000,
-        "rate": 0.45
       }
     ]
   },
@@ -77,17 +73,7 @@
         {
           "name": "hellbraun",
           "image": "fsb_produkte_sk/wendemutze-hellbraun.jpg",
-          "available": 120
-        },
-        {
-          "name": "dunkelgrau",
-          "image": "fsb_produkte_sk/wendemutze-dunkelgrau.jpg",
-          "available": 19
-        },
-        {
-          "name": "dunkelbraun",
-          "image": "fsb_produkte_sk/wendemutze-dunkelbraun.jpg",
-          "available": 36
+          "available": 90
         }
       ]
     },
@@ -109,7 +95,7 @@
         {
           "name": "marineblau",
           "image": "fsb_produkte_sk/wendemutze-alpaka-marineblau.jpg",
-          "available": 152
+          "available": 92
         }
       ]
     },
@@ -173,7 +159,7 @@
         {
           "name": "hellbraun",
           "image": "fsb_produkte_sk/wollschal-hellbraun.jpg",
-          "available": 9
+          "available": 13
         },
         {
           "name": "hellgrau",
@@ -181,41 +167,9 @@
           "available": 24
         },
         {
-          "name": "wollweiß",
-          "image": "fsb_produkte_sk/wollschal-wollweiss.jpg",
-          "available": 31
-        },
-        {
-          "name": "dunkelgrau",
-          "image": "fsb_produkte_sk/wollschal-dunkelgrau.jpg",
-          "available": 33
-        },
-        {
           "name": "dunkelbraun",
           "image": "fsb_produkte_sk/wollschal-dunkelbraun.jpg",
           "available": 5
-        }
-      ]
-    },
-    {
-      "id": "mohairschal",
-      "name": "Mohairschal",
-      "price": 18,
-      "unit": {
-        "quantity": 1,
-        "uom": "Stück",
-        "packaging": null,
-        "display": "pro Stück"
-      },
-      "category": "accessoires",
-      "active": true,
-      "order": 14,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "naturweiß",
-          "image": "fsb_produkte_sk/mohairschal-naturweiss.jpg",
-          "available": 32
         }
       ]
     },
