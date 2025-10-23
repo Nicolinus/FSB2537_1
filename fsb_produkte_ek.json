@@ -61,17 +61,7 @@
         {
           "name": "hellbraun",
           "image": "fsb_produkte_ek/wendemutze-hellbraun.jpg",
-          "available": 120
-        },
-        {
-          "name": "dunkelgrau",
-          "image": "fsb_produkte_ek/wendemutze-dunkelgrau.jpg",
-          "available": 19
-        },
-        {
-          "name": "dunkelbraun",
-          "image": "fsb_produkte_ek/wendemutze-dunkelbraun.jpg",
-          "available": 36
+          "available": 90
         }
       ]
     },
@@ -93,7 +83,7 @@
         {
           "name": "marineblau",
           "image": "fsb_produkte_ek/wendemutze-alpaka-marineblau.jpg",
-          "available": 152
+          "available": 92
         }
       ]
     },
@@ -165,41 +155,14 @@
           "available": 24
         },
         {
-          "name": "wollweiß",
-          "image": "fsb_produkte_ek/wollschal-wollweiss.jpg",
-          "available": 31
-        },
-        {
           "name": "dunkelgrau",
           "image": "fsb_produkte_ek/wollschal-dunkelgrau.jpg",
-          "available": 33
+          "available": 13
         },
         {
           "name": "dunkelbraun",
           "image": "fsb_produkte_ek/wollschal-dunkelbraun.jpg",
           "available": 5
-        }
-      ]
-    },
-    {
-      "id": "mohairschal",
-      "name": "Mohairschal",
-      "price": 18,
-      "unit": {
-        "quantity": 1,
-        "uom": "Stück",
-        "packaging": null,
-        "display": "pro Stück"
-      },
-      "category": "accessoires",
-      "active": true,
-      "order": 14,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "naturweiß",
-          "image": "fsb_produkte_ek/mohairschal-naturweiss.jpg",
-          "available": 32
         }
       ]
     },
