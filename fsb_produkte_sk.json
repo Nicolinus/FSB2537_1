@@ -57,7 +57,7 @@
       "unit": {
         "quantity": 1,
         "uom": "Stück",
-        "packaging": "PE-Beutel",
+        "packaging": null,
         "display": "pro Stück"
       },
       "category": "accessoires",
@@ -255,7 +255,7 @@
         "quantity": 1,
         "uom": "Paar",
         "packaging": null,
-        "display": "pro Stück"
+        "display": "pro Paar"
       },
       "category": "socken",
       "active": true,
@@ -292,7 +292,7 @@
         "quantity": 1,
         "uom": "50g-Knäuel",
         "packaging": null,
-        "display": "pro Stück"
+        "display": "50g Knäuel"
       },
       "category": "strickwolle",
       "active": true,
@@ -314,7 +314,7 @@
         "quantity": 1,
         "uom": "50g-Knäuel",
         "packaging": null,
-        "display": "pro Stück"
+        "display": "pro 50g Knäuel"
       },
       "category": "strickwolle",
       "active": true,
@@ -341,7 +341,7 @@
         "quantity": 1,
         "uom": "500g-Pack",
         "packaging": null,
-        "display": "pro Stück"
+        "display": "pro 500g Pack"
       },
       "category": "sonstiges",
       "active": true,
