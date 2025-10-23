@@ -336,7 +336,7 @@
       "price": 4,
       "unit": {
         "quantity": 1,
-        "uom": "Stück",
+        "uom": "50g-Knäuel",
         "packaging": "50g-Knäuel",
         "display": "pro Stück"
       },
@@ -358,7 +358,7 @@
       "price": 1.8,
       "unit": {
         "quantity": 1,
-        "uom": "Stück",
+        "uom": "50g-Knäuel",
         "packaging": "50g Knäuel",
         "display": "pro Stück"
       },
