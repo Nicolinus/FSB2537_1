@@ -385,7 +385,7 @@
       "price": 8.5,
       "unit": {
         "quantity": 1,
-        "uom": "Stück",
+        "uom": "500g-Pack",
         "packaging": "500g Pack",
         "display": "pro Stück"
       },
