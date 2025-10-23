@@ -380,8 +380,8 @@
       ]
     },
     {
-      "id": "naturwollkugelchen",
-      "name": "Naturwollkügelchen",
+      "id": "naturwolle-kugelchen",
+      "name": "Naturwolle Kügelchen",
       "price": 8.5,
       "unit": {
         "quantity": 1,
@@ -396,7 +396,7 @@
       "variants": [
         {
           "name": "naturweiß",
-          "image": "fsb_produkte_sk/naturwollkugelchen-naturweiss.jpg",
+          "image": "fsb_produkte_sk/naturwolle-kugelchen-naturweiss.jpg",
           "available": 100
         }
       ]
