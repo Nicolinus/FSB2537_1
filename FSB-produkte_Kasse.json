@@ -163,8 +163,8 @@
       ]
     },
     {
-      "id": "wollschals",
-      "name": "Wollschals",
+      "id": "schal-naturwolle",
+      "name": "Schal Naturwolle",
       "price": 22,
       "unit": {
         "quantity": 1,
@@ -179,34 +179,34 @@
       "variants": [
         {
           "name": "hellbraun",
-          "image": "FSB-produkte_Kasse/wollschals-hellbraun.jpg",
+          "image": "FSB-produkte_Kasse/schal-naturwolle-hellbraun.jpg",
           "available": 50
         },
         {
           "name": "hellgrau",
-          "image": "FSB-produkte_Kasse/wollschals-hellgrau.jpg",
+          "image": "FSB-produkte_Kasse/schal-naturwolle-hellgrau.jpg",
           "available": 50
         },
         {
           "name": "wollweiß",
-          "image": "FSB-produkte_Kasse/wollschals-wollweiss.jpg",
+          "image": "FSB-produkte_Kasse/schal-naturwolle-wollweiss.jpg",
           "available": 50
         },
         {
           "name": "dunkelgrau",
-          "image": "FSB-produkte_Kasse/wollschals-dunkelgrau.jpg",
+          "image": "FSB-produkte_Kasse/schal-naturwolle-dunkelgrau.jpg",
           "available": 50
         },
         {
           "name": "dunkelbraun",
-          "image": "FSB-produkte_Kasse/wollschals-dunkelbraun.jpg",
+          "image": "FSB-produkte_Kasse/schal-naturwolle-dunkelbraun.jpg",
           "available": 30
         }
       ]
     },
     {
-      "id": "stulpen",
-      "name": "Stulpen",
+      "id": "stulpen-naturwolle",
+      "name": "Stulpen Naturwolle",
       "price": 16.5,
       "unit": {
         "quantity": 1,
@@ -221,27 +221,27 @@
       "variants": [
         {
           "name": "dunkelgrau",
-          "image": "FSB-produkte_Kasse/stulpen-dunkelgrau.jpg",
+          "image": "FSB-produkte_Kasse/stulpen-naturwolle-dunkelgrau.jpg",
           "available": 20
         },
         {
           "name": "hellgrau",
-          "image": "FSB-produkte_Kasse/stulpen-hellgrau.jpg",
+          "image": "FSB-produkte_Kasse/stulpen-naturwolle-hellgrau.jpg",
           "available": 20
         },
         {
           "name": "wollweiß",
-          "image": "FSB-produkte_Kasse/stulpen-wollweiss.jpg",
+          "image": "FSB-produkte_Kasse/stulpen-naturwolle-wollweiss.jpg",
           "available": 20
         },
         {
           "name": "hellbraun",
-          "image": "FSB-produkte_Kasse/stulpen-hellbraun.jpg",
+          "image": "FSB-produkte_Kasse/stulpen-naturwolle-hellbraun.jpg",
           "available": 20
         },
         {
           "name": "dunkelbraun",
-          "image": "FSB-produkte_Kasse/stulpen-dunkelbraun.jpg",
+          "image": "FSB-produkte_Kasse/stulpen-naturwolle-dunkelbraun.jpg",
           "available": 20
         }
       ]
@@ -271,8 +271,8 @@
       ]
     },
     {
-      "id": "lamasocken",
-      "name": "Lamasocken",
+      "id": "socken-mit-lamawolle",
+      "name": "Socken mit Lamawolle",
       "price": 10,
       "unit": {
         "quantity": 1,
