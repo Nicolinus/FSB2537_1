@@ -95,7 +95,7 @@
     {
       "id": "stulpen",
       "name": "Stulpen",
-      "price": 13.5,
+      "price": 16.5,
       "unit": {
         "quantity": 1,
         "uom": "Paar",
@@ -201,6 +201,28 @@
       ]
     },
     {
+      "id": "wendemutze-alpaka",
+      "name": "Wendemütze Alpaka",
+      "price": 18.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "accessoires",
+      "active": true,
+      "order": 1,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "blaugrau",
+          "image": "",
+          "available": 90
+        }
+      ]
+    },
+    {
       "id": "wollsocken-mit-seide",
       "name": "Wollsocken mit Seide",
       "price": 10,
@@ -227,7 +249,7 @@
     {
       "id": "stabilia-arbeitssocken-jeansblau",
       "name": "Stabilia Arbeitssocken jeansblau",
-      "price": 5.85,
+      "price": 5,
       "unit": {
         "quantity": 1,
         "uom": "Paar",
@@ -251,7 +273,7 @@
     {
       "id": "lamasocken",
       "name": "Lamasocken",
-      "price": 12.2,
+      "price": 10,
       "unit": {
         "quantity": 1,
         "uom": "Paar",
@@ -305,7 +327,7 @@
     {
       "id": "stabilia-sockenwolle",
       "name": "Stabilia Sockenwolle",
-      "price": 1.5,
+      "price": 1.8,
       "unit": {
         "quantity": 50,
         "uom": "g",
@@ -521,6 +543,28 @@
         "uom": "g",
         "packaging": "Knäuel",
         "display": "pro 50g-Knäuel"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 3,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "country-tweed",
+      "name": "Country Tweed",
+      "price": 3.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "50g Knäuel",
+        "packaging": null,
+        "display": "pro Stück"
       },
       "category": "strickwolle",
       "active": true,
