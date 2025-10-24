@@ -146,7 +146,7 @@
       },
       "category": "accessoires",
       "active": true,
-      "order": 2,
+      "order": 1,
       "aliases": [],
       "variants": [
         {
@@ -177,24 +177,96 @@
       ]
     },
     {
-      "id": "wollkuegelchen-500g",
-      "name": "Wollkügelchen",
-      "price": 8.5,
+      "id": "lammwoll-muetze",
+      "name": "Lammwoll Mütze",
+      "price": 10,
       "unit": {
-        "quantity": 500,
-        "uom": "g",
+        "quantity": 1,
+        "uom": "Stück",
         "packaging": "null",
-        "display": "pro 500g"
+        "display": "pro Stück"
       },
-      "category": "fuellmaterial",
+      "category": "accessoires",
       "active": true,
-      "order": 6,
+      "order": 1,
+      "aliases": [
+        "Lammwollmütze"
+      ],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "wollsocken-mit-seide",
+      "name": "Wollsocken mit Seide",
+      "price": 10,
+      "unit": {
+        "quantity": 1,
+        "uom": "Paar",
+        "packaging": "null",
+        "display": "pro Paar"
+      },
+      "category": "socken",
+      "active": true,
+      "order": 2,
+      "aliases": [
+        "Wollsocken + Seide"
+      ],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "stabilia-arbeitssocken-jeansblau",
+      "name": "Stabilia Arbeitssocken jeansblau",
+      "price": 5.85,
+      "unit": {
+        "quantity": 1,
+        "uom": "Paar",
+        "packaging": "null",
+        "display": "pro Paar"
+      },
+      "category": "socken",
+      "active": true,
+      "order": 2,
+      "aliases": [
+        "Stabilia Socken"
+      ],
+      "variants": [
+        {
+          "name": "Größe 37-38",
+          "image": "FSB-produkte_Kasse/stabilia-arbeitssocken-jeansblau-grosse-37-38.jpg",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "lamasocken",
+      "name": "Lamasocken",
+      "price": 12.2,
+      "unit": {
+        "quantity": 1,
+        "uom": "Paar",
+        "packaging": "null",
+        "display": "pro Paar"
+      },
+      "category": "socken",
+      "active": true,
+      "order": 2,
       "aliases": [],
       "variants": [
         {
-          "name": "naturton",
-          "image": "FSB-produkte_Kasse/wollkuegelchen-500g-naturton.jpg",
-          "available": 100
+          "name": "Standard",
+          "image": "",
+          "available": 0
         }
       ]
     },
@@ -208,9 +280,9 @@
         "packaging": "Knuel",
         "display": "pro Stück"
       },
-      "category": "garn",
+      "category": "strickwolle",
       "active": true,
-      "order": 7,
+      "order": 3,
       "aliases": [],
       "variants": [
         {
@@ -240,9 +312,9 @@
         "packaging": "Knäuel",
         "display": "pro 50g-Knäuel"
       },
-      "category": "sockenwolle",
+      "category": "strickwolle",
       "active": true,
-      "order": 10,
+      "order": 3,
       "aliases": [],
       "variants": [
         {
@@ -253,20 +325,162 @@
       ]
     },
     {
-      "id": "wollsocken-mit-seide",
-      "name": "Wollsocken mit Seide",
-      "price": 10,
+      "id": "lama-sockenwolle",
+      "name": "Lama Sockenwolle",
+      "price": 4,
       "unit": {
-        "quantity": 1,
-        "uom": "Paar",
-        "packaging": "null",
-        "display": "pro Paar"
+        "quantity": 50,
+        "uom": "g",
+        "packaging": "Knäuel",
+        "display": "pro 50g-Knäuel"
       },
-      "category": "accessoires",
+      "category": "strickwolle",
       "active": true,
-      "order": 10,
+      "order": 3,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "soft-cotton",
+      "name": "Soft Cotton",
+      "price": 1.5,
+      "unit": {
+        "quantity": 50,
+        "uom": "g",
+        "packaging": "Knäuel",
+        "display": "pro 50g-Knäuel"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 3,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "bel-lino",
+      "name": "Bel Lino",
+      "price": 2.2,
+      "unit": {
+        "quantity": 50,
+        "uom": "g",
+        "packaging": "Knäuel",
+        "display": "pro 50g-Knäuel"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 3,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "hellgrau",
+          "image": "FSB-produkte_Kasse/bel-lino-hellgrau.jpg",
+          "available": 0
+        },
+        {
+          "name": "rosa",
+          "image": "FSB-produkte_Kasse/bel-lino-rosa.jpg",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "biskaya",
+      "name": "Biskaya",
+      "price": 2.2,
+      "unit": {
+        "quantity": 50,
+        "uom": "g",
+        "packaging": "Knäuel",
+        "display": "pro 50g-Knäuel"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 3,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "FSB-produkte_Kasse/biskaya.jpg",
+          "available": 100
+        },
+        {
+          "name": "Neue Farbe 2",
+          "image": "FSB-produkte_Kasse/biskaya-neue-farbe-2.jpg",
+          "available": 30
+        }
+      ]
+    },
+    {
+      "id": "solaire",
+      "name": "Solaire",
+      "price": 2.2,
+      "unit": {
+        "quantity": 50,
+        "uom": "g",
+        "packaging": "Knäuel",
+        "display": "pro 50g-Knäuel"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 3,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "violett",
+          "image": "",
+          "available": 50
+        }
+      ]
+    },
+    {
+      "id": "cotton-star",
+      "name": "Cotton Star",
+      "price": 2,
+      "unit": {
+        "quantity": 50,
+        "uom": "g",
+        "packaging": "Knäuel",
+        "display": "pro 50g-Knäuel"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 3,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "angora-elegance",
+      "name": "Angora élegance",
+      "price": 2,
+      "unit": {
+        "quantity": 20,
+        "uom": "g",
+        "packaging": "Knäuel",
+        "display": "pro 20g-Knäuel"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 3,
       "aliases": [
-        "Wollsocken + Seide"
+        "Angora elegance"
       ],
       "variants": [
         {
@@ -277,25 +491,111 @@
       ]
     },
     {
-      "id": "stabilia-arbeitssocken-jeansblau",
-      "name": "Stabilia Arbeitssocken jeansblau",
-      "price": 5.85,
+      "id": "susiwool",
+      "name": "Susiwool",
+      "price": 1,
       "unit": {
-        "quantity": 1,
-        "uom": "Paar",
-        "packaging": "null",
-        "display": "pro Paar"
+        "quantity": 50,
+        "uom": "g",
+        "packaging": "Knäuel",
+        "display": "pro 50g-Knäuel"
       },
-      "category": "accessoires",
+      "category": "strickwolle",
       "active": true,
-      "order": 10,
-      "aliases": [
-        "Stabilia Socken"
-      ],
+      "order": 3,
+      "aliases": [],
       "variants": [
         {
-          "name": "Größe 37-38",
-          "image": "FSB-produkte_Kasse/stabilia-arbeitssocken-jeansblau-grosse-37-38.jpg",
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "susiline",
+      "name": "Susiline",
+      "price": 1,
+      "unit": {
+        "quantity": 50,
+        "uom": "g",
+        "packaging": "Knäuel",
+        "display": "pro 50g-Knäuel"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 3,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "wollkuegelchen-500g",
+      "name": "Wollkügelchen",
+      "price": 8.5,
+      "unit": {
+        "quantity": 500,
+        "uom": "g",
+        "packaging": "null",
+        "display": "pro 500g"
+      },
+      "category": "sonstiges",
+      "active": true,
+      "order": 4,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "naturton",
+          "image": "FSB-produkte_Kasse/wollkuegelchen-500g-naturton.jpg",
+          "available": 100
+        }
+      ]
+    },
+    {
+      "id": "makramee-3mm",
+      "name": "Makramee 3mm",
+      "price": 1.5,
+      "unit": {
+        "quantity": 100,
+        "uom": "g",
+        "packaging": "null",
+        "display": "pro 100g"
+      },
+      "category": "sonstiges",
+      "active": true,
+      "order": 4,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "makramee-5mm",
+      "name": "Makramee 5mm",
+      "price": 2.5,
+      "unit": {
+        "quantity": 100,
+        "uom": "g",
+        "packaging": "null",
+        "display": "pro 100g"
+      },
+      "category": "sonstiges",
+      "active": true,
+      "order": 4,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
           "available": 0
         }
       ]
@@ -325,262 +625,6 @@
       ]
     },
     {
-      "id": "lama-sockenwolle",
-      "name": "Lama Sockenwolle",
-      "price": 4,
-      "unit": {
-        "quantity": 50,
-        "uom": "g",
-        "packaging": "Knäuel",
-        "display": "pro 50g-Knäuel"
-      },
-      "category": "sockenwolle",
-      "active": true,
-      "order": 13,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "",
-          "available": 0
-        }
-      ]
-    },
-    {
-      "id": "lammwoll-muetze",
-      "name": "Lammwoll Mütze",
-      "price": 10,
-      "unit": {
-        "quantity": 1,
-        "uom": "Stück",
-        "packaging": "null",
-        "display": "pro Stück"
-      },
-      "category": "accessoires",
-      "active": true,
-      "order": 17,
-      "aliases": [
-        "Lammwollmütze"
-      ],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "",
-          "available": 0
-        }
-      ]
-    },
-    {
-      "id": "soft-cotton",
-      "name": "Soft Cotton",
-      "price": 1.5,
-      "unit": {
-        "quantity": 50,
-        "uom": "g",
-        "packaging": "Knäuel",
-        "display": "pro 50g-Knäuel"
-      },
-      "category": "garn",
-      "active": true,
-      "order": 20,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "",
-          "available": 0
-        }
-      ]
-    },
-    {
-      "id": "bel-lino",
-      "name": "Bel Lino",
-      "price": 2.2,
-      "unit": {
-        "quantity": 50,
-        "uom": "g",
-        "packaging": "Knäuel",
-        "display": "pro 50g-Knäuel"
-      },
-      "category": "garn",
-      "active": true,
-      "order": 20,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "hellgrau",
-          "image": "FSB-produkte_Kasse/bel-lino-hellgrau.jpg",
-          "available": 0
-        },
-        {
-          "name": "rosa",
-          "image": "FSB-produkte_Kasse/bel-lino-rosa.jpg",
-          "available": 0
-        }
-      ]
-    },
-    {
-      "id": "biskaya",
-      "name": "Biskaya",
-      "price": 2.2,
-      "unit": {
-        "quantity": 50,
-        "uom": "g",
-        "packaging": "Knäuel",
-        "display": "pro 50g-Knäuel"
-      },
-      "category": "garn",
-      "active": true,
-      "order": 20,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "FSB-produkte_Kasse/biskaya.jpg",
-          "available": 100
-        },
-        {
-          "name": "Neue Farbe 2",
-          "image": "FSB-produkte_Kasse/biskaya-neue-farbe-2.jpg",
-          "available": 30
-        }
-      ]
-    },
-    {
-      "id": "solaire",
-      "name": "Solaire",
-      "price": 2.2,
-      "unit": {
-        "quantity": 50,
-        "uom": "g",
-        "packaging": "Knäuel",
-        "display": "pro 50g-Knäuel"
-      },
-      "category": "garn",
-      "active": true,
-      "order": 20,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "violett",
-          "image": "",
-          "available": 50
-        }
-      ]
-    },
-    {
-      "id": "cotton-star",
-      "name": "Cotton Star",
-      "price": 2,
-      "unit": {
-        "quantity": 50,
-        "uom": "g",
-        "packaging": "Knäuel",
-        "display": "pro 50g-Knäuel"
-      },
-      "category": "garn",
-      "active": true,
-      "order": 20,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "",
-          "available": 0
-        }
-      ]
-    },
-    {
-      "id": "angora-elegance",
-      "name": "Angora élegance",
-      "price": 2,
-      "unit": {
-        "quantity": 20,
-        "uom": "g",
-        "packaging": "Knäuel",
-        "display": "pro 20g-Knäuel"
-      },
-      "category": "garn",
-      "active": true,
-      "order": 20,
-      "aliases": [
-        "Angora elegance"
-      ],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "",
-          "available": 0
-        }
-      ]
-    },
-    {
-      "id": "lamasocken",
-      "name": "Lamasocken",
-      "price": 12.2,
-      "unit": {
-        "quantity": 1,
-        "uom": "Paar",
-        "packaging": "null",
-        "display": "pro Paar"
-      },
-      "category": "accessoires",
-      "active": true,
-      "order": 23,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "",
-          "available": 0
-        }
-      ]
-    },
-    {
-      "id": "makramee-3mm",
-      "name": "Makramee 3mm",
-      "price": 1.5,
-      "unit": {
-        "quantity": 100,
-        "uom": "g",
-        "packaging": "null",
-        "display": "pro 100g"
-      },
-      "category": "makramee",
-      "active": true,
-      "order": 25,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "",
-          "available": 0
-        }
-      ]
-    },
-    {
-      "id": "makramee-5mm",
-      "name": "Makramee 5mm",
-      "price": 2.5,
-      "unit": {
-        "quantity": 100,
-        "uom": "g",
-        "packaging": "null",
-        "display": "pro 100g"
-      },
-      "category": "makramee",
-      "active": true,
-      "order": 26,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "",
-          "available": 0
-        }
-      ]
-    },
-    {
       "id": "kardenband",
       "name": "Kardenband",
       "price": 15,
@@ -593,50 +637,6 @@
       "category": "rohwolle",
       "active": true,
       "order": 27,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "",
-          "available": 0
-        }
-      ]
-    },
-    {
-      "id": "susiwool",
-      "name": "Susiwool",
-      "price": 1,
-      "unit": {
-        "quantity": 50,
-        "uom": "g",
-        "packaging": "Knäuel",
-        "display": "pro 50g-Knäuel"
-      },
-      "category": "garn",
-      "active": true,
-      "order": 30,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "",
-          "available": 0
-        }
-      ]
-    },
-    {
-      "id": "susiline",
-      "name": "Susiline",
-      "price": 1,
-      "unit": {
-        "quantity": 50,
-        "uom": "g",
-        "packaging": "Knäuel",
-        "display": "pro 50g-Knäuel"
-      },
-      "category": "garn",
-      "active": true,
-      "order": 30,
       "aliases": [],
       "variants": [
         {
