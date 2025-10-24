@@ -75,8 +75,8 @@
       ]
     },
     {
-      "id": "wendemutzen",
-      "name": "Wendemützen",
+      "id": "wendemutzen-naturwolle",
+      "name": "Wendemützen Naturwolle",
       "price": 18.5,
       "unit": {
         "quantity": 1,
@@ -91,22 +91,22 @@
       "variants": [
         {
           "name": "hellgrau",
-          "image": "FSB-produkte_Kasse/wendemutzen-hellgrau.jpg",
+          "image": "FSB-produkte_Kasse/wendemutzen-naturwolle-hellgrau.jpg",
           "available": 120
         },
         {
           "name": "hellbraun",
-          "image": "FSB-produkte_Kasse/wendemutzen-hellbraun.jpg",
+          "image": "FSB-produkte_Kasse/wendemutzen-naturwolle-hellbraun.jpg",
           "available": 120
         },
         {
           "name": "dunkelgrau",
-          "image": "FSB-produkte_Kasse/wendemutzen-dunkelgrau.jpg",
+          "image": "FSB-produkte_Kasse/wendemutzen-naturwolle-dunkelgrau.jpg",
           "available": 19
         },
         {
           "name": "dunkelbraun",
-          "image": "FSB-produkte_Kasse/wendemutzen-dunkelbraun.jpg",
+          "image": "FSB-produkte_Kasse/wendemutzen-naturwolle-dunkelbraun.jpg",
           "available": 36
         },
         {
