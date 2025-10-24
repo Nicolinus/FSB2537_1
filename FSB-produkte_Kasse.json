@@ -51,6 +51,30 @@
   ],
   "products": [
     {
+      "id": "sockenwolle-mit-seide",
+      "name": "Sockenwolle mit Seide",
+      "price": 3.5,
+      "unit": {
+        "quantity": 50,
+        "uom": "g",
+        "packaging": "Knäuel",
+        "display": "pro 50g-Knäuel"
+      },
+      "category": "sockenwolle",
+      "active": false,
+      "order": 12,
+      "aliases": [
+        "Sockenwolle + Seide"
+      ],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
+    },
+    {
       "id": "wendemutzen",
       "name": "Wendemützen",
       "price": 18.5,
@@ -62,7 +86,7 @@
       },
       "category": "accessoires",
       "active": true,
-      "order": 1,
+      "order": 110,
       "aliases": [],
       "variants": [
         {
@@ -93,44 +117,48 @@
       ]
     },
     {
-      "id": "stulpen",
-      "name": "Stulpen",
-      "price": 16.5,
+      "id": "wendemutze-alpaka",
+      "name": "Wendemütze Alpaka",
+      "price": 18.5,
       "unit": {
         "quantity": 1,
-        "uom": "Paar",
-        "packaging": "null",
-        "display": "pro Paar"
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
       },
       "category": "accessoires",
       "active": true,
-      "order": 1,
+      "order": 112,
       "aliases": [],
       "variants": [
         {
-          "name": "dunkelgrau",
-          "image": "FSB-produkte_Kasse/stulpen-dunkelgrau.jpg",
-          "available": 20
-        },
+          "name": "blaugrau",
+          "image": "",
+          "available": 90
+        }
+      ]
+    },
+    {
+      "id": "lammwoll-muetze",
+      "name": "Lammwoll Mütze",
+      "price": 10,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": "null",
+        "display": "pro Stück"
+      },
+      "category": "accessoires",
+      "active": true,
+      "order": 115,
+      "aliases": [
+        "Lammwollmütze"
+      ],
+      "variants": [
         {
-          "name": "hellgrau",
-          "image": "FSB-produkte_Kasse/stulpen-hellgrau.jpg",
-          "available": 20
-        },
-        {
-          "name": "wollweiß",
-          "image": "FSB-produkte_Kasse/stulpen-wollweiss.jpg",
-          "available": 20
-        },
-        {
-          "name": "hellbraun",
-          "image": "FSB-produkte_Kasse/stulpen-hellbraun.jpg",
-          "available": 20
-        },
-        {
-          "name": "dunkelbraun",
-          "image": "FSB-produkte_Kasse/stulpen-dunkelbraun.jpg",
-          "available": 20
+          "name": "Standard",
+          "image": "",
+          "available": 0
         }
       ]
     },
@@ -146,7 +174,7 @@
       },
       "category": "accessoires",
       "active": true,
-      "order": 1,
+      "order": 130,
       "aliases": [],
       "variants": [
         {
@@ -177,48 +205,44 @@
       ]
     },
     {
-      "id": "lammwoll-muetze",
-      "name": "Lammwoll Mütze",
-      "price": 10,
+      "id": "stulpen",
+      "name": "Stulpen",
+      "price": 16.5,
       "unit": {
         "quantity": 1,
-        "uom": "Stück",
+        "uom": "Paar",
         "packaging": "null",
-        "display": "pro Stück"
+        "display": "pro Paar"
       },
       "category": "accessoires",
       "active": true,
-      "order": 1,
-      "aliases": [
-        "Lammwollmütze"
-      ],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "",
-          "available": 0
-        }
-      ]
-    },
-    {
-      "id": "wendemutze-alpaka",
-      "name": "Wendemütze Alpaka",
-      "price": 18.5,
-      "unit": {
-        "quantity": 1,
-        "uom": "Stück",
-        "packaging": null,
-        "display": "pro Stück"
-      },
-      "category": "accessoires",
-      "active": true,
-      "order": 1,
+      "order": 160,
       "aliases": [],
       "variants": [
         {
-          "name": "blaugrau",
-          "image": "",
-          "available": 90
+          "name": "dunkelgrau",
+          "image": "FSB-produkte_Kasse/stulpen-dunkelgrau.jpg",
+          "available": 20
+        },
+        {
+          "name": "hellgrau",
+          "image": "FSB-produkte_Kasse/stulpen-hellgrau.jpg",
+          "available": 20
+        },
+        {
+          "name": "wollweiß",
+          "image": "FSB-produkte_Kasse/stulpen-wollweiss.jpg",
+          "available": 20
+        },
+        {
+          "name": "hellbraun",
+          "image": "FSB-produkte_Kasse/stulpen-hellbraun.jpg",
+          "available": 20
+        },
+        {
+          "name": "dunkelbraun",
+          "image": "FSB-produkte_Kasse/stulpen-dunkelbraun.jpg",
+          "available": 20
         }
       ]
     },
@@ -234,10 +258,32 @@
       },
       "category": "socken",
       "active": true,
-      "order": 2,
+      "order": 210,
       "aliases": [
         "Wollsocken + Seide"
       ],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "lamasocken",
+      "name": "Lamasocken",
+      "price": 10,
+      "unit": {
+        "quantity": 1,
+        "uom": "Paar",
+        "packaging": "null",
+        "display": "pro Paar"
+      },
+      "category": "socken",
+      "active": true,
+      "order": 220,
+      "aliases": [],
       "variants": [
         {
           "name": "Standard",
@@ -258,7 +304,7 @@
       },
       "category": "socken",
       "active": true,
-      "order": 2,
+      "order": 230,
       "aliases": [
         "Stabilia Socken"
       ],
@@ -271,18 +317,40 @@
       ]
     },
     {
-      "id": "lamasocken",
-      "name": "Lamasocken",
-      "price": 10,
+      "id": "lama-sockenwolle",
+      "name": "Lama Sockenwolle",
+      "price": 4,
       "unit": {
-        "quantity": 1,
-        "uom": "Paar",
-        "packaging": "null",
-        "display": "pro Paar"
+        "quantity": 50,
+        "uom": "g",
+        "packaging": "Knäuel",
+        "display": "pro 50g-Knäuel"
       },
-      "category": "socken",
+      "category": "strickwolle",
       "active": true,
-      "order": 2,
+      "order": 310,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "stabilia-sockenwolle",
+      "name": "Stabilia Sockenwolle",
+      "price": 1.8,
+      "unit": {
+        "quantity": 50,
+        "uom": "g",
+        "packaging": "Knäuel",
+        "display": "pro 50g-Knäuel"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 315,
       "aliases": [],
       "variants": [
         {
@@ -304,7 +372,7 @@
       },
       "category": "strickwolle",
       "active": true,
-      "order": 3,
+      "order": 324,
       "aliases": [],
       "variants": [
         {
@@ -325,94 +393,23 @@
       ]
     },
     {
-      "id": "stabilia-sockenwolle",
-      "name": "Stabilia Sockenwolle",
-      "price": 1.8,
+      "id": "country-tweed",
+      "name": "Country Tweed",
+      "price": 3.5,
       "unit": {
-        "quantity": 50,
-        "uom": "g",
-        "packaging": "Knäuel",
-        "display": "pro 50g-Knäuel"
+        "quantity": 1,
+        "uom": "50g Knäuel",
+        "packaging": null,
+        "display": "pro Stück"
       },
       "category": "strickwolle",
       "active": true,
-      "order": 3,
+      "order": 325,
       "aliases": [],
       "variants": [
         {
           "name": "Standard",
           "image": "",
-          "available": 0
-        }
-      ]
-    },
-    {
-      "id": "lama-sockenwolle",
-      "name": "Lama Sockenwolle",
-      "price": 4,
-      "unit": {
-        "quantity": 50,
-        "uom": "g",
-        "packaging": "Knäuel",
-        "display": "pro 50g-Knäuel"
-      },
-      "category": "strickwolle",
-      "active": true,
-      "order": 3,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "",
-          "available": 0
-        }
-      ]
-    },
-    {
-      "id": "soft-cotton",
-      "name": "Soft Cotton",
-      "price": 1.5,
-      "unit": {
-        "quantity": 50,
-        "uom": "g",
-        "packaging": "Knäuel",
-        "display": "pro 50g-Knäuel"
-      },
-      "category": "strickwolle",
-      "active": true,
-      "order": 3,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "",
-          "available": 0
-        }
-      ]
-    },
-    {
-      "id": "bel-lino",
-      "name": "Bel Lino",
-      "price": 2.2,
-      "unit": {
-        "quantity": 50,
-        "uom": "g",
-        "packaging": "Knäuel",
-        "display": "pro 50g-Knäuel"
-      },
-      "category": "strickwolle",
-      "active": true,
-      "order": 3,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "hellgrau",
-          "image": "FSB-produkte_Kasse/bel-lino-hellgrau.jpg",
-          "available": 0
-        },
-        {
-          "name": "rosa",
-          "image": "FSB-produkte_Kasse/bel-lino-rosa.jpg",
           "available": 0
         }
       ]
@@ -429,7 +426,7 @@
       },
       "category": "strickwolle",
       "active": true,
-      "order": 3,
+      "order": 360,
       "aliases": [],
       "variants": [
         {
@@ -456,7 +453,7 @@
       },
       "category": "strickwolle",
       "active": true,
-      "order": 3,
+      "order": 364,
       "aliases": [],
       "variants": [
         {
@@ -467,9 +464,9 @@
       ]
     },
     {
-      "id": "cotton-star",
-      "name": "Cotton Star",
-      "price": 2,
+      "id": "bel-lino",
+      "name": "Bel Lino",
+      "price": 2.2,
       "unit": {
         "quantity": 50,
         "uom": "g",
@@ -478,12 +475,17 @@
       },
       "category": "strickwolle",
       "active": true,
-      "order": 3,
+      "order": 365,
       "aliases": [],
       "variants": [
         {
-          "name": "Standard",
-          "image": "",
+          "name": "hellgrau",
+          "image": "FSB-produkte_Kasse/bel-lino-hellgrau.jpg",
+          "available": 0
+        },
+        {
+          "name": "rosa",
+          "image": "FSB-produkte_Kasse/bel-lino-rosa.jpg",
           "available": 0
         }
       ]
@@ -500,10 +502,54 @@
       },
       "category": "strickwolle",
       "active": true,
-      "order": 3,
+      "order": 370,
       "aliases": [
         "Angora elegance"
       ],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "cotton-star",
+      "name": "Cotton Star",
+      "price": 2,
+      "unit": {
+        "quantity": 50,
+        "uom": "g",
+        "packaging": "Knäuel",
+        "display": "pro 50g-Knäuel"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 380,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "soft-cotton",
+      "name": "Soft Cotton",
+      "price": 1.5,
+      "unit": {
+        "quantity": 50,
+        "uom": "g",
+        "packaging": "Knäuel",
+        "display": "pro 50g-Knäuel"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 385,
+      "aliases": [],
       "variants": [
         {
           "name": "Standard",
@@ -524,7 +570,7 @@
       },
       "category": "strickwolle",
       "active": true,
-      "order": 3,
+      "order": 390,
       "aliases": [],
       "variants": [
         {
@@ -546,29 +592,7 @@
       },
       "category": "strickwolle",
       "active": true,
-      "order": 3,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "",
-          "available": 0
-        }
-      ]
-    },
-    {
-      "id": "country-tweed",
-      "name": "Country Tweed",
-      "price": 3.5,
-      "unit": {
-        "quantity": 1,
-        "uom": "50g Knäuel",
-        "packaging": null,
-        "display": "pro Stück"
-      },
-      "category": "strickwolle",
-      "active": true,
-      "order": 3,
+      "order": 395,
       "aliases": [],
       "variants": [
         {
@@ -590,7 +614,7 @@
       },
       "category": "sonstiges",
       "active": true,
-      "order": 4,
+      "order": 410,
       "aliases": [],
       "variants": [
         {
@@ -612,7 +636,7 @@
       },
       "category": "sonstiges",
       "active": true,
-      "order": 4,
+      "order": 420,
       "aliases": [],
       "variants": [
         {
@@ -634,7 +658,7 @@
       },
       "category": "sonstiges",
       "active": true,
-      "order": 4,
+      "order": 425,
       "aliases": [],
       "variants": [
         {
@@ -656,32 +680,8 @@
       },
       "category": "sonstiges",
       "active": true,
-      "order": 4,
+      "order": 430,
       "aliases": [],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "",
-          "available": 0
-        }
-      ]
-    },
-    {
-      "id": "sockenwolle-mit-seide",
-      "name": "Sockenwolle mit Seide",
-      "price": 3.5,
-      "unit": {
-        "quantity": 50,
-        "uom": "g",
-        "packaging": "Knäuel",
-        "display": "pro 50g-Knäuel"
-      },
-      "category": "sockenwolle",
-      "active": false,
-      "order": 12,
-      "aliases": [
-        "Sockenwolle + Seide"
-      ],
       "variants": [
         {
           "name": "Standard",
