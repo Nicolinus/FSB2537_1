@@ -29,6 +29,11 @@
   },
   "categories": [
     {
+      "id": "alle",
+      "name": "Alle",
+      "order": 0
+    },
+    {
       "id": "garn",
       "name": "Garn",
       "order": 1
@@ -49,14 +54,9 @@
       "order": 4
     },
     {
-      "id": "fuellmaterial",
-      "name": "Füllmaterial",
+      "id": "sonstiges",
+      "name": "Sonstiges",
       "order": 5
-    },
-    {
-      "id": "rohwolle",
-      "name": "Rohwolle",
-      "order": 6
     }
   ],
   "products": [
