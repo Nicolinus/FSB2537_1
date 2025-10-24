@@ -293,8 +293,8 @@
       ]
     },
     {
-      "id": "stabilia-arbeitssocken-jeansblau",
-      "name": "Stabilia Arbeitssocken jeansblau",
+      "id": "stabilia-arbeitssocken",
+      "name": "Stabilia Arbeitssocken",
       "price": 5,
       "unit": {
         "quantity": 1,
@@ -311,7 +311,7 @@
       "variants": [
         {
           "name": "Größe 37-38",
-          "image": "FSB-produkte_Kasse/stabilia-arbeitssocken-jeansblau-grosse-37-38.jpg",
+          "image": "FSB-produkte_Kasse/stabilia-arbeitssocken-grosse-37-38.jpg",
           "available": 0
         }
       ]
