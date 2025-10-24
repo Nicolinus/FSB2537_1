@@ -601,6 +601,28 @@
       ]
     },
     {
+      "id": "kardenband",
+      "name": "Kardenband",
+      "price": 15,
+      "unit": {
+        "quantity": 500,
+        "uom": "g",
+        "packaging": "null",
+        "display": "pro 500g"
+      },
+      "category": "sonstiges",
+      "active": true,
+      "order": 4,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
+    },
+    {
       "id": "sockenwolle-mit-seide",
       "name": "Sockenwolle mit Seide",
       "price": 3.5,
@@ -616,28 +638,6 @@
       "aliases": [
         "Sockenwolle + Seide"
       ],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "",
-          "available": 0
-        }
-      ]
-    },
-    {
-      "id": "kardenband",
-      "name": "Kardenband",
-      "price": 15,
-      "unit": {
-        "quantity": 500,
-        "uom": "g",
-        "packaging": "null",
-        "display": "pro 500g"
-      },
-      "category": "rohwolle",
-      "active": true,
-      "order": 27,
-      "aliases": [],
       "variants": [
         {
           "name": "Standard",
