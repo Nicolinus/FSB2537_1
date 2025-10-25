@@ -7,7 +7,7 @@
     "discounts": [
       {
         "threshold": 0,
-        "rate": 0.25
+        "rate": 0.2
       }
     ]
   },
