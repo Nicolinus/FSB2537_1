@@ -671,7 +671,7 @@
     {
       "id": "kardenband",
       "name": "Kardenband",
-      "price": 15,
+      "price": 10,
       "unit": {
         "quantity": 500,
         "uom": "g",
@@ -686,7 +686,7 @@
         {
           "name": "Standard",
           "image": "",
-          "available": 0
+          "available": 10
         }
       ]
     }
