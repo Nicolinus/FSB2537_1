@@ -603,8 +603,8 @@
       ]
     },
     {
-      "id": "wollkuegelchen-500g",
-      "name": "Wollkügelchen",
+      "id": "naturwolle-kugelchen",
+      "name": "Naturwolle Kügelchen",
       "price": 8.5,
       "unit": {
         "quantity": 500,
@@ -619,7 +619,7 @@
       "variants": [
         {
           "name": "naturton",
-          "image": "FSB-produkte_Kasse/wollkuegelchen-500g-naturton.jpg",
+          "image": "FSB-produkte_Kasse/naturwolle-kugelchen-naturton.jpg",
           "available": 100
         }
       ]
