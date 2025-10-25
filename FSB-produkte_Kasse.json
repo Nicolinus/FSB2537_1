@@ -464,8 +464,8 @@
       ]
     },
     {
-      "id": "bel-lino",
-      "name": "Bel Lino",
+      "id": "bellino",
+      "name": "BelLino",
       "price": 2.2,
       "unit": {
         "quantity": 50,
@@ -480,12 +480,12 @@
       "variants": [
         {
           "name": "hellgrau",
-          "image": "FSB-produkte_Kasse/bel-lino-hellgrau.jpg",
+          "image": "FSB-produkte_Kasse/bellino-hellgrau.jpg",
           "available": 0
         },
         {
           "name": "rosa",
-          "image": "FSB-produkte_Kasse/bel-lino-rosa.jpg",
+          "image": "FSB-produkte_Kasse/bellino-rosa.jpg",
           "available": 0
         }
       ]
