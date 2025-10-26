@@ -39,43 +39,6 @@
   ],
   "products": [
     {
-      "id": "wendemutze",
-      "name": "Wendemütze",
-      "price": 18.5,
-      "unit": {
-        "quantity": 1,
-        "uom": "Stück",
-        "packaging": "PE-Beutel",
-        "display": "pro Stück"
-      },
-      "category": "accessoires",
-      "active": true,
-      "order": 10,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "hellgrau",
-          "image": "fsb_produkte_test/wendemutze-hellgrau.jpg",
-          "available": 120
-        },
-        {
-          "name": "hellbraun",
-          "image": "fsb_produkte_test/wendemutze-hellbraun.jpg",
-          "available": 120
-        },
-        {
-          "name": "dunkelgrau",
-          "image": "fsb_produkte_test/wendemutze-dunkelgrau.jpg",
-          "available": 19
-        },
-        {
-          "name": "dunkelbraun",
-          "image": "fsb_produkte_test/wendemutze-dunkelbraun.jpg",
-          "available": 36
-        }
-      ]
-    },
-    {
       "id": "wendemutze-alpaka",
       "name": "Wendemütze Alpaka",
       "price": 18.5,
@@ -382,6 +345,28 @@
           "name": "naturweiß",
           "image": "fsb_produkte_test/naturwollkugelchen-naturweiss.jpg",
           "available": 100
+        }
+      ]
+    },
+    {
+      "id": "wende-mutzen",
+      "name": "Wende Mützen",
+      "price": 27.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "accessoires",
+      "active": true,
+      "order": 50,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "wollweiß",
+          "image": "fsb_produkte_test/wende-mutzen-wollweiss.jpg",
+          "available": 200
         }
       ]
     }
