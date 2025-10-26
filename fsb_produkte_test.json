@@ -57,6 +57,11 @@
           "name": "wollweiß",
           "image": "fsb_produkte_test/wende-mutzen-wollweiss.jpg",
           "available": 200
+        },
+        {
+          "name": "braun",
+          "image": "",
+          "available": 30
         }
       ]
     },
