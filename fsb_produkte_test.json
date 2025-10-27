@@ -39,8 +39,8 @@
   ],
   "products": [
     {
-      "id": "wende-mutzen",
-      "name": "Wende Mützen",
+      "id": "test-garn",
+      "name": "Test Garn",
       "price": 27.5,
       "unit": {
         "quantity": 1,
@@ -54,14 +54,74 @@
       "aliases": [],
       "variants": [
         {
-          "name": "wollweiß",
-          "image": "fsb_produkte_test/wende-mutzen-wollweiss.jpg",
+          "name": "32",
+          "image": "fsb_produkte_test/test-garn-32.jpg",
+          "available": 100
+        },
+        {
+          "name": "21",
+          "image": "",
+          "available": 30
+        },
+        {
+          "name": "35",
+          "image": "",
+          "available": 20
+        },
+        {
+          "name": "56",
+          "image": "",
+          "available": 100
+        },
+        {
+          "name": "61",
+          "image": "",
+          "available": 100
+        },
+        {
+          "name": "63",
+          "image": "",
+          "available": 10
+        },
+        {
+          "name": "65",
+          "image": "",
+          "available": 30
+        },
+        {
+          "name": "67",
+          "image": "",
+          "available": 100
+        },
+        {
+          "name": "69",
+          "image": "",
+          "available": 100
+        },
+        {
+          "name": "70",
+          "image": "",
+          "available": 100
+        },
+        {
+          "name": "74",
+          "image": "",
+          "available": 10
+        },
+        {
+          "name": "76",
+          "image": "",
+          "available": 350
+        },
+        {
+          "name": "83",
+          "image": "",
           "available": 200
         },
         {
-          "name": "braun",
+          "name": "85",
           "image": "",
-          "available": 30
+          "available": 60
         }
       ]
     },
