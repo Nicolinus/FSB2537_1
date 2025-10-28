@@ -323,6 +323,38 @@
       ]
     },
     {
+      "id": "countrytweed",
+      "name": "CountryTweed",
+      "price": 3.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "50g Knäuel",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 33,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "61",
+          "image": "fsb_produkte_ek/countrytweed-61.jpg",
+          "available": 100
+        },
+        {
+          "name": "16",
+          "image": "fsb_produkte_ek/countrytweed-61.jpg",
+          "available": 100
+        },
+        {
+          "name": "11",
+          "image": "",
+          "available": 0
+        }
+      ]
+    },
+    {
       "id": "naturwolle-kugelchen",
       "name": "Naturwolle Kügelchen",
       "price": 8.5,
@@ -340,33 +372,6 @@
         {
           "name": "naturweiß",
           "image": "fsb_produkte_ek/naturwolle-kugelchen-naturweiss.jpg",
-          "available": 100
-        }
-      ]
-    },
-    {
-      "id": "countrytweed",
-      "name": "CountryTweed",
-      "price": 3.5,
-      "unit": {
-        "quantity": 1,
-        "uom": "50g KNÄUEL",
-        "packaging": null,
-        "display": "pro Stück"
-      },
-      "category": "strickwolle",
-      "active": true,
-      "order": 50,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "61",
-          "image": "fsb_produkte_ek/countrytweed-61.jpg",
-          "available": 100
-        },
-        {
-          "name": "16",
-          "image": "",
           "available": 100
         }
       ]
