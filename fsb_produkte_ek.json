@@ -349,8 +349,38 @@
         },
         {
           "name": "11",
-          "image": "",
-          "available": 0
+          "image": "fsb_produkte_ek/countrytweed-61.jpg",
+          "available": 100
+        },
+        {
+          "name": "45",
+          "image": "fsb_produkte_ek/countrytweed-61.jpg",
+          "available": 100
+        },
+        {
+          "name": "25",
+          "image": "fsb_produkte_ek/countrytweed-61.jpg",
+          "available": 100
+        },
+        {
+          "name": "43",
+          "image": "fsb_produkte_ek/countrytweed-61.jpg",
+          "available": 100
+        },
+        {
+          "name": "66",
+          "image": "fsb_produkte_ek/countrytweed-61.jpg",
+          "available": 100
+        },
+        {
+          "name": "68",
+          "image": "fsb_produkte_ek/countrytweed-61.jpg",
+          "available": 100
+        },
+        {
+          "name": "67",
+          "image": "fsb_produkte_ek/countrytweed-61.jpg",
+          "available": 100
         }
       ]
     },
