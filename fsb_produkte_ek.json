@@ -354,14 +354,14 @@
         "packaging": null,
         "display": "pro Stück"
       },
-      "category": "",
+      "category": "strickwolle",
       "active": true,
       "order": 50,
       "aliases": [],
       "variants": [
         {
           "name": "61",
-          "image": "fsb_produkte_ek/countrytweed-61.jpg",
+          "image": "",
           "available": 100
         }
       ]
