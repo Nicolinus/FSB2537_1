@@ -486,7 +486,7 @@
     {
       "id": "soft-cotton",
       "name": "Soft Cotton",
-      "price": 0,
+      "price": 2,
       "unit": {
         "quantity": 1,
         "uom": "50g Knäuel",
@@ -500,6 +500,41 @@
       "variants": [
         {
           "name": "64",
+          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
+          "available": 100
+        },
+        {
+          "name": "69",
+          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
+          "available": 100
+        },
+        {
+          "name": "18",
+          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
+          "available": 100
+        },
+        {
+          "name": "11",
+          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
+          "available": 100
+        },
+        {
+          "name": "78",
+          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
+          "available": 100
+        },
+        {
+          "name": "58",
+          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
+          "available": 100
+        },
+        {
+          "name": "29",
+          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
+          "available": 100
+        },
+        {
+          "name": "43",
           "image": "fsb_produkte_ek/soft-cotton-64.jpg",
           "available": 100
         }
