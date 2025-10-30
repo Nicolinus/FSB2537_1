@@ -385,6 +385,63 @@
       ]
     },
     {
+      "id": "soft-cotton",
+      "name": "Soft Cotton",
+      "price": 2,
+      "unit": {
+        "quantity": 1,
+        "uom": "50g Knäuel",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 35,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "64",
+          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
+          "available": 100
+        },
+        {
+          "name": "69",
+          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
+          "available": 100
+        },
+        {
+          "name": "18",
+          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
+          "available": 100
+        },
+        {
+          "name": "11",
+          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
+          "available": 100
+        },
+        {
+          "name": "78",
+          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
+          "available": 100
+        },
+        {
+          "name": "58",
+          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
+          "available": 100
+        },
+        {
+          "name": "29",
+          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
+          "available": 100
+        },
+        {
+          "name": "43",
+          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
+          "available": 100
+        }
+      ]
+    },
+    {
       "id": "susiwool",
       "name": "Susiwool",
       "price": 1,
@@ -479,63 +536,6 @@
         {
           "name": "naturweiß",
           "image": "fsb_produkte_ek/naturwolle-kugelchen-naturweiss.jpg",
-          "available": 100
-        }
-      ]
-    },
-    {
-      "id": "soft-cotton",
-      "name": "Soft Cotton",
-      "price": 2,
-      "unit": {
-        "quantity": 1,
-        "uom": "50g Knäuel",
-        "packaging": null,
-        "display": "pro Stück"
-      },
-      "category": "strickwolle",
-      "active": true,
-      "order": 50,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "64",
-          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
-          "available": 100
-        },
-        {
-          "name": "69",
-          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
-          "available": 100
-        },
-        {
-          "name": "18",
-          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
-          "available": 100
-        },
-        {
-          "name": "11",
-          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
-          "available": 100
-        },
-        {
-          "name": "78",
-          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
-          "available": 100
-        },
-        {
-          "name": "58",
-          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
-          "available": 100
-        },
-        {
-          "name": "29",
-          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
-          "available": 100
-        },
-        {
-          "name": "43",
-          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
           "available": 100
         }
       ]
