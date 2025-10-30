@@ -482,6 +482,28 @@
           "available": 100
         }
       ]
+    },
+    {
+      "id": "soft-cotton",
+      "name": "Soft Cotton",
+      "price": 0,
+      "unit": {
+        "quantity": 1,
+        "uom": "50g Knäuel",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 50,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "64",
+          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
+          "available": 100
+        }
+      ]
     }
   ]
 }
