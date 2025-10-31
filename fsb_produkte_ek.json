@@ -174,7 +174,7 @@
       },
       "category": "socken",
       "active": true,
-      "order": 20,
+      "order": 17,
       "aliases": [],
       "variants": [
         {
@@ -211,7 +211,7 @@
       },
       "category": "socken",
       "active": true,
-      "order": 21,
+      "order": 18,
       "aliases": [],
       "variants": [
         {
@@ -246,9 +246,9 @@
         "packaging": null,
         "display": "pro Paar"
       },
-      "category": "accessoires",
+      "category": "socken",
       "active": true,
-      "order": 22,
+      "order": 19,
       "aliases": [],
       "variants": [
         {
