@@ -424,7 +424,7 @@
     {
       "id": "soft-cotton",
       "name": "Soft Cotton",
-      "price": 2,
+      "price": 1.75,
       "unit": {
         "quantity": 1,
         "uom": "50g Knäuel",
