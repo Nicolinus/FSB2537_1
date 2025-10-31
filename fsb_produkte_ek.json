@@ -429,6 +429,33 @@
       ]
     },
     {
+      "id": "biskaya",
+      "name": "Biskaya",
+      "price": 2.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "50g Knäuel",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "",
+      "active": true,
+      "order": 34,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "43",
+          "image": "",
+          "available": 100
+        },
+        {
+          "name": "74",
+          "image": "",
+          "available": 100
+        }
+      ]
+    },
+    {
       "id": "cotton-star",
       "name": "Cotton Star",
       "price": 2,
@@ -440,7 +467,7 @@
       },
       "category": "strickwolle",
       "active": true,
-      "order": 34,
+      "order": 35,
       "aliases": [],
       "variants": [
         {
@@ -477,7 +504,7 @@
       },
       "category": "strickwolle",
       "active": true,
-      "order": 35,
+      "order": 36,
       "aliases": [],
       "variants": [
         {
@@ -523,33 +550,6 @@
       ]
     },
     {
-      "id": "biskaya",
-      "name": "Biskaya",
-      "price": 2.5,
-      "unit": {
-        "quantity": 1,
-        "uom": "50g Knäuel",
-        "packaging": null,
-        "display": "pro Stück"
-      },
-      "category": "",
-      "active": true,
-      "order": 36,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "43",
-          "image": "",
-          "available": 100
-        },
-        {
-          "name": "74",
-          "image": "",
-          "available": 100
-        }
-      ]
-    },
-    {
       "id": "susiwool",
       "name": "Susiwool",
       "price": 1.1,
@@ -561,7 +561,7 @@
       },
       "category": "strickwolle",
       "active": true,
-      "order": 37,
+      "order": 40,
       "aliases": [],
       "variants": [
         {
@@ -638,7 +638,7 @@
       },
       "category": "sonstiges",
       "active": true,
-      "order": 40,
+      "order": 50,
       "aliases": [],
       "variants": [
         {
