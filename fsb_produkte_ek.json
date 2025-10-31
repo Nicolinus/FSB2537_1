@@ -323,9 +323,53 @@
       ]
     },
     {
+      "id": "merino-sport",
+      "name": "Merino Sport",
+      "price": 5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 31,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 100
+        }
+      ]
+    },
+    {
+      "id": "merino-star",
+      "name": "Merino Star",
+      "price": 2.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 32,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 100
+        }
+      ]
+    },
+    {
       "id": "countrytweed",
       "name": "CountryTweed",
-      "price": 3.5,
+      "price": 2.5,
       "unit": {
         "quantity": 1,
         "uom": "50g Knäuel",
