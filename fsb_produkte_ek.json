@@ -283,9 +283,9 @@
         "packaging": null,
         "display": "pro 50g Knäuel"
       },
-      "category": "socken",
+      "category": "strickwolle",
       "active": true,
-      "order": 23,
+      "order": 28,
       "aliases": [],
       "variants": [
         {
@@ -307,7 +307,7 @@
       },
       "category": "strickwolle",
       "active": true,
-      "order": 30,
+      "order": 29,
       "aliases": [],
       "variants": [
         {
@@ -328,7 +328,7 @@
       "price": 5,
       "unit": {
         "quantity": 1,
-        "uom": "Stück",
+        "uom": "100g Strang",
         "packaging": null,
         "display": "pro Stück"
       },
@@ -350,7 +350,7 @@
       "price": 2.5,
       "unit": {
         "quantity": 1,
-        "uom": "Stück",
+        "uom": "50g Knäuel",
         "packaging": null,
         "display": "pro Stück"
       },
@@ -523,9 +523,36 @@
       ]
     },
     {
+      "id": "biskaya",
+      "name": "Biskaya",
+      "price": 2.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "50g Knäuel",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "",
+      "active": true,
+      "order": 36,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "43",
+          "image": "",
+          "available": 100
+        },
+        {
+          "name": "74",
+          "image": "",
+          "available": 100
+        }
+      ]
+    },
+    {
       "id": "susiwool",
       "name": "Susiwool",
-      "price": 1,
+      "price": 1.1,
       "unit": {
         "quantity": 1,
         "uom": "50g Knäoel",
@@ -534,7 +561,7 @@
       },
       "category": "strickwolle",
       "active": true,
-      "order": 36,
+      "order": 37,
       "aliases": [],
       "variants": [
         {
