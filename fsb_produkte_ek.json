@@ -387,7 +387,7 @@
     {
       "id": "cotton-star",
       "name": "Cotton Star",
-      "price": 2.5,
+      "price": 2,
       "unit": {
         "quantity": 1,
         "uom": "50g Knäuel",
