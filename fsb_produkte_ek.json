@@ -538,17 +538,17 @@
       "variants": [
         {
           "name": "02",
-          "image": "fsb_produkte_ek/trachtentweed-02.jpg",
+          "image": "fsb_produkte_ek/trachtentweed.jpg",
           "available": 100
         },
         {
           "name": "86",
-          "image": "fsb_produkte_ek/trachtentweed-02.jpg",
+          "image": "fsb_produkte_ek/trachtentweed.jpg",
           "available": 100
         },
         {
           "name": "Strickmuster",
-          "image": "fsb_produkte_ek/trachtentweed-strickmuster.jpg",
+          "image": "fsb_produkte_ek/trachtentweed-02.jpg",
           "available": 0
         }
       ]
