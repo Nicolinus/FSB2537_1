@@ -445,12 +445,12 @@
       "variants": [
         {
           "name": "43",
-          "image": "fsb_produkte_ek/biskaya.jpg",
+          "image": "fsb_produkte_ek/biskaya-43.jpg",
           "available": 100
         },
         {
           "name": "74",
-          "image": "fsb_produkte_ek/biskaya.jpg",
+          "image": "fsb_produkte_ek/biskaya-43.jpg",
           "available": 100
         }
       ]
@@ -538,12 +538,12 @@
       "variants": [
         {
           "name": "02",
-          "image": "fsb_produkte_ek/trachtentweed-02.jpg",
+          "image": "fsb_produkte_ek/trachtentweed.jpg",
           "available": 100
         },
         {
           "name": "86",
-          "image": "fsb_produkte_ek/trachtentweed-02.jpg",
+          "image": "fsb_produkte_ek/trachtentweed.jpg",
           "available": 100
         }
       ]
