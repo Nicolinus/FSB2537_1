@@ -445,12 +445,12 @@
       "variants": [
         {
           "name": "43",
-          "image": "fsb_produkte_ek/biskaya-43.jpg",
+          "image": "fsb_produkte_ek/biskaya.jpg",
           "available": 100
         },
         {
           "name": "74",
-          "image": "fsb_produkte_ek/biskaya-43.jpg",
+          "image": "fsb_produkte_ek/biskaya.jpg",
           "available": 100
         }
       ]
