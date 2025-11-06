@@ -179,22 +179,22 @@
       "variants": [
         {
           "name": "Gr. 38-40",
-          "image": "fsb_produkte_ek/stabilia-wollsocken-naturbraun-hell.jpg",
+          "image": "fsb_produkte_ek/stabilia-wollsocken-naturbraun-hell-gr-38-40.jpg",
           "available": 0
         },
         {
           "name": "Gr. 41-43",
-          "image": "fsb_produkte_ek/stabilia-wollsocken-naturbraun-hell.jpg",
+          "image": "fsb_produkte_ek/stabilia-wollsocken-naturbraun-hell-gr-41-43.jpg",
           "available": 106
         },
         {
           "name": "Gr 44-46",
-          "image": "fsb_produkte_ek/stabilia-wollsocken-naturbraun-hell.jpg",
+          "image": "fsb_produkte_ek/stabilia-wollsocken-naturbraun-hell-gr-44-46.jpg",
           "available": 62
         },
         {
           "name": "Gr. 47-49",
-          "image": "fsb_produkte_ek/stabilia-wollsocken-naturbraun-hell.jpg",
+          "image": "fsb_produkte_ek/stabilia-wollsocken-naturbraun-hell-gr-47-49.jpg",
           "available": 1
         }
       ]
@@ -216,22 +216,22 @@
       "variants": [
         {
           "name": "Gr. 38-40",
-          "image": "fsb_produkte_ek/stabilia-wollsocken-jeansblau.jpg",
+          "image": "fsb_produkte_ek/stabilia-wollsocken-jeansblau-gr-38-40.jpg",
           "available": 130
         },
         {
           "name": "Gr. 41-43",
-          "image": "fsb_produkte_ek/stabilia-wollsocken-jeansblau.jpg",
+          "image": "fsb_produkte_ek/stabilia-wollsocken-jeansblau-gr-41-43.jpg",
           "available": 112
         },
         {
           "name": "Gr. 44-46",
-          "image": "fsb_produkte_ek/stabilia-wollsocken-jeansblau.jpg",
+          "image": "fsb_produkte_ek/stabilia-wollsocken-jeansblau-gr-44-46.jpg",
           "available": 16
         },
         {
           "name": "Gr. 47-49",
-          "image": "fsb_produkte_ek/stabilia-wollsocken-jeansblau.jpg",
+          "image": "fsb_produkte_ek/stabilia-wollsocken-jeansblau-gr-47-49.jpg",
           "available": 45
         }
       ]
@@ -253,22 +253,22 @@
       "variants": [
         {
           "name": "Gr. 38-40",
-          "image": "fsb_produkte_ek/stabilia-wollsocken-naturweiss.jpg",
+          "image": "fsb_produkte_ek/stabilia-wollsocken-naturweiss-gr-38-40.jpg",
           "available": 4
         },
         {
           "name": "Gr. 41-43",
-          "image": "fsb_produkte_ek/stabilia-wollsocken-naturweiss.jpg",
+          "image": "fsb_produkte_ek/stabilia-wollsocken-naturweiss-gr-41-43.jpg",
           "available": 0
         },
         {
           "name": "Gr. 44-46",
-          "image": "fsb_produkte_ek/stabilia-wollsocken-naturweiss.jpg",
+          "image": "fsb_produkte_ek/stabilia-wollsocken-naturweiss-gr-44-46.jpg",
           "available": 33
         },
         {
           "name": "Gr. 47-49",
-          "image": "fsb_produkte_ek/stabilia-wollsocken-naturweiss.jpg",
+          "image": "fsb_produkte_ek/stabilia-wollsocken-naturweiss-gr-47-49.jpg",
           "available": 10
         }
       ]
@@ -383,47 +383,47 @@
       "variants": [
         {
           "name": "61",
-          "image": "fsb_produkte_ek/countrytweed.jpg",
+          "image": "fsb_produkte_ek/countrytweed-61.jpg",
           "available": 100
         },
         {
           "name": "16",
-          "image": "fsb_produkte_ek/countrytweed.jpg",
+          "image": "fsb_produkte_ek/countrytweed-61.jpg",
           "available": 100
         },
         {
           "name": "11",
-          "image": "fsb_produkte_ek/countrytweed.jpg",
+          "image": "fsb_produkte_ek/countrytweed-61.jpg",
           "available": 100
         },
         {
           "name": "45",
-          "image": "fsb_produkte_ek/countrytweed.jpg",
+          "image": "fsb_produkte_ek/countrytweed-61.jpg",
           "available": 100
         },
         {
           "name": "25",
-          "image": "fsb_produkte_ek/countrytweed.jpg",
+          "image": "fsb_produkte_ek/countrytweed-61.jpg",
           "available": 100
         },
         {
           "name": "43",
-          "image": "fsb_produkte_ek/countrytweed.jpg",
+          "image": "fsb_produkte_ek/countrytweed-61.jpg",
           "available": 100
         },
         {
           "name": "66",
-          "image": "fsb_produkte_ek/countrytweed.jpg",
+          "image": "fsb_produkte_ek/countrytweed-61.jpg",
           "available": 100
         },
         {
           "name": "68",
-          "image": "fsb_produkte_ek/countrytweed.jpg",
+          "image": "fsb_produkte_ek/countrytweed-61.jpg",
           "available": 100
         },
         {
           "name": "67",
-          "image": "fsb_produkte_ek/countrytweed.jpg",
+          "image": "fsb_produkte_ek/countrytweed-61.jpg",
           "available": 100
         }
       ]
@@ -445,12 +445,12 @@
       "variants": [
         {
           "name": "43",
-          "image": "fsb_produkte_ek/biskaya.jpg",
+          "image": "fsb_produkte_ek/biskaya-43.jpg",
           "available": 100
         },
         {
           "name": "74",
-          "image": "fsb_produkte_ek/biskaya.jpg",
+          "image": "fsb_produkte_ek/biskaya-43.jpg",
           "available": 100
         }
       ]
@@ -478,8 +478,8 @@
       ]
     },
     {
-      "id": "solaire",
-      "name": "Solaire",
+      "id": "solaire-1",
+      "name": "Solaire 1",
       "price": 2.5,
       "unit": {
         "quantity": 1,
@@ -493,7 +493,74 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Standard",
+          "name": "80",
+          "image": "",
+          "available": 100
+        },
+        {
+          "name": "69",
+          "image": "",
+          "available": 100
+        },
+        {
+          "name": "17",
+          "image": "",
+          "available": 100
+        },
+        {
+          "name": "12",
+          "image": "",
+          "available": 100
+        },
+        {
+          "name": "33",
+          "image": "",
+          "available": 100
+        },
+        {
+          "name": "04",
+          "image": "",
+          "available": 100
+        },
+        {
+          "name": "40",
+          "image": "",
+          "available": 100
+        },
+        {
+          "name": "47",
+          "image": "",
+          "available": 100
+        },
+        {
+          "name": "49",
+          "image": "",
+          "available": 0
+        },
+        {
+          "name": "Strickmuster",
+          "image": "fsb_produkte_ek/solaire-1-strickmuster.jpg",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "solaire-2",
+      "name": "Solaire 2",
+      "price": 2.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "50g Knäuel",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 37,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "80",
           "image": "",
           "available": 100
         }
@@ -538,12 +605,12 @@
       "variants": [
         {
           "name": "02",
-          "image": "fsb_produkte_ek/trachtentweed.jpg",
+          "image": "fsb_produkte_ek/trachtentweed-02.jpg",
           "available": 100
         },
         {
           "name": "86",
-          "image": "fsb_produkte_ek/trachtentweed.jpg",
+          "image": "fsb_produkte_ek/trachtentweed-02.jpg",
           "available": 100
         }
       ]
@@ -565,22 +632,22 @@
       "variants": [
         {
           "name": "18",
-          "image": "fsb_produkte_ek/cotton-star.jpg",
+          "image": "fsb_produkte_ek/cotton-star-18.jpg",
           "available": 100
         },
         {
           "name": "43",
-          "image": "fsb_produkte_ek/cotton-star.jpg",
+          "image": "fsb_produkte_ek/cotton-star-18.jpg",
           "available": 100
         },
         {
           "name": "80",
-          "image": "fsb_produkte_ek/cotton-star.jpg",
+          "image": "fsb_produkte_ek/cotton-star-18.jpg",
           "available": 100
         },
         {
           "name": "11",
-          "image": "fsb_produkte_ek/cotton-star.jpg",
+          "image": "fsb_produkte_ek/cotton-star-18.jpg",
           "available": 100
         }
       ]
@@ -602,42 +669,42 @@
       "variants": [
         {
           "name": "64",
-          "image": "fsb_produkte_ek/soft-cotton.jpg",
+          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
           "available": 100
         },
         {
           "name": "69",
-          "image": "fsb_produkte_ek/soft-cotton.jpg",
+          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
           "available": 100
         },
         {
           "name": "18",
-          "image": "fsb_produkte_ek/soft-cotton.jpg",
+          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
           "available": 100
         },
         {
           "name": "11",
-          "image": "fsb_produkte_ek/soft-cotton.jpg",
+          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
           "available": 100
         },
         {
           "name": "78",
-          "image": "fsb_produkte_ek/soft-cotton.jpg",
+          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
           "available": 100
         },
         {
           "name": "58",
-          "image": "fsb_produkte_ek/soft-cotton.jpg",
+          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
           "available": 100
         },
         {
           "name": "29",
-          "image": "fsb_produkte_ek/soft-cotton.jpg",
+          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
           "available": 100
         },
         {
           "name": "43",
-          "image": "fsb_produkte_ek/soft-cotton.jpg",
+          "image": "fsb_produkte_ek/soft-cotton-64.jpg",
           "available": 100
         }
       ]
@@ -659,62 +726,62 @@
       "variants": [
         {
           "name": "61",
-          "image": "fsb_produkte_ek/susiwool.jpg",
+          "image": "fsb_produkte_ek/susiwool-61.jpg",
           "available": 100
         },
         {
           "name": "65",
-          "image": "fsb_produkte_ek/susiwool.jpg",
+          "image": "fsb_produkte_ek/susiwool-61.jpg",
           "available": 100
         },
         {
           "name": "66",
-          "image": "fsb_produkte_ek/susiwool.jpg",
+          "image": "fsb_produkte_ek/susiwool-61.jpg",
           "available": 100
         },
         {
           "name": "67",
-          "image": "fsb_produkte_ek/susiwool.jpg",
+          "image": "fsb_produkte_ek/susiwool-61.jpg",
           "available": 100
         },
         {
           "name": "53",
-          "image": "fsb_produkte_ek/susiwool.jpg",
+          "image": "fsb_produkte_ek/susiwool-61.jpg",
           "available": 100
         },
         {
           "name": "05",
-          "image": "fsb_produkte_ek/susiwool.jpg",
+          "image": "fsb_produkte_ek/susiwool-61.jpg",
           "available": 100
         },
         {
           "name": "03",
-          "image": "fsb_produkte_ek/susiwool.jpg",
+          "image": "fsb_produkte_ek/susiwool-61.jpg",
           "available": 100
         },
         {
           "name": "41",
-          "image": "fsb_produkte_ek/susiwool.jpg",
+          "image": "fsb_produkte_ek/susiwool-61.jpg",
           "available": 100
         },
         {
           "name": "25",
-          "image": "fsb_produkte_ek/susiwool.jpg",
+          "image": "fsb_produkte_ek/susiwool-61.jpg",
           "available": 100
         },
         {
           "name": "11",
-          "image": "fsb_produkte_ek/susiwool.jpg",
+          "image": "fsb_produkte_ek/susiwool-61.jpg",
           "available": 100
         },
         {
           "name": "15",
-          "image": "fsb_produkte_ek/susiwool.jpg",
+          "image": "fsb_produkte_ek/susiwool-61.jpg",
           "available": 100
         },
         {
           "name": "81",
-          "image": "fsb_produkte_ek/susiwool.jpg",
+          "image": "fsb_produkte_ek/susiwool-61.jpg",
           "available": 100
         }
       ]
