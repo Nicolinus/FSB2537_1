@@ -349,7 +349,7 @@
         "display": "pro Stück"
       },
       "category": "strickwolle",
-      "active": true,
+      "active": false,
       "order": 31,
       "aliases": [],
       "variants": [
@@ -371,7 +371,7 @@
         "display": "pro Stück"
       },
       "category": "strickwolle",
-      "active": true,
+      "active": false,
       "order": 32,
       "aliases": [],
       "variants": [
@@ -393,7 +393,7 @@
         "display": "pro Stück"
       },
       "category": "strickwolle",
-      "active": true,
+      "active": false,
       "order": 33,
       "aliases": [],
       "variants": [
@@ -455,7 +455,7 @@
         "display": "pro Stück"
       },
       "category": "strickwolle",
-      "active": true,
+      "active": false,
       "order": 34,
       "aliases": [],
       "variants": [
@@ -482,7 +482,7 @@
         "display": "pro Stück"
       },
       "category": "strickwolle",
-      "active": true,
+      "active": false,
       "order": 35,
       "aliases": [],
       "variants": [
@@ -504,7 +504,7 @@
         "display": "pro Stück"
       },
       "category": "strickwolle",
-      "active": true,
+      "active": false,
       "order": 36,
       "aliases": [],
       "variants": [
@@ -571,7 +571,7 @@
         "display": "pro Stück"
       },
       "category": "strickwolle",
-      "active": true,
+      "active": false,
       "order": 36,
       "aliases": [],
       "variants": [
@@ -638,7 +638,7 @@
         "display": "pro Stück"
       },
       "category": "strickwolle",
-      "active": true,
+      "active": false,
       "order": 37,
       "aliases": [],
       "variants": [
@@ -705,7 +705,7 @@
         "display": "pro Stück"
       },
       "category": "strickwolle",
-      "active": true,
+      "active": false,
       "order": 38,
       "aliases": [],
       "variants": [
@@ -727,7 +727,7 @@
         "display": "pro Stück"
       },
       "category": "strickwolle",
-      "active": true,
+      "active": false,
       "order": 39,
       "aliases": [],
       "variants": [
@@ -754,7 +754,7 @@
         "display": "pro Stück"
       },
       "category": "strickwolle",
-      "active": true,
+      "active": false,
       "order": 40,
       "aliases": [],
       "variants": [
@@ -791,7 +791,7 @@
         "display": "pro Stück"
       },
       "category": "strickwolle",
-      "active": true,
+      "active": false,
       "order": 41,
       "aliases": [],
       "variants": [
@@ -848,7 +848,7 @@
         "display": "pro Stück"
       },
       "category": "strickwolle",
-      "active": true,
+      "active": false,
       "order": 45,
       "aliases": [],
       "variants": [
