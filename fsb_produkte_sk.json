@@ -6,20 +6,20 @@
     "vat_included": true,
     "discounts": [
       {
-        "threshold": 750,
-        "rate": 0.35
+        "threshold": 500,
+        "rate": 0.3
+      },
+      {
+        "threshold": 300,
+        "rate": 0.25
       },
       {
         "threshold": 0,
         "rate": 0.2
       },
       {
-        "threshold": 500,
-        "rate": 0.3
-      },
-      {
-        "threshold": 300,
-        "rate": 0.45
+        "threshold": 750,
+        "rate": 0.35
       },
       {
         "threshold": 1000,
@@ -67,12 +67,12 @@
       "variants": [
         {
           "name": "hellgrau",
-          "image": "fsb_produkte_sk/wendemutze-hellgrau.jpg",
+          "image": "fsb_produkte_ek/wendemutze-hellgrau.jpg",
           "available": 120
         },
         {
           "name": "hellbraun",
-          "image": "fsb_produkte_sk/wendemutze-hellbraun.jpg",
+          "image": "fsb_produkte_ek/wendemutze-hellbraun.jpg",
           "available": 90
         }
       ]
@@ -94,7 +94,7 @@
       "variants": [
         {
           "name": "marineblau",
-          "image": "fsb_produkte_sk/wendemutze-alpaka-marineblau.jpg",
+          "image": "fsb_produkte_ek/wendemutze-alpaka-marineblau.jpg",
           "available": 92
         }
       ]
@@ -116,27 +116,27 @@
       "variants": [
         {
           "name": "wollweiß",
-          "image": "fsb_produkte_sk/stulpen-wollweiss.jpg",
+          "image": "fsb_produkte_ek/stulpen-wollweiss.jpg",
           "available": 20
         },
         {
           "name": "hellgrau",
-          "image": "fsb_produkte_sk/stulpen-hellgrau.jpg",
+          "image": "fsb_produkte_ek/stulpen-hellgrau.jpg",
           "available": 20
         },
         {
           "name": "dunkelgrau",
-          "image": "fsb_produkte_sk/stulpen-dunkelgrau.jpg",
+          "image": "fsb_produkte_ek/stulpen-dunkelgrau.jpg",
           "available": 20
         },
         {
           "name": "hellbraun",
-          "image": "fsb_produkte_sk/stulpen-hellbraun.jpg",
+          "image": "fsb_produkte_ek/stulpen-hellbraun.jpg",
           "available": 20
         },
         {
           "name": "dunkelbraun",
-          "image": "fsb_produkte_sk/stulpen-dunkelbraun.jpg",
+          "image": "fsb_produkte_ek/stulpen-dunkelbraun.jpg",
           "available": 20
         }
       ]
@@ -158,17 +158,22 @@
       "variants": [
         {
           "name": "hellbraun",
-          "image": "fsb_produkte_sk/wollschal-hellbraun.jpg",
-          "available": 13
+          "image": "fsb_produkte_ek/wollschal-hellbraun.jpg",
+          "available": 9
         },
         {
           "name": "hellgrau",
-          "image": "fsb_produkte_sk/wollschal-hellgrau.jpg",
+          "image": "fsb_produkte_ek/wollschal-hellgrau.jpg",
           "available": 24
         },
         {
+          "name": "dunkelgrau",
+          "image": "fsb_produkte_ek/wollschal-dunkelgrau.jpg",
+          "available": 13
+        },
+        {
           "name": "dunkelbraun",
-          "image": "fsb_produkte_sk/wollschal-dunkelbraun.jpg",
+          "image": "fsb_produkte_ek/wollschal-dunkelbraun.jpg",
           "available": 5
         }
       ]
@@ -185,27 +190,27 @@
       },
       "category": "socken",
       "active": true,
-      "order": 20,
+      "order": 17,
       "aliases": [],
       "variants": [
         {
           "name": "Gr. 38-40",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-naturbraun-hell-gr-38-40.jpg",
+          "image": "fsb_produkte_ek/stabilia-wollsocken-naturbraun-hell.jpg",
           "available": 0
         },
         {
           "name": "Gr. 41-43",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-naturbraun-hell-gr-41-43.jpg",
+          "image": "fsb_produkte_ek/stabilia-wollsocken-naturbraun-hell.jpg",
           "available": 106
         },
         {
           "name": "Gr 44-46",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-naturbraun-hell-gr-44-46.jpg",
+          "image": "fsb_produkte_ek/stabilia-wollsocken-naturbraun-hell.jpg",
           "available": 62
         },
         {
           "name": "Gr. 47-49",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-naturbraun-hell-gr-47-49.jpg",
+          "image": "fsb_produkte_ek/stabilia-wollsocken-naturbraun-hell.jpg",
           "available": 1
         }
       ]
@@ -222,27 +227,27 @@
       },
       "category": "socken",
       "active": true,
-      "order": 21,
+      "order": 18,
       "aliases": [],
       "variants": [
         {
           "name": "Gr. 38-40",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-jeansblau-gr-38-40.jpg",
+          "image": "fsb_produkte_ek/stabilia-wollsocken-jeansblau.jpg",
           "available": 130
         },
         {
           "name": "Gr. 41-43",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-jeansblau-gr-41-43.jpg",
+          "image": "fsb_produkte_ek/stabilia-wollsocken-jeansblau.jpg",
           "available": 112
         },
         {
           "name": "Gr. 44-46",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-jeansblau-gr-44-46.jpg",
+          "image": "fsb_produkte_ek/stabilia-wollsocken-jeansblau.jpg",
           "available": 16
         },
         {
           "name": "Gr. 47-49",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-jeansblau-gr-47-49.jpg",
+          "image": "fsb_produkte_ek/stabilia-wollsocken-jeansblau.jpg",
           "available": 45
         }
       ]
@@ -259,27 +264,27 @@
       },
       "category": "socken",
       "active": true,
-      "order": 22,
+      "order": 19,
       "aliases": [],
       "variants": [
         {
           "name": "Gr. 38-40",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-naturweiss-gr-38-40.jpg",
+          "image": "fsb_produkte_ek/stabilia-wollsocken-naturweiss.jpg",
           "available": 4
         },
         {
           "name": "Gr. 41-43",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-naturweiss-gr-41-43.jpg",
+          "image": "fsb_produkte_ek/stabilia-wollsocken-naturweiss.jpg",
           "available": 0
         },
         {
           "name": "Gr. 44-46",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-naturweiss-gr-44-46.jpg",
+          "image": "fsb_produkte_ek/stabilia-wollsocken-naturweiss.jpg",
           "available": 33
         },
         {
           "name": "Gr. 47-49",
-          "image": "fsb_produkte_sk/stabilia-wollsocken-naturweiss-gr-47-49.jpg",
+          "image": "fsb_produkte_ek/stabilia-wollsocken-naturweiss.jpg",
           "available": 10
         }
       ]
@@ -287,29 +292,7 @@
     {
       "id": "lama-sockenwolle",
       "name": "Lama Sockenwolle",
-      "price": 4,
-      "unit": {
-        "quantity": 1,
-        "uom": "50g-Knäuel",
-        "packaging": null,
-        "display": "50g Knäuel"
-      },
-      "category": "strickwolle",
-      "active": true,
-      "order": 23,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "naturbraun",
-          "image": "fsb_produkte_sk/lama-sockenwolle-naturbraun.jpg",
-          "available": 100
-        }
-      ]
-    },
-    {
-      "id": "stabilia-sockenwolle",
-      "name": "Stabilia Sockenwolle",
-      "price": 1.8,
+      "price": 3.5,
       "unit": {
         "quantity": 1,
         "uom": "50g-Knäuel",
@@ -318,17 +301,615 @@
       },
       "category": "strickwolle",
       "active": true,
-      "order": 30,
+      "order": 28,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "naturbraun",
+          "image": "fsb_produkte_ek/lama-sockenwolle-naturbraun.jpg",
+          "available": 100
+        }
+      ]
+    },
+    {
+      "id": "stabilia-sockenwolle",
+      "name": "Stabilia Sockenwolle",
+      "price": 1.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "50g-Knäuel",
+        "packaging": null,
+        "display": "pro 50g Knäuel"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 29,
       "aliases": [],
       "variants": [
         {
           "name": "naturbraun hell",
-          "image": "fsb_produkte_sk/stabilia-sockenwolle-naturbraun-hell.jpg",
+          "image": "fsb_produkte_ek/stabilia-sockenwolle-naturbraun-hell.jpg",
           "available": 200
         },
         {
           "name": "jeansblau",
-          "image": "fsb_produkte_sk/stabilia-sockenwolle-jeansblau.jpg",
+          "image": "fsb_produkte_ek/stabilia-sockenwolle-jeansblau.jpg",
+          "available": 100
+        }
+      ]
+    },
+    {
+      "id": "merino-sport",
+      "name": "Merino Sport",
+      "price": 5,
+      "unit": {
+        "quantity": 1,
+        "uom": "100g Strang",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 31,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 100
+        }
+      ]
+    },
+    {
+      "id": "merino-star",
+      "name": "Merino Star",
+      "price": 2.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "50g Knäuel",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 32,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 100
+        }
+      ]
+    },
+    {
+      "id": "countrytweed",
+      "name": "CountryTweed",
+      "price": 2.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "50g Knäuel",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 33,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "61",
+          "image": "fsb_produkte_ek/countrytweed.jpg",
+          "available": 100
+        },
+        {
+          "name": "16",
+          "image": "fsb_produkte_ek/countrytweed.jpg",
+          "available": 100
+        },
+        {
+          "name": "11",
+          "image": "fsb_produkte_ek/countrytweed.jpg",
+          "available": 100
+        },
+        {
+          "name": "45",
+          "image": "fsb_produkte_ek/countrytweed.jpg",
+          "available": 100
+        },
+        {
+          "name": "25",
+          "image": "fsb_produkte_ek/countrytweed.jpg",
+          "available": 100
+        },
+        {
+          "name": "43",
+          "image": "fsb_produkte_ek/countrytweed.jpg",
+          "available": 100
+        },
+        {
+          "name": "66",
+          "image": "fsb_produkte_ek/countrytweed.jpg",
+          "available": 100
+        },
+        {
+          "name": "68",
+          "image": "fsb_produkte_ek/countrytweed.jpg",
+          "available": 100
+        },
+        {
+          "name": "67",
+          "image": "fsb_produkte_ek/countrytweed.jpg",
+          "available": 100
+        }
+      ]
+    },
+    {
+      "id": "biskaya",
+      "name": "Biskaya",
+      "price": 2.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "50g Knäuel",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 34,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "43",
+          "image": "fsb_produkte_ek/biskaya.jpg",
+          "available": 100
+        },
+        {
+          "name": "74",
+          "image": "fsb_produkte_ek/biskaya.jpg",
+          "available": 100
+        }
+      ]
+    },
+    {
+      "id": "bel-lino",
+      "name": "Bel Lino",
+      "price": 2.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stüc50g Knäuelk",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 35,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 100
+        }
+      ]
+    },
+    {
+      "id": "solaire-1",
+      "name": "Solaire 1",
+      "price": 2.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "50g Knäuel",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 36,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "80",
+          "image": "fsb_produkte_ek/solaire-1.jpg",
+          "available": 100
+        },
+        {
+          "name": "69",
+          "image": "fsb_produkte_ek/solaire-1.jpg",
+          "available": 100
+        },
+        {
+          "name": "17",
+          "image": "fsb_produkte_ek/solaire-1.jpg",
+          "available": 100
+        },
+        {
+          "name": "12",
+          "image": "fsb_produkte_ek/solaire-1.jpg",
+          "available": 100
+        },
+        {
+          "name": "33",
+          "image": "fsb_produkte_ek/solaire-1.jpg",
+          "available": 100
+        },
+        {
+          "name": "04",
+          "image": "fsb_produkte_ek/solaire-1.jpg",
+          "available": 100
+        },
+        {
+          "name": "40",
+          "image": "fsb_produkte_ek/solaire-1.jpg",
+          "available": 100
+        },
+        {
+          "name": "47",
+          "image": "fsb_produkte_ek/solaire-1.jpg",
+          "available": 100
+        },
+        {
+          "name": "49",
+          "image": "fsb_produkte_ek/solaire-1.jpg",
+          "available": 0
+        },
+        {
+          "name": "Strickmuster",
+          "image": "fsb_produkte_ek/solaire-1-strickmuster.jpg",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "solaire-2",
+      "name": "Solaire 2",
+      "price": 2.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "50g Knäuel",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 36,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "04",
+          "image": "fsb_produkte_ek/solaire-2.jpg",
+          "available": 100
+        },
+        {
+          "name": "49",
+          "image": "fsb_produkte_ek/solaire-2.jpg",
+          "available": 100
+        },
+        {
+          "name": "09",
+          "image": "fsb_produkte_ek/solaire-2.jpg",
+          "available": 100
+        },
+        {
+          "name": "15",
+          "image": "fsb_produkte_ek/solaire-2.jpg",
+          "available": 100
+        },
+        {
+          "name": "22",
+          "image": "fsb_produkte_ek/solaire-2.jpg",
+          "available": 100
+        },
+        {
+          "name": "41",
+          "image": "fsb_produkte_ek/solaire-2.jpg",
+          "available": 100
+        },
+        {
+          "name": "20",
+          "image": "fsb_produkte_ek/solaire-2.jpg",
+          "available": 100
+        },
+        {
+          "name": "67",
+          "image": "fsb_produkte_ek/solaire-2.jpg",
+          "available": 100
+        },
+        {
+          "name": "49",
+          "image": "fsb_produkte_ek/solaire-2.jpg",
+          "available": 0
+        },
+        {
+          "name": "Strickmuster",
+          "image": "fsb_produkte_ek/solaire-1-strickmuster.jpg",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "strickmuster",
+      "name": "Strickmuster",
+      "price": 2.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "50g Knäuel",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 37,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "05",
+          "image": "fsb_produkte_ek/strickmuster-05.jpg",
+          "available": 100
+        },
+        {
+          "name": "49",
+          "image": "fsb_produkte_ek/strickmuster-49.jpg",
+          "available": 100
+        },
+        {
+          "name": "09",
+          "image": "fsb_produkte_ek/strickmuster-09.jpg",
+          "available": 100
+        },
+        {
+          "name": "15",
+          "image": "fsb_produkte_ek/strickmuster-15.jpg",
+          "available": 100
+        },
+        {
+          "name": "22",
+          "image": "fsb_produkte_ek/strickmuster-22.jpg",
+          "available": 100
+        },
+        {
+          "name": "18",
+          "image": "fsb_produkte_ek/strickmuster-18.jpg",
+          "available": 100
+        },
+        {
+          "name": "41",
+          "image": "fsb_produkte_ek/strickmuster-41.jpg",
+          "available": 100
+        },
+        {
+          "name": "20",
+          "image": "fsb_produkte_ek/strickmuster-20.jpg",
+          "available": 100
+        },
+        {
+          "name": "67",
+          "image": "fsb_produkte_ek/strickmuster-67.jpg",
+          "available": 100
+        },
+        {
+          "name": "Neue Variante 10",
+          "image": "fsb_produkte_ek/solaire-1-strickmuster.jpg",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "angora-elegance",
+      "name": "Angora élegance",
+      "price": 2,
+      "unit": {
+        "quantity": 1,
+        "uom": "20g Knäuel",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 38,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 100
+        }
+      ]
+    },
+    {
+      "id": "trachtentweed",
+      "name": "Trachtentweed",
+      "price": 2.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "50g Knäuel",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 39,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "02",
+          "image": "fsb_produkte_ek/trachtentweed.jpg",
+          "available": 100
+        },
+        {
+          "name": "86",
+          "image": "fsb_produkte_ek/trachtentweed.jpg",
+          "available": 100
+        }
+      ]
+    },
+    {
+      "id": "cotton-star",
+      "name": "Cotton Star",
+      "price": 2,
+      "unit": {
+        "quantity": 1,
+        "uom": "50g Knäuel",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 40,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "18",
+          "image": "fsb_produkte_ek/cotton-star.jpg",
+          "available": 100
+        },
+        {
+          "name": "43",
+          "image": "fsb_produkte_ek/cotton-star.jpg",
+          "available": 100
+        },
+        {
+          "name": "80",
+          "image": "fsb_produkte_ek/cotton-star.jpg",
+          "available": 100
+        },
+        {
+          "name": "11",
+          "image": "fsb_produkte_ek/cotton-star.jpg",
+          "available": 100
+        }
+      ]
+    },
+    {
+      "id": "soft-cotton",
+      "name": "Soft Cotton",
+      "price": 1.75,
+      "unit": {
+        "quantity": 1,
+        "uom": "50g Knäuel",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 41,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "64",
+          "image": "fsb_produkte_ek/soft-cotton.jpg",
+          "available": 100
+        },
+        {
+          "name": "69",
+          "image": "fsb_produkte_ek/soft-cotton.jpg",
+          "available": 100
+        },
+        {
+          "name": "18",
+          "image": "fsb_produkte_ek/soft-cotton.jpg",
+          "available": 100
+        },
+        {
+          "name": "11",
+          "image": "fsb_produkte_ek/soft-cotton.jpg",
+          "available": 100
+        },
+        {
+          "name": "78",
+          "image": "fsb_produkte_ek/soft-cotton.jpg",
+          "available": 100
+        },
+        {
+          "name": "58",
+          "image": "fsb_produkte_ek/soft-cotton.jpg",
+          "available": 100
+        },
+        {
+          "name": "29",
+          "image": "fsb_produkte_ek/soft-cotton.jpg",
+          "available": 100
+        },
+        {
+          "name": "43",
+          "image": "fsb_produkte_ek/soft-cotton.jpg",
+          "available": 100
+        }
+      ]
+    },
+    {
+      "id": "susiwool",
+      "name": "Susiwool",
+      "price": 1.1,
+      "unit": {
+        "quantity": 1,
+        "uom": "50g Knäoel",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "strickwolle",
+      "active": true,
+      "order": 45,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "61",
+          "image": "fsb_produkte_ek/susiwool.jpg",
+          "available": 100
+        },
+        {
+          "name": "65",
+          "image": "fsb_produkte_ek/susiwool.jpg",
+          "available": 100
+        },
+        {
+          "name": "66",
+          "image": "fsb_produkte_ek/susiwool.jpg",
+          "available": 100
+        },
+        {
+          "name": "67",
+          "image": "fsb_produkte_ek/susiwool.jpg",
+          "available": 100
+        },
+        {
+          "name": "53",
+          "image": "fsb_produkte_ek/susiwool.jpg",
+          "available": 100
+        },
+        {
+          "name": "05",
+          "image": "fsb_produkte_ek/susiwool.jpg",
+          "available": 100
+        },
+        {
+          "name": "03",
+          "image": "fsb_produkte_ek/susiwool.jpg",
+          "available": 100
+        },
+        {
+          "name": "41",
+          "image": "fsb_produkte_ek/susiwool.jpg",
+          "available": 100
+        },
+        {
+          "name": "25",
+          "image": "fsb_produkte_ek/susiwool.jpg",
+          "available": 100
+        },
+        {
+          "name": "11",
+          "image": "fsb_produkte_ek/susiwool-61.jpg",
+          "available": 100
+        },
+        {
+          "name": "15",
+          "image": "fsb_produkte_ek/susiwool-61.jpg",
+          "available": 100
+        },
+        {
+          "name": "81",
+          "image": "fsb_produkte_ek/susiwool.jpg",
           "available": 100
         }
       ]
@@ -345,12 +926,12 @@
       },
       "category": "sonstiges",
       "active": true,
-      "order": 40,
+      "order": 50,
       "aliases": [],
       "variants": [
         {
           "name": "naturweiß",
-          "image": "fsb_produkte_sk/naturwolle-kugelchen-naturweiss.jpg",
+          "image": "fsb_produkte_ek/naturwolle-kugelchen-naturweiss.jpg",
           "available": 100
         }
       ]
