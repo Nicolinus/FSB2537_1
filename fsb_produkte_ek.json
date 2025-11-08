@@ -895,6 +895,11 @@
           "name": "81",
           "image": "fsb_produkte_ek/susiwool.jpg",
           "available": 100
+        },
+        {
+          "name": "Susiwool Strickmuster",
+          "image": "",
+          "available": 0
         }
       ]
     },
