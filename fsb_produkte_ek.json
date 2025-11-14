@@ -699,6 +699,31 @@
           "name": "11",
           "image": "fsb_produkte_ek/cotton-star.jpg",
           "available": 100
+        },
+        {
+          "name": "73",
+          "image": "fsb_produkte_ek/cotton-star.jpg",
+          "available": 100
+        },
+        {
+          "name": "16",
+          "image": "fsb_produkte_ek/cotton-star.jpg",
+          "available": 100
+        },
+        {
+          "name": "68",
+          "image": "fsb_produkte_ek/cotton-star.jpg",
+          "available": 100
+        },
+        {
+          "name": "23",
+          "image": "fsb_produkte_ek/cotton-star.jpg",
+          "available": 0
+        },
+        {
+          "name": "Strickmuster",
+          "image": "fsb_produkte_ek/cotton-star-strickmuster.jpg",
+          "available": 0
         }
       ]
     },
