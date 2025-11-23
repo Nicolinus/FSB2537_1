@@ -807,62 +807,62 @@
         {
           "name": "61",
           "image": "fsb_produkte_ek/susiwool.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "65",
           "image": "fsb_produkte_ek/susiwool.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "66",
           "image": "fsb_produkte_ek/susiwool.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "67",
           "image": "fsb_produkte_ek/susiwool.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "53",
           "image": "fsb_produkte_ek/susiwool.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "05",
           "image": "fsb_produkte_ek/susiwool.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "03",
           "image": "fsb_produkte_ek/susiwool.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "41",
           "image": "fsb_produkte_ek/susiwool.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "25",
           "image": "fsb_produkte_ek/susiwool.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "11",
           "image": "fsb_produkte_ek/susiwool-61.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "15",
           "image": "fsb_produkte_ek/susiwool-61.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "81",
           "image": "fsb_produkte_ek/susiwool.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "Strickmuster",
@@ -889,7 +889,7 @@
         {
           "name": "naturweiß",
           "image": "fsb_produkte_ek/naturwolle-kugelchen-naturweiss.jpg",
-          "available": 100
+          "available": 10
         }
       ]
     }
