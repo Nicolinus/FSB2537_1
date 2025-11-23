@@ -52,12 +52,12 @@
         {
           "name": "hellgrau",
           "image": "fsb_produkte_ek/wendemutze-hellgrau.jpg",
-          "available": 120
+          "available": 10
         },
         {
           "name": "hellbraun",
           "image": "fsb_produkte_ek/wendemutze-hellbraun.jpg",
-          "available": 90
+          "available": 10
         }
       ]
     },
@@ -79,7 +79,7 @@
         {
           "name": "marineblau",
           "image": "fsb_produkte_ek/wendemutze-alpaka-marineblau.jpg",
-          "available": 92
+          "available": 10
         }
       ]
     },
@@ -101,27 +101,27 @@
         {
           "name": "wollweiß",
           "image": "fsb_produkte_ek/stulpen-wollweiss.jpg",
-          "available": 20
+          "available": 10
         },
         {
           "name": "hellgrau",
           "image": "fsb_produkte_ek/stulpen-hellgrau.jpg",
-          "available": 20
+          "available": 10
         },
         {
           "name": "dunkelgrau",
           "image": "fsb_produkte_ek/stulpen-dunkelgrau.jpg",
-          "available": 20
+          "available": 10
         },
         {
           "name": "hellbraun",
           "image": "fsb_produkte_ek/stulpen-hellbraun.jpg",
-          "available": 20
+          "available": 10
         },
         {
           "name": "dunkelbraun",
           "image": "fsb_produkte_ek/stulpen-dunkelbraun.jpg",
-          "available": 20
+          "available": 10
         }
       ]
     },
@@ -148,12 +148,12 @@
         {
           "name": "hellgrau",
           "image": "fsb_produkte_ek/wollschal-hellgrau.jpg",
-          "available": 24
+          "available": 10
         },
         {
           "name": "dunkelgrau",
           "image": "fsb_produkte_ek/wollschal-dunkelgrau.jpg",
-          "available": 13
+          "available": 10
         },
         {
           "name": "dunkelbraun",
@@ -185,12 +185,12 @@
         {
           "name": "Gr. 41-43",
           "image": "fsb_produkte_ek/stabilia-wollsocken-naturbraun-hell.jpg",
-          "available": 106
+          "available": 10
         },
         {
           "name": "Gr 44-46",
           "image": "fsb_produkte_ek/stabilia-wollsocken-naturbraun-hell.jpg",
-          "available": 62
+          "available": 10
         },
         {
           "name": "Gr. 47-49",
@@ -217,22 +217,22 @@
         {
           "name": "Gr. 38-40",
           "image": "fsb_produkte_ek/stabilia-wollsocken-jeansblau.jpg",
-          "available": 130
+          "available": 10
         },
         {
           "name": "Gr. 41-43",
           "image": "fsb_produkte_ek/stabilia-wollsocken-jeansblau.jpg",
-          "available": 112
+          "available": 10
         },
         {
           "name": "Gr. 44-46",
           "image": "fsb_produkte_ek/stabilia-wollsocken-jeansblau.jpg",
-          "available": 16
+          "available": 10
         },
         {
           "name": "Gr. 47-49",
           "image": "fsb_produkte_ek/stabilia-wollsocken-jeansblau.jpg",
-          "available": 45
+          "available": 10
         }
       ]
     },
@@ -264,7 +264,7 @@
         {
           "name": "Gr. 44-46",
           "image": "fsb_produkte_ek/stabilia-wollsocken-naturweiss.jpg",
-          "available": 33
+          "available": 10
         },
         {
           "name": "Gr. 47-49",
@@ -291,7 +291,7 @@
         {
           "name": "naturbraun",
           "image": "fsb_produkte_ek/lama-sockenwolle-naturbraun.jpg",
-          "available": 100
+          "available": 50
         }
       ]
     },
@@ -313,12 +313,12 @@
         {
           "name": "naturbraun hell",
           "image": "fsb_produkte_ek/stabilia-sockenwolle-naturbraun-hell.jpg",
-          "available": 200
+          "available": 50
         },
         {
           "name": "jeansblau",
           "image": "fsb_produkte_ek/stabilia-sockenwolle-jeansblau.jpg",
-          "available": 100
+          "available": 50
         }
       ]
     },
@@ -384,47 +384,47 @@
         {
           "name": "61",
           "image": "fsb_produkte_ek/countrytweed.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "16",
           "image": "fsb_produkte_ek/countrytweed.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "11",
           "image": "fsb_produkte_ek/countrytweed.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "45",
           "image": "fsb_produkte_ek/countrytweed.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "25",
           "image": "fsb_produkte_ek/countrytweed.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "43",
           "image": "fsb_produkte_ek/countrytweed.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "66",
           "image": "fsb_produkte_ek/countrytweed.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "68",
           "image": "fsb_produkte_ek/countrytweed.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "67",
           "image": "fsb_produkte_ek/countrytweed.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "Strickmuster",
