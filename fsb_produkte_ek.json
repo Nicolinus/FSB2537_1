@@ -540,7 +540,7 @@
         {
           "name": "49",
           "image": "fsb_produkte_ek/solaire-1.jpg",
-          "available": 0
+          "available": 50
         },
         {
           "name": "Strickmuster",
@@ -567,47 +567,47 @@
         {
           "name": "05",
           "image": "fsb_produkte_ek/solaire-2.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "49",
           "image": "fsb_produkte_ek/solaire-2.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "09",
           "image": "fsb_produkte_ek/solaire-2.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "15",
           "image": "fsb_produkte_ek/solaire-2.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "22",
           "image": "fsb_produkte_ek/solaire-2.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "18",
           "image": "fsb_produkte_ek/solaire-2-18.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "41",
           "image": "fsb_produkte_ek/solaire-2-41.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "20",
           "image": "fsb_produkte_ek/solaire-2-20.jpg",
-          "available": 100
+          "available": 50
         },
         {
           "name": "67",
           "image": "fsb_produkte_ek/solaire-2-67.jpg",
-          "available": 0
+          "available": 50
         },
         {
           "name": "Strickmuster",
