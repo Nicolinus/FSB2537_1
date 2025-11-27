@@ -461,24 +461,79 @@
       ]
     },
     {
-      "id": "bel-lino",
-      "name": "Bel Lino",
+      "id": "bellino",
+      "name": "BelLino",
       "price": 2.5,
       "unit": {
         "quantity": 1,
         "uom": "Stüc50g Knäuelk",
         "packaging": null,
-        "display": "pro Stück"
+        "display": "pro Knäuel"
       },
       "category": "strickwolle",
-      "active": false,
+      "active": true,
       "order": 35,
       "aliases": [],
       "variants": [
         {
-          "name": "Standard",
+          "name": "69",
+          "image": "fsb_produkte_ek/bellino-69.jpg",
+          "available": 50
+        },
+        {
+          "name": "81",
           "image": "",
-          "available": 100
+          "available": 0
+        },
+        {
+          "name": "62",
+          "image": "",
+          "available": 0
+        },
+        {
+          "name": "42",
+          "image": "",
+          "available": 0
+        },
+        {
+          "name": "47",
+          "image": "",
+          "available": 0
+        },
+        {
+          "name": "44",
+          "image": "",
+          "available": 0
+        },
+        {
+          "name": "28",
+          "image": "",
+          "available": 0
+        },
+        {
+          "name": "23",
+          "image": "",
+          "available": 0
+        },
+        {
+          "name": "36",
+          "image": "",
+          "available": 0
+        },
+        {
+          "name": "39",
+          "image": "",
+          "available": 0
+        },
+        {
+          "name": "14",
+          "image": "",
+          "available": 0
+        },
+        {
+          "name": "17",
+          "image": "",
+          "available": 0
         }
       ]
     },
