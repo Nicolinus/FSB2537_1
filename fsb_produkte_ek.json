@@ -534,6 +534,11 @@
           "name": "17",
           "image": "fsb_produkte_ek/bellino-69.jpg",
           "available": 50
+        },
+        {
+          "name": "Strickmuster",
+          "image": "fsb_produkte_ek/bellino-strickmuster.jpg",
+          "available": 0
         }
       ]
     },
