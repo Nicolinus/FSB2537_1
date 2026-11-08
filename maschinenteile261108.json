@@ -46,8 +46,8 @@
   ],
   "products": [
     {
-      "id": "stahlwelle-40mm",
-      "name": "Stahlwelle Ø 40mm",
+      "id": "stahlwelle-40mm-lange-4000-mm",
+      "name": "Stahlwelle Ø 40mm, Länge 4000 mm",
       "price": 50,
       "unit": {
         "quantity": 1,
@@ -57,7 +57,7 @@
       },
       "category": "01",
       "active": true,
-      "order": 10,
+      "order": 101,
       "aliases": [],
       "variants": [
         {
@@ -68,8 +68,30 @@
       ]
     },
     {
-      "id": "stahlwelle-30-mm",
-      "name": "Stahlwelle Ø30 mm",
+      "id": "stahlwelle-40mm-lange-1600-mm",
+      "name": "Stahlwelle Ø 40mm, Länge 1600 mm",
+      "price": 30,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "01",
+      "active": true,
+      "order": 102,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Ø 40mm, Länge 1600 mm",
+          "image": "",
+          "available": 2
+        }
+      ]
+    },
+    {
+      "id": "stahlwelle-30-mm-lange-1000-mm",
+      "name": "Stahlwelle Ø30 mm, Länge 1000 mm",
       "price": 8,
       "unit": {
         "quantity": 1,
@@ -79,11 +101,11 @@
       },
       "category": "01",
       "active": true,
-      "order": 20,
+      "order": 103,
       "aliases": [],
       "variants": [
         {
-          "name": "Ø 30 mm lang 1000 mm",
+          "name": "Ø30 mm, Länge 1000 mm",
           "image": "",
           "available": 10
         }
@@ -101,35 +123,13 @@
       },
       "category": "01",
       "active": true,
-      "order": 30,
+      "order": 104,
       "aliases": [],
       "variants": [
         {
           "name": "Ø 25 mm, lang 2500 mm",
           "image": "",
           "available": 8
-        }
-      ]
-    },
-    {
-      "id": "stahlwelle-16-mm",
-      "name": "Stahlwelle Ø 16 mm",
-      "price": 0,
-      "unit": {
-        "quantity": 1,
-        "uom": "Stück",
-        "packaging": null,
-        "display": "pro Stück"
-      },
-      "category": "01",
-      "active": true,
-      "order": 40,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "Ø 16 mm, lang 2500 mm",
-          "image": "",
-          "available": 0
         }
       ]
     },
@@ -145,7 +145,7 @@
       },
       "category": "01",
       "active": true,
-      "order": 50,
+      "order": 105,
       "aliases": [],
       "variants": [
         {
@@ -156,9 +156,9 @@
       ]
     },
     {
-      "id": "stahlwelle-40mm-lange-1600-mm",
-      "name": "Stahlwelle Ø 40mm, Länge 1600 mm",
-      "price": 30,
+      "id": "stahlwelle-16-mm",
+      "name": "Stahlwelle Ø 16 mm",
+      "price": 20,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -167,13 +167,13 @@
       },
       "category": "01",
       "active": true,
-      "order": 60,
+      "order": 106,
       "aliases": [],
       "variants": [
         {
-          "name": "Ø 40mm, Länge 1600 mm",
+          "name": "Ø 16 mm, lang 2500 mm",
           "image": "",
-          "available": 2
+          "available": 8
         }
       ]
     }
