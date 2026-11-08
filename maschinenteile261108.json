@@ -55,6 +55,28 @@
           "available": 5
         }
       ]
+    },
+    {
+      "id": "stahlwelle",
+      "name": "Stahlwelle",
+      "price": 8,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "",
+      "active": true,
+      "order": 20,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Ø 30 mm lang 1000 mm",
+          "image": "",
+          "available": 10
+        }
+      ]
     }
   ]
 }
