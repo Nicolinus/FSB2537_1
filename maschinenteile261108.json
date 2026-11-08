@@ -200,8 +200,8 @@
       ]
     },
     {
-      "id": "stahlrohr-innen-74mm-aussen-80mm-lange-6000mm",
-      "name": "Stahlrohr innen 74mm, außen 80mm, Länge 6000mm",
+      "id": "stahlrohr-80-74mm-lange-6000mm-gezogen",
+      "name": "Stahlrohr Ø 80/74mm, Länge 6000mm, gezogen",
       "price": 120,
       "unit": {
         "quantity": 1,
@@ -215,7 +215,7 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Standar innen 74mm, außen 80mm, Länge 6000mmd",
+          "name": "Ø 80/74mm, Länge 6000mm, gezogen",
           "image": "",
           "available": 2
         }
