@@ -97,7 +97,7 @@
     {
       "id": "stahlwelle-25-mm",
       "name": "Stahlwelle Ø 25 mm",
-      "price": 0,
+      "price": 30,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -110,9 +110,9 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Standard",
+          "name": "Ø 25 mm, lang 2500 mm",
           "image": "",
-          "available": 0
+          "available": 8
         }
       ]
     },
@@ -132,7 +132,7 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Standard",
+          "name": "Ø 16 mm, lang 2500 mm",
           "image": "",
           "available": 0
         }
@@ -141,7 +141,7 @@
     {
       "id": "stahlwelle-12-mm",
       "name": "Stahlwelle Ø 12 mm",
-      "price": 0,
+      "price": 5,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -154,9 +154,9 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Standard",
+          "name": "Ø 12 mm, lang 1200 mm",
           "image": "",
-          "available": 0
+          "available": 12
         }
       ]
     }
