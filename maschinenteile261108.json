@@ -27,11 +27,27 @@
       }
     ]
   },
-  "categories": [],
+  "categories": [
+    {
+      "id": "01",
+      "name": "Stahlwellen",
+      "order": 0
+    },
+    {
+      "id": "02",
+      "name": "Stahlrohr",
+      "order": 0
+    },
+    {
+      "id": "03",
+      "name": "Messingrohr",
+      "order": 0
+    }
+  ],
   "products": [
     {
-      "id": "stahlwellen",
-      "name": "Stahlwellen",
+      "id": "stahlwelle-40mm",
+      "name": "Stahlwelle Ø 40mm",
       "price": 50,
       "unit": {
         "quantity": 1,
@@ -53,12 +69,17 @@
           "name": "Ø 40 mm, lang 4000 mm",
           "image": "",
           "available": 5
+        },
+        {
+          "name": "Neue Variante 3",
+          "image": "",
+          "available": 0
         }
       ]
     },
     {
-      "id": "stahlwelle",
-      "name": "Stahlwelle",
+      "id": "stahlwelle-30-mm",
+      "name": "Stahlwelle Ø30 mm",
       "price": 8,
       "unit": {
         "quantity": 1,
@@ -75,6 +96,72 @@
           "name": "Ø 30 mm lang 1000 mm",
           "image": "",
           "available": 10
+        }
+      ]
+    },
+    {
+      "id": "stahlwelle-25-mm",
+      "name": "Stahlwelle Ø 25 mm",
+      "price": 0,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "",
+      "active": true,
+      "order": 30,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "stahlwelle-16-mm",
+      "name": "Stahlwelle Ø 16 mm",
+      "price": 0,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "",
+      "active": true,
+      "order": 40,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "stahlwelle-12-mm",
+      "name": "Stahlwelle Ø 12 mm",
+      "price": 0,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "",
+      "active": true,
+      "order": 50,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
         }
       ]
     }
