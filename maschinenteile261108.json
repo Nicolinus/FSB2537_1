@@ -61,19 +61,14 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Standard",
-          "image": "",
-          "available": 0
-        },
-        {
           "name": "Ø 40 mm, lang 4000 mm",
           "image": "",
           "available": 5
         },
         {
-          "name": "Neue Variante 3",
+          "name": "Ø 40 mm, lang 1600 mm",
           "image": "",
-          "available": 0
+          "available": 3
         }
       ]
     },
