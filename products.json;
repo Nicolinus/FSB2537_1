@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "version": "1",
+    "ausgabedatum": "",
+    "currency": "EUR",
+    "vat_included": true,
+    "discounts": [
+      {
+        "threshold": 1000,
+        "rate": 0.4
+      },
+      {
+        "threshold": 750,
+        "rate": 0.35
+      },
+      {
+        "threshold": 500,
+        "rate": 0.3
+      },
+      {
+        "threshold": 300,
+        "rate": 0.25
+      },
+      {
+        "threshold": 0,
+        "rate": 0.2
+      }
+    ]
+  },
+  "categories": [],
+  "products": []
+}
