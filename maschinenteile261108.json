@@ -102,7 +102,7 @@
     {
       "id": "stahlwelle-30mm-lange-1000mm",
       "name": "Stahlwelle Ø 30mm, Länge 1000mm",
-      "price": 8,
+      "price": 0,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -118,13 +118,18 @@
           "name": "Ø 30mm, Länge 1000mm",
           "image": "",
           "available": 10
+        },
+        {
+          "name": "Details",
+          "image": "",
+          "available": 0
         }
       ]
     },
     {
       "id": "stahlwelle-25mm-lange-2500mm",
       "name": "Stahlwelle Ø 25mm, Länge 2500mm",
-      "price": 30,
+      "price": 0,
       "unit": {
         "quantity": 8,
         "uom": "Stück",
@@ -137,16 +142,21 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Ø 25mm, lang 2500mm",
+          "name": "Ø 25mm, Länge 2500mm",
           "image": "",
           "available": 8
+        },
+        {
+          "name": "Details",
+          "image": "",
+          "available": 0
         }
       ]
     },
     {
       "id": "stahlwelle-16mm-lange-2500mm",
       "name": "Stahlwelle Ø 16mm, Länge 2500mm",
-      "price": 20,
+      "price": 0,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -162,13 +172,18 @@
           "name": "Ø 16mm, Länge 2500mm",
           "image": "",
           "available": 8
+        },
+        {
+          "name": "Details",
+          "image": "",
+          "available": 0
         }
       ]
     },
     {
       "id": "stahlwelle-12mm-lange-1200mm",
       "name": "Stahlwelle Ø 12mm, Länge 1200mm",
-      "price": 5,
+      "price": 0,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -184,6 +199,11 @@
           "name": "Ø 12mm, Länge 1200mm",
           "image": "",
           "available": 12
+        },
+        {
+          "name": "Details",
+          "image": "",
+          "available": 0
         }
       ]
     },
@@ -206,13 +226,18 @@
           "name": "Ø 20mm, Länge 400mm, gehärtet und geschliffen",
           "image": "",
           "available": 22
+        },
+        {
+          "name": "Details",
+          "image": "",
+          "available": 0
         }
       ]
     },
     {
       "id": "stahlrohr-80-74mm-lange-6000mm-nahtlos",
       "name": "Stahlrohr Ø 80/74mm, Länge 6000mm, nahtlos",
-      "price": 120,
+      "price": 0,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -228,13 +253,18 @@
           "name": "Ø 80/74mm, Länge 6000mm, nahtlos",
           "image": "",
           "available": 2
+        },
+        {
+          "name": "Details",
+          "image": "",
+          "available": 0
         }
       ]
     },
     {
       "id": "messingrohr-80-74-mm-lange-500-mm",
       "name": "Messingrohr Ø 80/74 mm, Länge 500 mm",
-      "price": 30,
+      "price": 0,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -250,6 +280,11 @@
           "name": "Ø 80/74 mm, Länge 500 mm",
           "image": "",
           "available": 5
+        },
+        {
+          "name": "Details",
+          "image": "",
+          "available": 0
         }
       ]
     }
