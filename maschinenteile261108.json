@@ -75,7 +75,7 @@
     {
       "id": "stahlwelle-40mm-lange-1600mm",
       "name": "Stahlwelle Ø 40mm, Länge 1600mm",
-      "price": 30,
+      "price": 0,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -91,6 +91,11 @@
           "name": "Ø 40mm, Länge 1600mm",
           "image": "",
           "available": 2
+        },
+        {
+          "name": "Details",
+          "image": "",
+          "available": 0
         }
       ]
     },
