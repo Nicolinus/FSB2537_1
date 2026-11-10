@@ -18,12 +18,8 @@
         "rate": 0.1
       },
       {
-        "threshold": 250,
+        "threshold": 200,
         "rate": 0.05
-      },
-      {
-        "threshold": 0,
-        "rate": 0
       }
     ]
   },
