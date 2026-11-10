@@ -300,7 +300,7 @@
       "unit": {
         "quantity": 1,
         "uom": "Stück",
-        "packaging": null,
+        "packaging": "nur Abholung",
         "display": "pro Stück"
       },
       "category": "04",
