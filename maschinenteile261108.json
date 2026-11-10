@@ -7,18 +7,22 @@
     "discounts": [
       {
         "threshold": 2000,
-        "rate": 0.15
+        "rate": 0.2
       },
       {
-        "threshold": 200,
+        "threshold": 0,
         "rate": 0
       },
       {
         "threshold": 1000,
-        "rate": 0.1
+        "rate": 0.15
       },
       {
         "threshold": 500,
+        "rate": 0.1
+      },
+      {
+        "threshold": 200,
         "rate": 0.05
       }
     ]
