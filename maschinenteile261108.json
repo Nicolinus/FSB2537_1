@@ -6,23 +6,19 @@
     "vat_included": true,
     "discounts": [
       {
-        "threshold": 1999,
-        "rate": 0.2
-      },
-      {
-        "threshold": 1499,
+        "threshold": 2000,
         "rate": 0.15
       },
       {
-        "threshold": 199,
+        "threshold": 200,
         "rate": 0
       },
       {
-        "threshold": 999,
+        "threshold": 1000,
         "rate": 0.1
       },
       {
-        "threshold": 499,
+        "threshold": 500,
         "rate": 0.05
       }
     ]
