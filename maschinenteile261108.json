@@ -264,6 +264,28 @@
       ]
     },
     {
+      "id": "stahlrohr-49-46mm-lange-398mm",
+      "name": "Stahlrohr Ø 49/46mm, Länge 398mm",
+      "price": 5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "",
+      "active": true,
+      "order": 202,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Ø 49/46mm, Länge 398mm",
+          "image": "",
+          "available": 10
+        }
+      ]
+    },
+    {
       "id": "messingrohr-80-74-mm-lange-500-mm",
       "name": "Messingrohr Ø 80/74 mm, Länge 500 mm",
       "price": 0,
@@ -287,28 +309,6 @@
           "name": "Details",
           "image": "",
           "available": 0
-        }
-      ]
-    },
-    {
-      "id": "stahlrohr-49-46mm-lange-398mm",
-      "name": "Stahlrohr Ø 49/46mm, Länge 398mm",
-      "price": 5,
-      "unit": {
-        "quantity": 1,
-        "uom": "Stück",
-        "packaging": null,
-        "display": "pro Stück"
-      },
-      "category": "",
-      "active": true,
-      "order": 302,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "Ø 49/46mm, Länge 398mm",
-          "image": "",
-          "available": 10
         }
       ]
     },
