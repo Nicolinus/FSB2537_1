@@ -45,7 +45,7 @@
     {
       "id": "stahlwelle-40mm-lange-4000mm",
       "name": "Stahlwelle Ø 40mm, Länge 4000mm",
-      "price": 0,
+      "price": 100,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
