@@ -42,6 +42,11 @@
       "id": "03",
       "name": "Messingrohr",
       "order": 0
+    },
+    {
+      "id": "04",
+      "name": "Stahlstangen",
+      "order": 0
     }
   ],
   "products": [
@@ -285,6 +290,28 @@
           "name": "Details",
           "image": "",
           "available": 0
+        }
+      ]
+    },
+    {
+      "id": "rundstahl-stange-80mm-lange-1000mm",
+      "name": "Rundstahl Stange Ø 80mm, Länge 1000mm",
+      "price": 60,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "04",
+      "active": true,
+      "order": 401,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Ø 80mm, Länge 1000mm",
+          "image": "maschinenteile261108/80er_Rundstahl_10001x.jpg",
+          "available": 2
         }
       ]
     }
