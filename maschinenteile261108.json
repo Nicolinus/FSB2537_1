@@ -72,7 +72,7 @@
     {
       "id": "stahlwelle-40mm-lange-1440mm",
       "name": "Stahlwelle Ø 40mm, Länge 1440mm",
-      "price": 0,
+      "price": 35,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -87,7 +87,7 @@
         {
           "name": "Ø 40mm, Länge 1440mm",
           "image": "maschinenteile261108/stahlwelle-40mm-lange-1440mm-40mm-lange-1440mm.jpg",
-          "available": 2
+          "available": 1
         },
         {
           "name": "Details",
