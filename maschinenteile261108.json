@@ -37,7 +37,12 @@
     },
     {
       "id": "04",
-      "name": "Stahlstangen",
+      "name": "Alurohr",
+      "order": 0
+    },
+    {
+      "id": "05",
+      "name": "Stahlstange",
       "order": 0
     }
   ],
@@ -286,6 +291,28 @@
       ]
     },
     {
+      "id": "alurohr-49-44-5mm-lange-398mm",
+      "name": "Alurohr Ø 49/44,5mm, Länge 398mm",
+      "price": 5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "",
+      "active": true,
+      "order": 401,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 10
+        }
+      ]
+    },
+    {
       "id": "stahl-rund-stange-80mm-lange-1000mm",
       "name": "Stahl Rund Stange Ø 80mm, Länge 1000mm",
       "price": 60,
@@ -297,7 +324,7 @@
       },
       "category": "04",
       "active": true,
-      "order": 401,
+      "order": 501,
       "aliases": [],
       "variants": [
         {
@@ -319,7 +346,7 @@
       },
       "category": "04",
       "active": true,
-      "order": 402,
+      "order": 502,
       "aliases": [],
       "variants": [
         {
