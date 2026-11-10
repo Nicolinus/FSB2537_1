@@ -294,8 +294,8 @@
       ]
     },
     {
-      "id": "rundstahl-stange-80mm-lange-1000mm",
-      "name": "Rundstahl Stange Ø 80mm, Länge 1000mm",
+      "id": "stahl-rund-stange-80mm-lange-1000mm",
+      "name": "Stahl Rund Stange Ø 80mm, Länge 1000mm",
       "price": 60,
       "unit": {
         "quantity": 1,
@@ -310,8 +310,30 @@
       "variants": [
         {
           "name": "Ø 80mm, Länge 1000mm",
-          "image": "maschinenteile261108/80er_Rundstahl_10001x.jpg",
+          "image": "maschinenteile261108/stahl-rund-stange-80mm-lange-1000mm-80mm-lange-1000mm.jpg",
           "available": 2
+        }
+      ]
+    },
+    {
+      "id": "stahl-vierkant-stange-20mm-x-20mm-lange-800mm",
+      "name": "Stahl Vierkant Stange 20mm x 20mm, Länge 800mm",
+      "price": 15,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "04",
+      "active": true,
+      "order": 402,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "20mm x 20mm, Länge 800mm",
+          "image": "",
+          "available": 10
         }
       ]
     }
