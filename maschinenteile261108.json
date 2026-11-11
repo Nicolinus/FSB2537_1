@@ -27,22 +27,22 @@
     },
     {
       "id": "02",
-      "name": "Stahlrohr",
+      "name": "Stahlrohre",
       "order": 0
     },
     {
       "id": "03",
-      "name": "Messingrohr",
+      "name": "Messingrohre",
       "order": 0
     },
     {
       "id": "04",
-      "name": "Alurohr",
+      "name": "Alurohre",
       "order": 0
     },
     {
       "id": "05",
-      "name": "Stahlstange",
+      "name": "Stangenmaterial",
       "order": 0
     }
   ],
@@ -93,11 +93,6 @@
           "name": "Ø 40mm, Länge 1440mm",
           "image": "maschinenteile261108/stahlwelle-40mm-lange-1440mm-40mm-lange-1440mm.jpg",
           "available": 1
-        },
-        {
-          "name": "Details",
-          "image": "",
-          "available": 0
         }
       ]
     },
