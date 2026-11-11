@@ -308,8 +308,8 @@
       ]
     },
     {
-      "id": "alurohr-49-44-5mm-lange-398mm",
-      "name": "Alurohr Ø 49/44,5mm, Länge 398mm",
+      "id": "alurohr-49-44-5mm-lange-398mm-nahtlos",
+      "name": "Alurohr Ø 49/44,5mm, Länge 398mm, nahtlos",
       "price": 5,
       "unit": {
         "quantity": 1,
@@ -323,8 +323,8 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Standard",
-          "image": "maschinenteile261108/alurohr-49-44-5mm-lange-398mm-standard.jpg",
+          "name": "Ø 49/44,5mm, Länge 398mm, nahtlos",
+          "image": "maschinenteile261108/alurohr-49-44-5mm-lange-398mm-nahtlos-49-44-5mm-lange-398mm-nahtlos.jpg",
           "available": 10
         }
       ]
