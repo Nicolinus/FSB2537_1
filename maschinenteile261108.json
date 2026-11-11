@@ -268,7 +268,7 @@
         "packaging": null,
         "display": "pro Stück"
       },
-      "category": "",
+      "category": "02",
       "active": true,
       "order": 202,
       "aliases": [],
@@ -339,7 +339,7 @@
         "packaging": null,
         "display": "pro Stück ....... kein Versand - nur Abholung "
       },
-      "category": "04",
+      "category": "05",
       "active": true,
       "order": 501,
       "aliases": [],
@@ -361,7 +361,7 @@
         "packaging": null,
         "display": "pro Stück ....... kein Versand - nur Abholung "
       },
-      "category": "04",
+      "category": "05",
       "active": true,
       "order": 502,
       "aliases": [],
