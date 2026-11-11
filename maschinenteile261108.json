@@ -259,8 +259,8 @@
       ]
     },
     {
-      "id": "stahlrohr-49-46mm-lange-398mm-nahtlos",
-      "name": "Stahlrohr Ø 49/46mm, Länge 398mm, nahtlos",
+      "id": "stahlrohr-49-46mm-lange-396mm-nahtlos",
+      "name": "Stahlrohr Ø 49/46mm, Länge 396mm, nahtlos",
       "price": 5,
       "unit": {
         "quantity": 1,
@@ -274,7 +274,7 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Ø 49/46mm, Länge 398mm",
+          "name": "Ø 49/46mm, Länge 396mm",
           "image": "",
           "available": 10
         }
@@ -308,8 +308,8 @@
       ]
     },
     {
-      "id": "alurohr-49-44-5mm-lange-398mm-nahtlos",
-      "name": "Alurohr Ø 49/44,5mm, Länge 398mm, nahtlos",
+      "id": "alurohr-49-44-5mm-lange-396mm-nahtlos",
+      "name": "Alurohr Ø 49/44,5mm, Länge 396mm, nahtlos",
       "price": 5,
       "unit": {
         "quantity": 1,
@@ -323,8 +323,8 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Ø 49/44,5mm, Länge 398mm, nahtlos",
-          "image": "maschinenteile261108/alurohr-49-44-5mm-lange-398mm-nahtlos-49-44-5mm-lange-398mm-nahtlos.jpg",
+          "name": "Ø 49/44,5mm, Länge 396mm, nahtlos",
+          "image": "maschinenteile261108/alurohr-49-44-5mm-lange-396mm-nahtlos-49-44-5mm-lange-396mm-nahtlos.jpg",
           "available": 10
         }
       ]
