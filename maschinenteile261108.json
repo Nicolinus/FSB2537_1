@@ -259,8 +259,8 @@
       ]
     },
     {
-      "id": "stahlrohr-49-46mm-lange-398mm",
-      "name": "Stahlrohr Ø 49/46mm, Länge 398mm",
+      "id": "stahlrohr-49-46mm-lange-398mm-nahtlos",
+      "name": "Stahlrohr Ø 49/46mm, Länge 398mm, nahtlos",
       "price": 5,
       "unit": {
         "quantity": 1,
@@ -281,8 +281,8 @@
       ]
     },
     {
-      "id": "messingrohr-80-74-mm-lange-500-mm",
-      "name": "Messingrohr Ø 80/74 mm, Länge 500 mm",
+      "id": "messingrohr-80-74-mm-lange-500-mm-nahtlos",
+      "name": "Messingrohr Ø 80/74 mm, Länge 500 mm, nahtlos",
       "price": 0,
       "unit": {
         "quantity": 1,
