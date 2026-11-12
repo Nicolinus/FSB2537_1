@@ -281,6 +281,28 @@
       ]
     },
     {
+      "id": "stahlrohr-2-15-5mm-lange-1450mm",
+      "name": "Stahlrohr Ø 2/15,5mm, Länge 1450mm",
+      "price": 10,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück ....... kein Versand - nur Abholung"
+      },
+      "category": "",
+      "active": true,
+      "order": 203,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Ø 2/15,5mm, Länge 1450mm",
+          "image": "",
+          "available": 10
+        }
+      ]
+    },
+    {
       "id": "messingrohr-80-74-mm-lange-500-mm-nahtlos",
       "name": "Messingrohr Ø 80/74 mm, Länge 500 mm, nahtlos",
       "price": 0,
