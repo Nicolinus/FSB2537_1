@@ -290,13 +290,13 @@
         "packaging": null,
         "display": "pro Stück ....... kein Versand - nur Abholung"
       },
-      "category": "",
+      "category": "02",
       "active": true,
       "order": 203,
       "aliases": [],
       "variants": [
         {
-          "name": "Ø 2/15,5mm, Länge 1450mm",
+          "name": "Ø 22/15,5mm, Länge 1450mm",
           "image": "",
           "available": 10
         }
