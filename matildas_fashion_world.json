@@ -134,6 +134,11 @@
           "name": "main",
           "image": "matildas_fashion_world/winterrock-im-tartan-stil-main.jpg",
           "available": 2
+        },
+        {
+          "name": "Detail 1",
+          "image": "matildas_fashion_world/winterrock-im-tartan-stil-detail-1.jpg",
+          "available": 0
         }
       ]
     }
