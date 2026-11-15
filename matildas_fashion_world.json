@@ -172,6 +172,11 @@
           "name": "Neue Variante 2",
           "image": "",
           "available": 3
+        },
+        {
+          "name": "Neue Variante 3",
+          "image": "",
+          "available": 1
         }
       ]
     }
