@@ -6,11 +6,11 @@
     "vat_included": true,
     "discounts": [
       {
-        "threshold": 200,
+        "threshold": 500,
         "rate": 0.1
       },
       {
-        "threshold": 100,
+        "threshold": 200,
         "rate": 0.05
       },
       {
