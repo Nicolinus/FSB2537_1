@@ -182,6 +182,11 @@
           "name": "Neue Variante 4",
           "image": "",
           "available": 2
+        },
+        {
+          "name": "Neue Variante 5",
+          "image": "",
+          "available": 1
         }
       ]
     }
