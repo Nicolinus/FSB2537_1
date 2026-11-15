@@ -47,8 +47,8 @@
       "aliases": [],
       "variants": [
         {
-          "name": "FBJ",
-          "image": "matildas_fashion_world/floral-bomber-jacket-fbj.jpg",
+          "name": "main",
+          "image": "matildas_fashion_world/floral-bomber-jacket-main.jpg",
           "available": 1
         },
         {
