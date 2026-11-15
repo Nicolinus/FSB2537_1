@@ -114,6 +114,28 @@
           "available": 0
         }
       ]
+    },
+    {
+      "id": "winterrock-im-tartan-stil",
+      "name": "Winterrock im Tartan-Stil",
+      "price": 165,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "03",
+      "active": true,
+      "order": 301,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "main",
+          "image": "matildas_fashion_world/winterrock-im-tartan-stil-main.jpg",
+          "available": 2
+        }
+      ]
     }
   ]
 }
