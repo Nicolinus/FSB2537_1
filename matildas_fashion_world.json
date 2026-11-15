@@ -95,8 +95,8 @@
       "aliases": [],
       "variants": [
         {
-          "name": "main",
-          "image": "matildas_fashion_world/alpaka-seide-strickpullover-main.jpg",
+          "name": "V01",
+          "image": "matildas_fashion_world/alpaka-seide-strickpullover-v01.jpg",
           "available": 2
         },
         {
