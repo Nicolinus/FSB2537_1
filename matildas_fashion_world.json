@@ -127,8 +127,8 @@
       "aliases": [],
       "variants": [
         {
-          "name": "main",
-          "image": "matildas_fashion_world/winterrock-im-tartan-stil-main.jpg",
+          "name": "V01",
+          "image": "matildas_fashion_world/winterrock-im-tartan-stil-v01.jpg",
           "available": 2
         },
         {
