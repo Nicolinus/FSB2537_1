@@ -50,6 +50,16 @@
           "name": "Floral Bomber Jacket",
           "image": "matildas_fashion_world/floral-bomber-jacket-floral-bomber-jacket.jpg",
           "available": 1
+        },
+        {
+          "name": "Neue Variante 2",
+          "image": "",
+          "available": 0
+        },
+        {
+          "name": "Neue Variante 3",
+          "image": "",
+          "available": 0
         }
       ]
     }
