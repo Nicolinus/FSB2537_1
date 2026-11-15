@@ -82,6 +82,38 @@
           "available": 0
         }
       ]
+    },
+    {
+      "id": "alpaka-seide-strickpullover",
+      "name": "Alpaka Seide Strickpullover",
+      "price": 115,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "02",
+      "active": true,
+      "order": 110,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "main",
+          "image": "matildas_fashion_world/alpaka-seide-strickpullover-main.jpg",
+          "available": 2
+        },
+        {
+          "name": "Detail 1",
+          "image": "matildas_fashion_world/alpaka-seide-strickpullover-detail-1.jpg",
+          "available": 0
+        },
+        {
+          "name": "Detail 3",
+          "image": "matildas_fashion_world/alpaka-seide-strickpullover-detail-3.jpg",
+          "available": 0
+        }
+      ]
     }
   ]
 }
