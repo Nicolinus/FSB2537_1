@@ -34,7 +34,7 @@
     {
       "id": "floral-bomber-jacket",
       "name": "Floral Bomber Jacket",
-      "price": 72.5,
+      "price": 0,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -52,12 +52,12 @@
           "available": 1
         },
         {
-          "name": "Neue Variante 2",
-          "image": "",
+          "name": "Detail 1",
+          "image": "matildas_fashion_world/floral-bomber-jacket-detail-1.jpg",
           "available": 0
         },
         {
-          "name": "Neue Variante 3",
+          "name": "Detail 2",
           "image": "",
           "available": 0
         }
