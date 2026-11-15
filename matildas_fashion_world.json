@@ -28,6 +28,26 @@
       "id": "01",
       "name": "Jacken",
       "order": 100
+    },
+    {
+      "id": "02",
+      "name": "Pullis",
+      "order": 200
+    },
+    {
+      "id": "03",
+      "name": "Röcke",
+      "order": 300
+    },
+    {
+      "id": "04",
+      "name": "Hosen",
+      "order": 400
+    },
+    {
+      "id": "05",
+      "name": "Accessoires",
+      "order": 500
     }
   ],
   "products": [
