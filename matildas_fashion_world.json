@@ -147,6 +147,28 @@
           "available": 0
         }
       ]
+    },
+    {
+      "id": "flauschiger-dicker-winterschal",
+      "name": "flauschiger, dicker Winterschal",
+      "price": 28.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "05",
+      "active": true,
+      "order": 501,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "main",
+          "image": "matildas_fashion_world/flauschiger-dicker-winterschal-main.jpg",
+          "available": 5
+        }
+      ]
     }
   ]
 }
