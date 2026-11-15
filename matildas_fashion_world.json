@@ -167,6 +167,11 @@
           "name": "Variante 1",
           "image": "matildas_fashion_world/flauschiger-dicker-winterschal-variante-1.jpg",
           "available": 5
+        },
+        {
+          "name": "Neue Variante 2",
+          "image": "",
+          "available": 3
         }
       ]
     }
