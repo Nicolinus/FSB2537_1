@@ -164,8 +164,8 @@
       "aliases": [],
       "variants": [
         {
-          "name": "main",
-          "image": "matildas_fashion_world/flauschiger-dicker-winterschal-main.jpg",
+          "name": "Variante 1",
+          "image": "matildas_fashion_world/flauschiger-dicker-winterschal-variante-1.jpg",
           "available": 5
         }
       ]
