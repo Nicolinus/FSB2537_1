@@ -175,7 +175,7 @@
     {
       "id": "stahlwelle-16mm",
       "name": "Stahlwelle Ø 16mm",
-      "price": 0,
+      "price": 10,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
