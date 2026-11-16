@@ -131,7 +131,7 @@
     {
       "id": "stahlwelle-30mm",
       "name": "Stahlwelle Ø 30mm",
-      "price": 0,
+      "price": 10,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
