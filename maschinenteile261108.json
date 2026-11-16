@@ -120,6 +120,11 @@
           "name": "Länge 1440mm",
           "image": "maschinenteile261108/stahlwelle-40mm-1-lange-1440mm.jpg",
           "available": 1
+        },
+        {
+          "name": "Details",
+          "image": "",
+          "available": 0
         }
       ]
     },
