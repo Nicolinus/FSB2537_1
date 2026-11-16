@@ -237,8 +237,8 @@
       ]
     },
     {
-      "id": "stahlwelle-20mm-lange-315mm-gehartet-und-geschliffen",
-      "name": "Stahlwelle Ø 20mm, Länge 315mm, gehärtet und geschliffen",
+      "id": "stahlwelle-20mm-gehartet-und-geschliffen",
+      "name": "Stahlwelle Ø 20mm, gehärtet und geschliffen",
       "price": 8.5,
       "unit": {
         "quantity": 1,
@@ -252,7 +252,7 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Ø 20mm, Länge 315mm, gehärtet und geschliffen",
+          "name": "Länge 315mm",
           "image": "",
           "available": 22
         },
