@@ -284,9 +284,9 @@
           "available": 1
         },
         {
-          "name": "Lnge 5200 mm",
+          "name": "Details",
           "image": "",
-          "available": 1
+          "available": 0
         }
       ]
     },
@@ -309,6 +309,11 @@
           "name": "Länge 398mm",
           "image": "maschinenteile261108/stahlrohr-49-46mm-nahtlos-lange-398mm.jpg",
           "available": 10
+        },
+        {
+          "name": "Details",
+          "image": "",
+          "available": 0
         }
       ]
     },
@@ -331,6 +336,11 @@
           "name": "Länge 1450mm",
           "image": "",
           "available": 10
+        },
+        {
+          "name": "Details",
+          "image": "",
+          "available": 0
         }
       ]
     },
@@ -380,6 +390,11 @@
           "name": "Länge 396mm",
           "image": "maschinenteile261108/alurohr-49-44mm-nahtlos-lange-396mm.jpg",
           "available": 10
+        },
+        {
+          "name": "Details",
+          "image": "",
+          "available": 0
         }
       ]
     },
@@ -402,6 +417,11 @@
           "name": "Länge 1000mm",
           "image": "maschinenteile261108/stahl-rund-stange-80mm-lange-1000mm.jpg",
           "available": 2
+        },
+        {
+          "name": "Details",
+          "image": "",
+          "available": 0
         }
       ]
     },
@@ -424,6 +444,11 @@
           "name": "Länge 800mm",
           "image": "",
           "available": 10
+        },
+        {
+          "name": "Details",
+          "image": "",
+          "available": 0
         }
       ]
     }
