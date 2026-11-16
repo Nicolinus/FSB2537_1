@@ -75,8 +75,30 @@
       ]
     },
     {
-      "id": "stahlwelle-40mm-lange-1440mm",
-      "name": "Stahlwelle Ø 40mm, Länge 1440mm",
+      "id": "stahlwelle-40mm-2",
+      "name": "Stahlwelle Ø 40mm",
+      "price": 40,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "",
+      "active": true,
+      "order": 101,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "1650mm",
+          "image": "",
+          "available": 2
+        }
+      ]
+    },
+    {
+      "id": "stahlwelle-40mm-1",
+      "name": "Stahlwelle Ø 40mm",
       "price": 35,
       "unit": {
         "quantity": 1,
@@ -90,15 +112,15 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Ø 40mm, Länge 1440mm",
-          "image": "maschinenteile261108/stahlwelle-40mm-lange-1440mm-40mm-lange-1440mm.jpg",
+          "name": "Länge 1440mm",
+          "image": "maschinenteile261108/stahlwelle-40mm-1-lange-1440mm.jpg",
           "available": 1
         }
       ]
     },
     {
-      "id": "stahlwelle-30mm-lange-1000mm",
-      "name": "Stahlwelle Ø 30mm, Länge 1000mm",
+      "id": "stahlwelle-30mm",
+      "name": "Stahlwelle Ø 30mm",
       "price": 0,
       "unit": {
         "quantity": 1,
@@ -112,7 +134,7 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Ø 30mm, Länge 1000mm",
+          "name": "Länge 1000mm",
           "image": "",
           "available": 10
         },
