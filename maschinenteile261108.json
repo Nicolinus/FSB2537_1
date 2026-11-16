@@ -80,9 +80,9 @@
       "price": 40,
       "unit": {
         "quantity": 1,
-        "uom": "Stück ....... kein Versand - nur Abholung",
+        "uom": "Stück",
         "packaging": null,
-        "display": "pro Stück"
+        "display": "pro Stück ....... kein Versand - nur Abholung"
       },
       "category": "01",
       "active": true,
