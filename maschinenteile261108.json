@@ -80,7 +80,7 @@
       "price": 40,
       "unit": {
         "quantity": 1,
-        "uom": "Stück....... kein Versand - nur Abholung",
+        "uom": "Stück ....... kein Versand - nur Abholung",
         "packaging": null,
         "display": "pro Stück"
       },
@@ -92,7 +92,7 @@
         {
           "name": "Länge 1650mm",
           "image": "",
-          "available": 2
+          "available": 1
         },
         {
           "name": "Details",
