@@ -93,6 +93,11 @@
           "name": "1650mm",
           "image": "",
           "available": 2
+        },
+        {
+          "name": "Details",
+          "image": "",
+          "available": 0
         }
       ]
     },
