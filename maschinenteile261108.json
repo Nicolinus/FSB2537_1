@@ -263,7 +263,7 @@
         "packaging": null,
         "display": "pro Stück ....... kein Versand - nur Abholung "
       },
-      "category": "",
+      "category": "02",
       "active": true,
       "order": 201,
       "aliases": [],
@@ -344,9 +344,9 @@
         "packaging": null,
         "display": "pro Stück ....... kein Versand - nur Abholung "
       },
-      "category": "03",
+      "category": "02",
       "active": true,
-      "order": 301,
+      "order": 204,
       "aliases": [],
       "variants": [
         {
@@ -371,9 +371,9 @@
         "packaging": null,
         "display": "pro Stück"
       },
-      "category": "04",
+      "category": "02",
       "active": true,
-      "order": 401,
+      "order": 205,
       "aliases": [],
       "variants": [
         {
@@ -398,9 +398,9 @@
         "packaging": null,
         "display": "pro Stück ....... kein Versand - nur Abholung "
       },
-      "category": "05",
+      "category": "03",
       "active": true,
-      "order": 501,
+      "order": 301,
       "aliases": [],
       "variants": [
         {
@@ -425,9 +425,9 @@
         "packaging": null,
         "display": "pro Stück ....... kein Versand - nur Abholung "
       },
-      "category": "05",
+      "category": "03",
       "active": true,
-      "order": 502,
+      "order": 302,
       "aliases": [],
       "variants": [
         {
