@@ -183,8 +183,8 @@
       ]
     },
     {
-      "id": "stahlwelle-16mm-lange-2500mm",
-      "name": "Stahlwelle Ø 16mm, Länge 2500mm",
+      "id": "stahlwelle-16mm",
+      "name": "Stahlwelle Ø 16mm",
       "price": 0,
       "unit": {
         "quantity": 1,
@@ -198,7 +198,7 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Ø 16mm, Länge 2500mm",
+          "name": "Länge 2500mm",
           "image": "",
           "available": 8
         },
@@ -291,8 +291,8 @@
       ]
     },
     {
-      "id": "stahlrohr-49-46mm-lange-398mm-nahtlos",
-      "name": "Stahlrohr Ø 49/46mm, Länge 398mm, nahtlos",
+      "id": "stahlrohr-49-46mm-nahtlos",
+      "name": "Stahlrohr Ø 49/46mm, nahtlos",
       "price": 5,
       "unit": {
         "quantity": 1,
@@ -306,15 +306,15 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Ø 49/46mm, Länge 398mm",
-          "image": "maschinenteile261108/stahlrohr-49-46mm-lange-398mm-nahtlos-49-46mm-lange-398mm.jpg",
+          "name": "Länge 398mm",
+          "image": "maschinenteile261108/stahlrohr-49-46mm-nahtlos-lange-398mm.jpg",
           "available": 10
         }
       ]
     },
     {
-      "id": "stahlrohr-22-15-5mm-lange-1450mm-nahtlos",
-      "name": "Stahlrohr Ø 22/15,5mm, Länge 1450mm, nahtlos",
+      "id": "stahlrohr-22-15-5mm-nahtlos",
+      "name": "Stahlrohr Ø 22/15,5mm, nahtlos",
       "price": 10,
       "unit": {
         "quantity": 1,
@@ -328,15 +328,15 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Ø 22/15,5mm, Länge 1450mm, nahtlos",
+          "name": "Länge 1450mm",
           "image": "",
           "available": 10
         }
       ]
     },
     {
-      "id": "messingrohr-80-74-mm-lange-500-mm-nahtlos",
-      "name": "Messingrohr Ø 80/74 mm, Länge 500 mm, nahtlos",
+      "id": "messingrohr-80-74-mm-nahtlos",
+      "name": "Messingrohr Ø 80/74 mm, nahtlos",
       "price": 0,
       "unit": {
         "quantity": 1,
@@ -350,7 +350,7 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Ø 80/74 mm, Länge 500 mm",
+          "name": "Länge 500 mm",
           "image": "",
           "available": 5
         },
@@ -362,8 +362,8 @@
       ]
     },
     {
-      "id": "alurohr-49-44mm-lange-396mm-nahtlos",
-      "name": "Alurohr Ø 49/44mm, Länge 396mm, nahtlos",
+      "id": "alurohr-49-44mm-nahtlos",
+      "name": "Alurohr Ø 49/44mm, nahtlos",
       "price": 5,
       "unit": {
         "quantity": 1,
@@ -377,15 +377,15 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Ø 49/44mm, Länge 396mm, nahtlos",
-          "image": "maschinenteile261108/alurohr-49-44mm-lange-396mm-nahtlos-49-44mm-lange-396mm-nahtlos.jpg",
+          "name": "Länge 396mm",
+          "image": "maschinenteile261108/alurohr-49-44mm-nahtlos-lange-396mm.jpg",
           "available": 10
         }
       ]
     },
     {
-      "id": "stahl-rund-stange-80mm-lange-1000mm",
-      "name": "Stahl Rund Stange Ø 80mm, Länge 1000mm",
+      "id": "stahl-rund-stange-80mm",
+      "name": "Stahl Rund Stange Ø 80mm",
       "price": 60,
       "unit": {
         "quantity": 1,
@@ -399,15 +399,15 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Ø 80mm, Länge 1000mm",
-          "image": "maschinenteile261108/stahl-rund-stange-80mm-lange-1000mm-80mm-lange-1000mm.jpg",
+          "name": "Länge 1000mm",
+          "image": "maschinenteile261108/stahl-rund-stange-80mm-lange-1000mm.jpg",
           "available": 2
         }
       ]
     },
     {
-      "id": "stahl-vierkant-stange-20mm-x-20mm-lange-800mm-blank-gezogen",
-      "name": "Stahl Vierkant Stange 20mm x 20mm, Länge 800mm, blank, gezogen",
+      "id": "stahl-vierkant-stange-20mm-x-20mm-blank-gezogen",
+      "name": "Stahl Vierkant Stange 20mm x 20mm, blank, gezogen",
       "price": 15,
       "unit": {
         "quantity": 1,
@@ -421,7 +421,7 @@
       "aliases": [],
       "variants": [
         {
-          "name": "20mm x 20mm, Länge 800mm",
+          "name": "Länge 800mm",
           "image": "",
           "available": 10
         }
