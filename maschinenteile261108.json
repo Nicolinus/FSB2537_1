@@ -156,9 +156,9 @@
       ]
     },
     {
-      "id": "stahlwelle-25mm-lange-2500mm",
-      "name": "Stahlwelle Ø 25mm, Länge 2500mm",
-      "price": 0,
+      "id": "stahlwelle-25mm",
+      "name": "Stahlwelle Ø 25mm",
+      "price": 10,
       "unit": {
         "quantity": 8,
         "uom": "Stück",
@@ -171,7 +171,7 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Ø 25mm, Länge 2500mm",
+          "name": "Länge 2500mm",
           "image": "",
           "available": 8
         },
