@@ -172,6 +172,11 @@
           "name": "V02",
           "image": "matildas_fashion_world/kaschmirhose-fur-damen-v02.jpg",
           "available": 1
+        },
+        {
+          "name": "V03",
+          "image": "matildas_fashion_world/kaschmirhose-fur-damen-v03.jpg",
+          "available": 2
         }
       ]
     },
