@@ -210,8 +210,8 @@
       ]
     },
     {
-      "id": "stahlwelle-12mm-lange-1200mm",
-      "name": "Stahlwelle Ø 12mm, Länge 1200mm",
+      "id": "stahlwelle-12mm",
+      "name": "Stahlwelle Ø 12mm",
       "price": 10,
       "unit": {
         "quantity": 1,
@@ -225,7 +225,7 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Ø 12mm, Länge 1200mm",
+          "name": "Länge 1200mm",
           "image": "",
           "available": 12
         },
