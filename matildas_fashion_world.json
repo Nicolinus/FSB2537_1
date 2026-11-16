@@ -151,7 +151,7 @@
     {
       "id": "kaschmirhose-fur-damen",
       "name": "Kaschmirhose für Damen",
-      "price": 75,
+      "price": 0,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -186,6 +186,11 @@
         {
           "name": "V05",
           "image": "matildas_fashion_world/kaschmirhose-fur-damen-v05.jpg",
+          "available": 0
+        },
+        {
+          "name": "Detail 1",
+          "image": "matildas_fashion_world/kaschmirhose-fur-damen-detail-1.jpg",
           "available": 0
         }
       ]
