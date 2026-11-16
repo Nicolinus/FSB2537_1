@@ -27,21 +27,11 @@
     },
     {
       "id": "02",
-      "name": "Stahlrohre",
+      "name": "Metallrohre",
       "order": 0
     },
     {
       "id": "03",
-      "name": "Messingrohre",
-      "order": 0
-    },
-    {
-      "id": "04",
-      "name": "Alurohre",
-      "order": 0
-    },
-    {
-      "id": "05",
       "name": "Stangenmaterial",
       "order": 0
     }
@@ -273,7 +263,7 @@
         "packaging": null,
         "display": "pro Stück ....... kein Versand - nur Abholung "
       },
-      "category": "02",
+      "category": "",
       "active": true,
       "order": 201,
       "aliases": [],
