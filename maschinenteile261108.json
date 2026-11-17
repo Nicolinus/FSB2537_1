@@ -500,7 +500,29 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Standard",
+          "name": "M8 Befestigung",
+          "image": "",
+          "available": 20
+        }
+      ]
+    },
+    {
+      "id": "stellring-29-45mm-breit-12mm",
+      "name": "Stellring Ø 29/45mm, breit 12mm",
+      "price": 1.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "04",
+      "active": true,
+      "order": 403,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "M10 Befestigung",
           "image": "",
           "available": 20
         }
@@ -557,28 +579,6 @@
           "name": "ohne Keilnut",
           "image": "",
           "available": 4
-        }
-      ]
-    },
-    {
-      "id": "stellring-29-45mm-breit-12mm",
-      "name": "Stellring Ø 29/45mm, breit 12mm",
-      "price": 1.5,
-      "unit": {
-        "quantity": 1,
-        "uom": "Stück",
-        "packaging": null,
-        "display": "pro Stück"
-      },
-      "category": "04",
-      "active": true,
-      "order": 510,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "M10 Befestigung",
-          "image": "",
-          "available": 20
         }
       ]
     }
