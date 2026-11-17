@@ -478,12 +478,12 @@
       "aliases": [],
       "variants": [
         {
-          "name": "V01 1Schraube",
+          "name": "1Schraube",
           "image": "",
           "available": 30
         },
         {
-          "name": "V02 2 Schrauben",
+          "name": "2 Schrauben",
           "image": "",
           "available": 10
         }
