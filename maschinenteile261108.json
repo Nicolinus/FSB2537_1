@@ -485,8 +485,8 @@
       ]
     },
     {
-      "id": "stellring",
-      "name": "Stellring",
+      "id": "stellring-40-25mm-breit-12mm",
+      "name": "Stellring Ø 40/25mm, breit 12mm",
       "price": 5,
       "unit": {
         "quantity": 5,
@@ -496,11 +496,11 @@
       },
       "category": "",
       "active": true,
-      "order": 320,
+      "order": 401,
       "aliases": [],
       "variants": [
         {
-          "name": "Ø 40/25mm, 12mm",
+          "name": "Stahl",
           "image": "",
           "available": 10
         },
