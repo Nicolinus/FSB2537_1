@@ -34,6 +34,26 @@
       "id": "03",
       "name": "Stangenmaterial",
       "order": 0
+    },
+    {
+      "id": "04",
+      "name": "Stellringe",
+      "order": 0
+    },
+    {
+      "id": "05",
+      "name": "Verbindungsteile",
+      "order": 0
+    },
+    {
+      "id": "06",
+      "name": "Kugellager",
+      "order": 0
+    },
+    {
+      "id": "07",
+      "name": "Sonstiges",
+      "order": 0
     }
   ],
   "products": [
@@ -437,6 +457,28 @@
         },
         {
           "name": "Details",
+          "image": "",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "neues-produkt",
+      "name": "Neues Produkt",
+      "price": 0,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "",
+      "active": true,
+      "order": 310,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
           "image": "",
           "available": 0
         }
