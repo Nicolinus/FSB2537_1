@@ -483,6 +483,33 @@
           "available": 0
         }
       ]
+    },
+    {
+      "id": "stellring",
+      "name": "Stellring",
+      "price": 5,
+      "unit": {
+        "quantity": 5,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "",
+      "active": true,
+      "order": 320,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Ø 40/25mm, 12mm",
+          "image": "",
+          "available": 10
+        },
+        {
+          "name": "Detail",
+          "image": "",
+          "available": 0
+        }
+      ]
     }
   ]
 }
