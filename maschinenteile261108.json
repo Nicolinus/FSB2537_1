@@ -507,8 +507,8 @@
       ]
     },
     {
-      "id": "stellring-29-45mm-breit-12mm",
-      "name": "Stellring Ø 29/45mm, breit 12mm",
+      "id": "stellring-29-50mm-breit-12mm",
+      "name": "Stellring Ø 29/50mm, breit 12mm",
       "price": 1.5,
       "unit": {
         "quantity": 1,
@@ -522,7 +522,7 @@
       "aliases": [],
       "variants": [
         {
-          "name": "M10 Befestigung",
+          "name": "M8 Befestigung",
           "image": "",
           "available": 20
         }
