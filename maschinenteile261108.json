@@ -485,8 +485,8 @@
       ]
     },
     {
-      "id": "stellring-16-25-mm-breit-20mm",
-      "name": "Stellring Ø 16/25 mm, breit 20mm",
+      "id": "stellring-16-25-mm-breit-16-5mm",
+      "name": "Stellring Ø 16/25 mm, breit 16,5mm",
       "price": 1,
       "unit": {
         "quantity": 1,
@@ -500,7 +500,7 @@
       "aliases": [],
       "variants": [
         {
-          "name": "2x 1/4",
+          "name": "2x 1/4 -20 BSW",
           "image": "",
           "available": 20
         }
