@@ -463,8 +463,8 @@
       ]
     },
     {
-      "id": "stellring-25-40mm-breit-12mm",
-      "name": "Stellring Ø 25/40mm, breit 12mm",
+      "id": "stellring-25-40mm-breit-15mm",
+      "name": "Stellring Ø 25/40mm, breit 15mm",
       "price": 1.5,
       "unit": {
         "quantity": 1,
@@ -478,7 +478,7 @@
       "aliases": [],
       "variants": [
         {
-          "name": "1 Schraube",
+          "name": "M10 Schraubklemmung",
           "image": "",
           "available": 30
         }
