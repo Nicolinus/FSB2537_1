@@ -510,6 +510,33 @@
           "available": 10
         }
       ]
+    },
+    {
+      "id": "wellenkupplung-40mm",
+      "name": "Wellenkupplung Ø 40mm",
+      "price": 55,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "05",
+      "active": true,
+      "order": 502,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "mit Keilnut",
+          "image": "",
+          "available": 4
+        },
+        {
+          "name": "ohne Keilnut",
+          "image": "",
+          "available": 0
+        }
+      ]
     }
   ]
 }
