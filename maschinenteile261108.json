@@ -60,7 +60,7 @@
     {
       "id": "stahlwelle-40mm",
       "name": "Stahlwelle Ø 40mm",
-      "price": 100,
+      "price": 0,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
