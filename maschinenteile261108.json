@@ -392,7 +392,7 @@
     {
       "id": "stahl-rund-stange-80mm",
       "name": "Stahl Rund Stange Ø 80mm",
-      "price": 60,
+      "price": 0,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -407,7 +407,8 @@
         {
           "name": "Länge 1000mm",
           "image": "maschinenteile261108/stahl-rund-stange-80mm-lange-1000mm.jpg",
-          "available": 2
+          "available": 2,
+          "price": 110
         },
         {
           "name": "Details",
