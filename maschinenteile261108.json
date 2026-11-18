@@ -58,8 +58,8 @@
   ],
   "products": [
     {
-      "id": "stahlwelle-40mm",
-      "name": "Stahlwelle Ø 40mm",
+      "id": "stahlwelle-40mm-lange-4000mm",
+      "name": "Stahlwelle Ø 40mm, Länge 4000mm",
       "price": 100,
       "unit": {
         "quantity": 1,
@@ -73,13 +73,13 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Länge 4000mm",
+          "name": "V0",
           "image": "",
           "available": 5
         },
         {
           "name": "Details",
-          "image": "maschinenteile261108/stahlwelle-40mm-lange-4000mm.jpg",
+          "image": "maschinenteile261108/stahlwelle-40mm-lange-4000mm-details.jpg",
           "available": 0
         }
       ]
