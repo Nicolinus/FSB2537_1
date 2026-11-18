@@ -83,6 +83,11 @@
           "image": "maschinenteile261108/stahlwelle-40mm.jpg",
           "available": 1,
           "price": 70
+        },
+        {
+          "name": "Neue Variante 3",
+          "image": "",
+          "available": 0
         }
       ]
     },
