@@ -92,33 +92,6 @@
       ]
     },
     {
-      "id": "stahlwelle-40mm-2",
-      "name": "Stahlwelle Ø 40mm",
-      "price": 40,
-      "unit": {
-        "quantity": 1,
-        "uom": "Stück",
-        "packaging": null,
-        "display": "pro Stück ....... kein Versand - nur Abholung"
-      },
-      "category": "01",
-      "active": true,
-      "order": 101,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "Länge 1650mm",
-          "image": "",
-          "available": 1
-        },
-        {
-          "name": "Details",
-          "image": "",
-          "available": 0
-        }
-      ]
-    },
-    {
       "id": "stahlwelle-40mm-1",
       "name": "Stahlwelle Ø 40mm",
       "price": 35,
