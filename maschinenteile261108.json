@@ -74,12 +74,12 @@
       "variants": [
         {
           "name": "Länge 4000mm",
-          "image": "maschinenteile261108/stahlwelle-40mm-lange-4000mm.jpg",
+          "image": "maschinenteile261108/stahlwelle-40mm.jpg",
           "available": 5
         },
         {
           "name": "Länge 1600mm",
-          "image": "maschinenteile261108/stahlwelle-40mm-lange-1600mm.jpg",
+          "image": "maschinenteile261108/stahlwelle-40mm.jpg",
           "available": 1
         }
       ]
