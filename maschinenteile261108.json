@@ -76,13 +76,13 @@
           "name": "Länge 4000mm",
           "image": "maschinenteile261108/stahlwelle-40mm.jpg",
           "available": 5,
-          "price": 100
+          "price": 200
         },
         {
           "name": "Länge 1600mm",
           "image": "maschinenteile261108/stahlwelle-40mm.jpg",
           "available": 1,
-          "price": 40
+          "price": 80
         },
         {
           "name": "Details",
