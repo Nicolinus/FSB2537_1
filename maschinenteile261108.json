@@ -81,12 +81,12 @@
         {
           "name": "Details",
           "image": "maschinenteile261108/stahlwelle-40mm-details.jpg",
-          "available": 1
+          "available": 0
         },
         {
           "name": "Länge 1600mm",
           "image": "",
-          "available": 0,
+          "available": 1,
           "price": 40
         },
         {
