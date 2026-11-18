@@ -419,7 +419,7 @@
     {
       "id": "stahl-vierkant-stange-20mm-x-20mm-blank-gezogen",
       "name": "Stahl Vierkant Stange 20mm x 20mm, blank, gezogen",
-      "price": 15,
+      "price": 0,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -432,14 +432,22 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Länge 800mm",
+          "name": "Länge 1200mm",
           "image": "",
-          "available": 10
+          "available": 2,
+          "price": 30
         },
         {
-          "name": "Details",
+          "name": "Länge1000mm",
           "image": "",
-          "available": 0
+          "available": 2,
+          "price": 25
+        },
+        {
+          "name": "Länge 800mm",
+          "image": "",
+          "available": 2,
+          "price": 20
         }
       ]
     },
