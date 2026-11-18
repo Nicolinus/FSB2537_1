@@ -218,7 +218,8 @@
         {
           "name": "V02",
           "image": "matildas_fashion_world/flauschiger-dicker-winterschal-v02.jpg",
-          "available": 3
+          "available": 3,
+          "price": 32.5
         },
         {
           "name": "V03",
