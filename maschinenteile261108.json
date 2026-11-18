@@ -87,7 +87,8 @@
         {
           "name": "Details",
           "image": "",
-          "available": 0
+          "available": 0,
+          "price": 1
         }
       ]
     },
