@@ -529,6 +529,28 @@
       ]
     },
     {
+      "id": "stellring-12-25mm-breit-10mm",
+      "name": "Stellring Ø 12/25mm, breit 10mm",
+      "price": 2,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "04",
+      "active": true,
+      "order": 404,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "M6 Befestigung",
+          "image": "",
+          "available": 10
+        }
+      ]
+    },
+    {
       "id": "wellenkupplung-16mm",
       "name": "Wellenkupplung Ø 16mm",
       "price": 15,
