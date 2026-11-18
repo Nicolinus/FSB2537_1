@@ -73,8 +73,8 @@
       "aliases": [],
       "variants": [
         {
-          "name": "V0",
-          "image": "maschinenteile261108/stahlwelle-40mm-lange-4000mm.jpg",
+          "name": "Länge 4000mm",
+          "image": "maschinenteile261108/stahlwelle-40mm-lange-4000mm-lange-4000mm.jpg",
           "available": 5
         },
         {
