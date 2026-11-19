@@ -673,6 +673,17 @@
           "image": "maschinenteile261108/konstruktionsteil-fuss-2.jpg",
           "available": 5,
           "price": 2.5
+        },
+        {
+          "name": "Bodenplatte",
+          "image": "maschinenteile261108/konstruktionsteil-bodenplatte.jpg",
+          "available": 5,
+          "price": 2.5
+        },
+        {
+          "name": "Detail",
+          "image": "maschinenteile261108/konstruktionsteil-detail.jpg",
+          "available": 0
         }
       ]
     }
