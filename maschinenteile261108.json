@@ -667,6 +667,12 @@
           "image": "",
           "available": 5,
           "price": 4.5
+        },
+        {
+          "name": "Fuß 2",
+          "image": "maschinenteile261108/konstruktionsteil-fuss-2.jpg",
+          "available": 5,
+          "price": 2.5
         }
       ]
     }
