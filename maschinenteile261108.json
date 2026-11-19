@@ -630,8 +630,8 @@
       ]
     },
     {
-      "id": "kreuzstuck-t-stuck",
-      "name": "Kreuzstück T-Stück",
+      "id": "konstruktionsteil",
+      "name": "Konstruktionsteil",
       "price": 0,
       "unit": {
         "quantity": 1,
@@ -645,14 +645,14 @@
       "aliases": [],
       "variants": [
         {
-          "name": "für WellenØ 25mm",
-          "image": "maschinenteile261108/kreuzstuck-t-stuck-fur-wellen-25mm.jpg",
+          "name": "T-Stück für WellenØ 25mm",
+          "image": "maschinenteile261108/konstruktionsteil-t-stuck-fur-wellen-25mm.jpg",
           "available": 5,
           "price": 3
         },
         {
-          "name": "für Wellen-Ø 25/21mm",
-          "image": "",
+          "name": "Kreuzstück für Wellen-Ø 25/21mm",
+          "image": "maschinenteile261108/konstruktionsteil-kreuzstuck-fur-wellen-25-21mm.jpg",
           "available": 5,
           "price": 1.5
         }
