@@ -630,6 +630,29 @@
       ]
     },
     {
+      "id": "laufrolle-mit-distanzhulse-und-welle",
+      "name": "Laufrolle mit Distanzhülse und Welle",
+      "price": 0,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "06",
+      "active": true,
+      "order": 601,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Kugellager 6000-2z",
+          "image": "maschinenteile261108/laufrolle-mit-distanzhulse-und-welle-kugellager-6000-2z.jpg",
+          "available": 5,
+          "price": 4.5
+        }
+      ]
+    },
+    {
       "id": "konstruktionsteil",
       "name": "Konstruktionsteil",
       "price": 0,
@@ -683,6 +706,28 @@
         {
           "name": "Detail",
           "image": "maschinenteile261108/konstruktionsteil-detail.jpg",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "neues-produkt",
+      "name": "Neues Produkt",
+      "price": 0,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "",
+      "active": true,
+      "order": 810,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
           "available": 0
         }
       ]
