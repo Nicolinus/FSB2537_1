@@ -568,8 +568,8 @@
       ]
     },
     {
-      "id": "wellenkupplung-40mm",
-      "name": "Wellenkupplung Ø 40mm",
+      "id": "wellenkupplung-40mm-75mm",
+      "name": "Wellenkupplung Ø 40mm/75mm",
       "price": 55,
       "unit": {
         "quantity": 1,
@@ -583,14 +583,16 @@
       "aliases": [],
       "variants": [
         {
-          "name": "mit Keilnut",
+          "name": "120mm lang, mit Keilnut",
           "image": "",
-          "available": 4
+          "available": 1,
+          "price": 25
         },
         {
-          "name": "ohne Keilnut",
+          "name": "100mm lang, ohne Keilnut",
           "image": "",
-          "available": 4
+          "available": 1,
+          "price": 20
         }
       ]
     }
