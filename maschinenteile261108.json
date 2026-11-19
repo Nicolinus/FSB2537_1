@@ -661,6 +661,12 @@
           "image": "maschinenteile261108/konstruktionsteil-kreuzstuck-2.jpg",
           "available": 5,
           "price": 1.5
+        },
+        {
+          "name": "Fuß 1",
+          "image": "",
+          "available": 5,
+          "price": 4.5
         }
       ]
     }
