@@ -646,13 +646,13 @@
       "variants": [
         {
           "name": "T-Stück",
-          "image": "maschinenteile261108/kreuzstuck-t-stuck-fur-wellen-25mm.jpg",
+          "image": "maschinenteile261108/konstruktionsteil-t-stuck.jpg",
           "available": 5,
           "price": 3
         },
         {
-          "name": "Kreuzstüc",
-          "image": "maschinenteile261108/konstruktionsteil-kreuzstuc.jpg",
+          "name": "Kreuzstück 1",
+          "image": "maschinenteile261108/konstruktionsteil-kreuzstuck-1.jpg",
           "available": 5,
           "price": 1.5
         }
