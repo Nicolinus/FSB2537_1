@@ -655,6 +655,12 @@
           "image": "maschinenteile261108/konstruktionsteil-kreuzstuck-1.jpg",
           "available": 5,
           "price": 1.5
+        },
+        {
+          "name": "Kreuzstück 2",
+          "image": "maschinenteile261108/konstruktionsteil-kreuzstuck-2.jpg",
+          "available": 5,
+          "price": 1.5
         }
       ]
     }
