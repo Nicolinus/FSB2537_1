@@ -612,14 +612,13 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Länge 125mm",
-          "image": "maschinenteile261108/gelenkwelle-22mm-lange-125mm.jpg",
-          "available": 1,
-          "price": 35
+          "name": "Länge 145mm",
+          "image": "maschinenteile261108/gelenkwelle-22mm-lange-145mm.jpg",
+          "available": 0
         },
         {
-          "name": "Details",
-          "image": "",
+          "name": "Detail",
+          "image": "maschinenteile261108/gelenkwelle-22mm-detail.jpg",
           "available": 0
         }
       ]
