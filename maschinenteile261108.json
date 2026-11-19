@@ -614,7 +614,8 @@
         {
           "name": "Länge 145mm",
           "image": "maschinenteile261108/gelenkwelle-22mm-lange-145mm.jpg",
-          "available": 0
+          "available": 1,
+          "price": 35
         },
         {
           "name": "Detail",
