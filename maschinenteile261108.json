@@ -458,6 +458,28 @@
       ]
     },
     {
+      "id": "stellring-29-50mm-breit-12mm",
+      "name": "Stellring Ø 29/50mm, breit 12mm",
+      "price": 1.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "04",
+      "active": true,
+      "order": 401,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "M8 Befestigung",
+          "image": "",
+          "available": 20
+        }
+      ]
+    },
+    {
       "id": "stellring-25-40mm-breit-15mm",
       "name": "Stellring Ø 25/40mm, breit 15mm",
       "price": 1.5,
@@ -469,7 +491,7 @@
       },
       "category": "04",
       "active": true,
-      "order": 401,
+      "order": 402,
       "aliases": [],
       "variants": [
         {
@@ -491,33 +513,11 @@
       },
       "category": "04",
       "active": true,
-      "order": 402,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "2x 1/4 -20 BSW",
-          "image": "",
-          "available": 20
-        }
-      ]
-    },
-    {
-      "id": "stellring-29-50mm-breit-12mm",
-      "name": "Stellring Ø 29/50mm, breit 12mm",
-      "price": 1.5,
-      "unit": {
-        "quantity": 1,
-        "uom": "Stück",
-        "packaging": null,
-        "display": "pro Stück"
-      },
-      "category": "04",
-      "active": true,
       "order": 403,
       "aliases": [],
       "variants": [
         {
-          "name": "M8 Befestigung",
+          "name": "2x 1/4 -20 BSW",
           "image": "",
           "available": 20
         }
