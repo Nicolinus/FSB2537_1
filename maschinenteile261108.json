@@ -483,7 +483,7 @@
     {
       "id": "stellring-25-40mm-breit-15mm",
       "name": "Stellring Ø 25/40mm, breit 15mm",
-      "price": 1.5,
+      "price": 0,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -498,14 +498,15 @@
         {
           "name": "M10 Befestigung",
           "image": "",
-          "available": 30
+          "available": 30,
+          "price": 3
         }
       ]
     },
     {
       "id": "stellring-16-25-mm-breit-16-5mm",
       "name": "Stellring Ø 16/25 mm, breit 16,5mm",
-      "price": 1,
+      "price": 0,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -520,7 +521,8 @@
         {
           "name": "2x 1/4 -20 BSW",
           "image": "",
-          "available": 20
+          "available": 20,
+          "price": 2
         }
       ]
     },
