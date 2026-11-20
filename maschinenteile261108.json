@@ -475,7 +475,7 @@
         {
           "name": "M8 Befestigung",
           "image": "",
-          "available": 20,
+          "available": 5,
           "price": 3
         }
       ]
@@ -498,7 +498,7 @@
         {
           "name": "M10 Befestigung",
           "image": "",
-          "available": 30,
+          "available": 5,
           "price": 3
         }
       ]
@@ -521,7 +521,7 @@
         {
           "name": "2x 1/4 -20 BSW",
           "image": "",
-          "available": 20,
+          "available": 5,
           "price": 2
         }
       ]
@@ -544,7 +544,7 @@
         {
           "name": "M6 Befestigung",
           "image": "",
-          "available": 10
+          "available": 5
         }
       ]
     },
